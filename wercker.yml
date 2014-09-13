@@ -1,0 +1,22 @@
+box: wercker/python
+build:
+  steps:
+    - script:
+        name: bootstrap
+        code: |
+          make bootstrap
+    - script:
+        name: Publish
+        code: |
+          make publish
+
+deploy:
+  steps:
+    - add-to-known_hosts:
+        hostname: frank.eecs.qmul.ac.uk
+    - add-ssh-key:
+        keyname: SSH_KEY
+    - script:
+        name: transfer application
+        code: |
+            make deploy
