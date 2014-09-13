@@ -12,10 +12,6 @@ build:
 
 deploy:
   steps:
-    - add-to-known_hosts:
-        hostname: frank.eecs.qmul.ac.uk
-    - add-ssh-key:
-        keyname: SSH_KEY
     - script:
         name: transfer application
         code: |
