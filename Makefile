@@ -72,7 +72,7 @@ rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 github: publish
-	ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve devserver publish rsync_upload github
