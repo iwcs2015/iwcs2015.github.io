@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IWCS 2015</title><link>http://iwcs2015.github.io/</link><description></description><atom:link href="http://iwcs2015.github.io/feeds/the-chairs-of-iwcs-2015.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 13 Sep 2014 11:11:00 +0100</lastBuildDate><item><title>Announcement and call for workshop proposals</title><link>http://iwcs2015.github.io/announcement-and-call-for-workshop-proposals.html</link><description>&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
+Queen Mary University of London, UK
+14-17th April 2015 (workshops on 14th)&lt;/p&gt;
+&lt;p&gt;Proposal deadline: 10th October 2014&lt;/p&gt;
+&lt;p&gt;The International Conference for Computational Semantics (IWCS) invites proposals for one-day or half-day workshops, to be held in conjunction with the 2015 IWCS conference. IWCS 2015 will take place on 15th-17th April 2015 at Queen Mary University of London, UK. Workshops will take place on the day immediately preceding the conference: 14th April 2015.&lt;/p&gt;
+&lt;p&gt;The aim of the IWCS conference is to bring together researchers interested in any aspects of the computation, annotation, extraction, and representation of meaning in natural language, whether this is from a lexical or structural semantic perspective. IWCS embraces both symbolic and statistical approaches to computational semantics, and everything in between.&lt;/p&gt;
+&lt;div class="section" id="topics-of-interest"&gt;
+&lt;h2&gt;Topics of interest&lt;/h2&gt;
+&lt;p&gt;Topics of interest for the workshops include all those topics relevant to the main conference, including but not limited to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;representation of meaning&lt;/li&gt;
+&lt;li&gt;syntax-semantics interface&lt;/li&gt;
+&lt;li&gt;representing and resolving semantic ambiguity&lt;/li&gt;
+&lt;li&gt;shallow and deep semantic processing and reasoning&lt;/li&gt;
+&lt;li&gt;hybrid symbolic and statistical approaches to representing semantics&lt;/li&gt;
+&lt;li&gt;alternative approaches to compositional semantics&lt;/li&gt;
+&lt;li&gt;inference methods for computational semantics&lt;/li&gt;
+&lt;li&gt;recognizing textual entailment&lt;/li&gt;
+&lt;li&gt;learning by reading&lt;/li&gt;
+&lt;li&gt;methodologies and practices for semantic annotation&lt;/li&gt;
+&lt;li&gt;machine learning of semantic structures&lt;/li&gt;
+&lt;li&gt;statistical semantics&lt;/li&gt;
+&lt;li&gt;computational aspects of lexical semantics&lt;/li&gt;
+&lt;li&gt;semantics and ontologies&lt;/li&gt;
+&lt;li&gt;semantic web and natural language processing&lt;/li&gt;
+&lt;li&gt;semantic aspects of language generation&lt;/li&gt;
+&lt;li&gt;semantic relations in discourse and dialogue&lt;/li&gt;
+&lt;li&gt;semantics and pragmatics of dialogue acts&lt;/li&gt;
+&lt;li&gt;multimodal and grounded approaches to computing meaning&lt;/li&gt;
+&lt;li&gt;semantics-pragmatics interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="submission-information"&gt;
+&lt;h2&gt;Submission information&lt;/h2&gt;
+&lt;p&gt;Proposals for workshops should contain:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A title and brief (2-page max) description of the workshop topic and content.&lt;/li&gt;
+&lt;li&gt;An estimate of the audience size&lt;/li&gt;
+&lt;li&gt;The names, postal addresses, and email addresses of the organizers, with one-paragraph statements of their research interests and areas of expertise.&lt;/li&gt;
+&lt;li&gt;A list of potential members of the program committee, with an indication of which members have already agreed.&lt;/li&gt;
+&lt;li&gt;A description of special requirements for technical needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proposals should be submitted by email to&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a class="reference external" href="mailto:iwcs2015&amp;#64;gmail.com"&gt;iwcs2015&amp;#64;gmail.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;as soon as possible, but no later than 10th October 2014.&lt;/p&gt;
+&lt;p&gt;Notification of acceptance of workshop proposals will occur no later than 17th October 2014.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="after-acceptance"&gt;
+&lt;h2&gt;After acceptance&lt;/h2&gt;
+&lt;p&gt;Organizers of accepted workshops must provide descriptions of their workshops, for inclusion in the conference registration material, by 1st December 2014. The description must be provided in two formats: an ASCII version that can be included with the email announcement, and an HTML version that can be included on the conference home page. These descriptions should be mailed to: &lt;a class="reference external" href="mailto:iwcs2015&amp;#64;gmail.com"&gt;iwcs2015&amp;#64;gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The final workshop materials must be received by the IWCS organizers by 1st March 2015. This includes the detailed proceedings (camera-ready versions of papers), which will be made available electronically, as well as a short workshop program, which will be printed together with the main conference program.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="finances"&gt;
+&lt;h2&gt;Finances&lt;/h2&gt;
+&lt;p&gt;Workshops must be financially self-supporting. The conference organizers will establish registration rates so as to provide the room, audio-visual equipment, internet access, snacks for breaks, and the workshop proceedings.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="important-dates"&gt;
+&lt;h2&gt;Important dates&lt;/h2&gt;
+&lt;p&gt;10th October 2014    Workshop proposal submissions due
+17th October 2014    Workshop proposal notification of acceptance
+1st December 2014    Workshop description mailed to IWCS organizers
+1st March 2015       Workshop material due to IWCS organizers
+14th April 2015      Workshop date&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The chairs of IWCS 2015</dc:creator><pubDate>Sat, 13 Sep 2014 11:11:00 +0100</pubDate><guid>tag:iwcs2015.github.io,2014-09-13:announcement-and-call-for-workshop-proposals.html</guid></item></channel></rss>
