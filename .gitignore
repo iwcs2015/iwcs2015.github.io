@@ -38,6 +38,7 @@ nosetests.xml
 
 .env/
 output/
+cache/
 
 pelican.pid
 srv.pid
