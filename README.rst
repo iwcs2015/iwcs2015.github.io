@@ -75,8 +75,8 @@ You article will be reviewed by other contributors. You might be given
 suggestions on how the article can be improved. Once the suggestions are
 implemented the article is be published!
 
-.. _Create a file: https://github.com/qmcs/qmcs.github.io/new/pelican/content/articles
-.. _articles: https://github.com/qmcs/qmcs.github.io/tree/pelican/content/articles
+.. _Create a file: https://github.com/iwcs2015/iwcs2015.github.io/new/pelican/content/articles
+.. _articles: https://github.com/iwcs2015/iwcs2015.github.io/tree/pelican/content/articles
 .. _reStructuredText quick reference: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _pull request: https://help.github.com/articles/creating-a-pull-request
 
@@ -84,7 +84,7 @@ Using git
 ---------
 
 First of all, `set up an ssh key <https://help.github.com/articles/generating-ssh-keys>`_,
-and `fork <https://help.github.com/articles/fork-a-repo>`_ the `original repo <https://github.com/qmcs/qmcs.github.io/>`_.
+and `fork <https://help.github.com/articles/fork-a-repo>`_ the `original repo <https://github.com/iwcs2015/iwcs2015.github.io/>`_.
 You also need to `configure git <https://help.github.com/articles/set- up-git>`_.
 If you didn't use git before, check out `Github tutorial <http://try.github.io>`_,
 a `tutorial provided by Software Carpentry <http://apawlik.github.io/2014-02-03-TGAC/lessons/tgac/version-control/tutorial.html>`_
@@ -95,7 +95,7 @@ or `Github guides <https://guides.github.com>`_ to get a general idea.
 
 .. code-block:: bash
 
-    git clone git@github.com:username/qmcs.github.io
+    git clone git@github.com:username/iwcs2015.github.io
     cd iwcs2015.github.io
 
 2. Write an article!
@@ -188,7 +188,7 @@ able to push to your own fork:
 
 1. Fork ``pelicanium`` and ``pelican_extended_authors`` in github web interface.
    Refer to the ``[sources]`` section of ``buildout.cfg`` to see what projects
-   you should fork. Such projects are located under ``https://github.com/qmcs/``.
+   you should fork. Such projects are located under ``https://github.com/iwcs2015/``.
 
 2. Create ``.mr.developer-options.cfg`` with the following content:
 
