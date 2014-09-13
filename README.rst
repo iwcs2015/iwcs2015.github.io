@@ -1,4 +1,4 @@
-IWCS 2014 website
+IWCS 2015 website
 =================
 
 Writing an article
@@ -63,7 +63,7 @@ To add an article using the web based interface follow these steps:
 
 7. Now you are ready to create a `pull request`_!
 
-   a) Go to ``https://github.com/YOUR_USERNAME/icw2014.github.io/``.
+   a) Go to ``https://github.com/YOUR_USERNAME/iwcs2015.github.io/``.
 
    b) Click on *create pull request*.
 
@@ -96,7 +96,7 @@ or `Github guides <https://guides.github.com>`_ to get a general idea.
 .. code-block:: bash
 
     git clone git@github.com:username/qmcs.github.io
-    cd icw2014.github.io
+    cd iwcs2015.github.io
 
 2. Write an article!
 
@@ -182,7 +182,7 @@ projects we depend on:
     └── pelicanium  # The theme we use.
 
 Note that, by default ``pelicanium`` and ``pelican_extended_authors`` are clones
-of https://github.com/icw2014, but if you want to make changes to these projects
+of https://github.com/iwcs2015, but if you want to make changes to these projects
 you need to use your own fork! These are the steps you need to perform, to be
 able to push to your own fork:
 
@@ -195,9 +195,9 @@ able to push to your own fork:
 .. code-block:: ini
 
     [rewrites]
-    # Use your own forks instead of the upstream repos for the ``icw2014``projects.
-    icw2014 =
-        url ~ ^https://github.com/icw2014/
+    # Use your own forks instead of the upstream repos for the ``iwcs2015``projects.
+    iwcs2015 =
+        url ~ ^https://github.com/iwcs2015/
         git@github.com:YOUR_USERNAME/
         kind = git
 
@@ -225,7 +225,7 @@ change remote urls by yourself, for example:
 .. code-block:: bash
 
     cd src/pelicanium
-    git remote set-url origin git@github.com:YOUR_USERNAME/icw2014.github.io
+    git remote set-url origin git@github.com:YOUR_USERNAME/iwcs2015.github.io
 
 Update dependencies
 ~~~~~~~~~~~~~~~~~~~
@@ -242,7 +242,7 @@ another remote:
 
 .. code-block:: bash
 
-    git remote add upstream git@github.com:icw2014/icw2014.github.io
+    git remote add upstream git@github.com:iwcs2015/iwcs2015.github.io
 
 Now you can merge with the recent ``pelican`` branch:
 
@@ -264,7 +264,7 @@ Updating the web site
 
 In case you are lucky and have write access to the main repo you can upload the
 generated HTML version of the site, however you need to clone
-``git@github.com:icw2014/icw2014.github.io``.
+``git@github.com:iwcs2015/iwcs2015.github.io``.
 
 To upload the HTML just run::
 
