@@ -15,6 +15,8 @@ The International Conference for Computational Semantics (IWCS) invites proposal
 
 The aim of the IWCS conference is to bring together researchers interested in any aspects of the computation, annotation, extraction, and representation of meaning in natural language, whether this is from a lexical or structural semantic perspective. IWCS embraces both symbolic and statistical approaches to computational semantics, and everything in between.
 
+.. contents::
+
 Topics of interest
 ==================
 
@@ -76,8 +78,8 @@ Workshops must be financially self-supporting. The conference organizers will es
 Important dates
 ===============
 
-:10th October 2014: Workshop proposal submissions due
-:17th October 2014: Workshop proposal notification of acceptance
-:1st December 2014: Workshop description mailed to IWCS organizers
-:1st March 2015: Workshop material due to IWCS organizers
-:14th April 2015: Workshop date
+* **10th October 2014** Workshop proposal submissions due
+* **17th October 2014** Workshop proposal notification of acceptance
+* **1st December 2014** Workshop description mailed to IWCS organizers
+* **1st March 201** Workshop material due to IWCS organizers
+* **14th April 2015** Workshop date

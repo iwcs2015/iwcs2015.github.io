@@ -12,10 +12,26 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
+THEME = 'src/conferencium/'
+
+PLUGIN_PATHS = ('src/pelican-plugins', )
+PLUGINS = (
+    'extract_toc',
+)
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+
+# Menu
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    # ('Blog', 'archives.html'),
+    # ('People', 'authors.html'),
+)
+
 
 # Blogroll
 LINKS = (
