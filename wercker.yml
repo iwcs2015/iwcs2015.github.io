@@ -12,6 +12,8 @@ build:
 
 deploy:
   steps:
+    - add-ssh-key:
+        keyname: SSH_KEY
     - script:
         name: transfer application
         code: |
