@@ -80,11 +80,14 @@ publish:
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
-deploy: publish
+ghp: publish
 	bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+
+deploy: ghp
 ifdef GIT_REMOTE
 	git push -f $(GIT_REMOTE) origin $(GITHUB_PAGES_BRANCH)
 else
-  git push origin $(GITHUB_PAGES_BRANCH)
+	git push origin $(GITHUB_PAGES_BRANCH)
+endif
 
 .PHONY: html help clean regenerate serve devserver publish rsync_upload github

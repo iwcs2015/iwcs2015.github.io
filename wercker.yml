@@ -15,4 +15,4 @@ deploy:
     - script:
         name: transfer application
         code: |
-            make deploy
+            make deploy GIT_REMOTE=${GIT_REMOTE}
