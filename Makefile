@@ -83,6 +83,5 @@ rsync_upload: publish
 deploy: publish
 	bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
-endif
 
 .PHONY: html help clean regenerate serve devserver publish rsync_upload github
