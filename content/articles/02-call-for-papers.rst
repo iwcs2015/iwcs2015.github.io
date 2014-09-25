@@ -4,7 +4,7 @@ Call for Papers
 
 :date: 2014-09-24 18:00
 :tags: call
-:category: Calls
+:category: Call for Papers
 :author: Matthew Purver
 
 11th International Conference on Computational Semantics (IWCS)
