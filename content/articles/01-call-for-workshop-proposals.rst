@@ -3,7 +3,7 @@ Announcement and call for workshop proposals
 ============================================
 
 :date: 2014-09-13 11:11
-:category: announcements
+:category: Calls
 
 11th International Conference on Computational Semantics (IWCS)
 Queen Mary University of London, UK
