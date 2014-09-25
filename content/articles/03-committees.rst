@@ -21,6 +21,23 @@ Matthew Stone
  Rutgers University
 
 
+Local Organisation
+==================
+
+Local Chairs
+------------
+
+Matthew Purver
+
+Mehrnoosh Sadrzadeh
+
+
+Website
+-------
+
+Dmitrijs Milajevs
+
+
 Programme Committee
 ===================
 
