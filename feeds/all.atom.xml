@@ -5,9 +5,9 @@ Queen Mary University of London, UK
 &lt;p&gt;&lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Paper submission deadline: 16th December, 2014&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The aim of the IWCS conference is to bring together researchers interested in the computation, annotation, extraction, and representation of meaning in natural language, whether from a lexical or structural semantic perspective. IWCS embraces both symbolic and statistical approaches to computational semantics, and everything in between.&lt;/p&gt;
-&lt;p&gt;-- PELICAN_END_SUMMARY --&lt;/p&gt;
+
 &lt;div class="section" id="topics-of-interest"&gt;
-&lt;h2&gt;Topics of interest&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Topics of interest&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The areas of interest for the conference include all computational aspects of meaning of natural language within written, spoken, or multimodal communication. Papers are invited on topics in these and closely related areas, including the following:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;representation of meaning&lt;/li&gt;
@@ -33,7 +33,7 @@ Queen Mary University of London, UK
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="submission-requirements"&gt;
-&lt;h2&gt;Submission Requirements&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Submission Requirements&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Two types of submission are solicited: long papers and short papers.
 Both types of papers should be submitted not later than 16th December, 2014.&lt;/p&gt;
 &lt;p&gt;Long papers should describe original research and must not exceed 10 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a full oral presentation at the conference.&lt;/p&gt;
@@ -43,14 +43,24 @@ Both types of papers should be submitted not later than 16th December, 2014.&lt;
 &lt;a class="reference external" href="http://sigsem.org/iwcs2015/"&gt;http://sigsem.org/iwcs2015/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="program-chairs"&gt;
-&lt;h2&gt;Program Chairs&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Program Chairs&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Matthew Purver, Queen Mary University of London
 Mehrnoosh Sadrzadeh, Queen Mary University of London
 Matthew Stone, Rutgers University&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="program-committee"&gt;
-&lt;h2&gt;Program Committee&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Program Committee&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;TBD&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="important-dates"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Important dates&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;16 December 2014&lt;/strong&gt;  Paper submissions due (long and short)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;02 February 2015&lt;/strong&gt;  Notification of acceptance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;25 February 2015&lt;/strong&gt;  Final camera-ready papers due&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;14 April 2015&lt;/strong&gt;     IWCS workshops&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;15-17 April 2015&lt;/strong&gt;  Main IWCS conference&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 </summary><category term="call"></category></entry><entry><title>Announcement and call for workshop proposals</title><link href="http://iwcs2015.github.io/announcement-and-call-for-workshop-proposals.html" rel="alternate"></link><updated>2014-09-13T11:11:00+01:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2014-09-13:announcement-and-call-for-workshop-proposals.html</id><summary type="html">&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
 Queen Mary University of London, UK
