@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/matthew-purver.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-09-24T18:00:00+01:00</updated><entry><title>Call for Papers</title><link href="http://iwcs2015.github.io/call-for-papers.html" rel="alternate"></link><updated>2014-09-24T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-24:call-for-papers.html</id><summary type="html">&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="/" rel="alternate"></link><link href="/feeds/matthew-purver.atom.xml" rel="self"></link><id>/</id><updated>2014-09-24T18:00:00+01:00</updated><entry><title>Call for Papers</title><link href="/call-for-papers.html" rel="alternate"></link><updated>2014-09-24T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:,2014-09-24:call-for-papers.html</id><summary type="html">&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
 Queen Mary University of London, UK
 14-17th April, 2015&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;&lt;/p&gt;
@@ -62,31 +62,4 @@ Matthew Stone, Rutgers University&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;15-17 April 2015&lt;/strong&gt;  Main IWCS conference&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="call"></category></entry><entry><title>Organisation</title><link href="http://iwcs2015.github.io/organisation.html" rel="alternate"></link><updated>2014-09-01T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-01:organisation.html</id><summary type="html">&lt;div class="section" id="conference-chairs"&gt;
-&lt;h2&gt;Conference Chairs&lt;/h2&gt;
-&lt;dl class="docutils"&gt;
-&lt;dt&gt;Matthew Purver&lt;/dt&gt;
-&lt;dd&gt;Queen Mary University of London&lt;/dd&gt;
-&lt;dt&gt;Mehrnoosh Sadrzadeh&lt;/dt&gt;
-&lt;dd&gt;Queen Mary University of London&lt;/dd&gt;
-&lt;dt&gt;Matthew Stone&lt;/dt&gt;
-&lt;dd&gt;Rutgers University&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/div&gt;
-&lt;div class="section" id="local-organisation"&gt;
-&lt;h2&gt;Local Organisation&lt;/h2&gt;
-&lt;div class="section" id="local-chairs"&gt;
-&lt;h3&gt;Local Chairs&lt;/h3&gt;
-&lt;p&gt;Matthew Purver&lt;/p&gt;
-&lt;p&gt;Mehrnoosh Sadrzadeh&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="website"&gt;
-&lt;h3&gt;Website&lt;/h3&gt;
-&lt;p&gt;Dmitrijs Milajevs&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="programme-committee"&gt;
-&lt;h2&gt;Programme Committee&lt;/h2&gt;
-&lt;p&gt;TBA&lt;/p&gt;
-&lt;/div&gt;
-</summary><category term="organisation"></category></entry></feed>
+</summary><category term="call"></category></entry></feed>
