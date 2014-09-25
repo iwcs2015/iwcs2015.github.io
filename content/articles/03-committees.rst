@@ -2,7 +2,7 @@
 Organisation
 ============
 
-:date: 2014-09-25 18:00
+:date: 2014-09-01 18:00
 :tags: organisation
 :category: Organisation
 :author: Matthew Purver
