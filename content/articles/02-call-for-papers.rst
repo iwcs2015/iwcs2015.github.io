@@ -4,7 +4,7 @@ Call for Papers
 
 :date: 2014-09-24 18:00
 :tags: call
-:category: blog
+:category: announcements
 :author: Matthew Purver
 
 11th International Conference on Computational Semantics (IWCS)
@@ -17,7 +17,7 @@ http://sigsem.org/iwcs2015
 
 The aim of the IWCS conference is to bring together researchers interested in the computation, annotation, extraction, and representation of meaning in natural language, whether from a lexical or structural semantic perspective. IWCS embraces both symbolic and statistical approaches to computational semantics, and everything in between.
 
--- PELICAN_END_SUMMARY --
+.. contents::
 
 Topics of interest
 ==================
@@ -72,3 +72,13 @@ Program Committee
 =================
 
 TBD
+
+
+Important dates
+===============
+
+* **16 December 2014**  Paper submissions due (long and short)
+* **02 February 2015**  Notification of acceptance
+* **25 February 2015**  Final camera-ready papers due
+* **14 April 2015**     IWCS workshops
+* **15-17 April 2015**  Main IWCS conference
