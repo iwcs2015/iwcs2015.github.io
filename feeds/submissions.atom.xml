@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/submissions.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-09-01T19:00:00+01:00</updated><entry><title>Instructions for Authors</title><link href="http://iwcs2015.github.io/instructions-for-authors.html" rel="alternate"></link><updated>2014-09-01T19:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-01:instructions-for-authors.html</id><summary type="html">&lt;div class="section" id="formatting-instructions"&gt;
+&lt;h2&gt;Formatting Instructions&lt;/h2&gt;
+&lt;p&gt;Papers should be formatted with a font size of 11pt, with times as font, typeset in one column, and with margins of 25mm all around. Papers should be submitted in PDF A4 paper format using the START electronic submission web page at &lt;a class="reference external" href="https://www.softconf.com/iwcs2015/main"&gt;https://www.softconf.com/iwcs2015/main&lt;/a&gt;. &lt;strong&gt;Note that submissions must be anonymous.&lt;/strong&gt; Long paper submissions should not exceed 10 pages plus an additional page for references. Short paper submissions should not exceed 5 pages plus an additional page for references. The first page should include an abstract of c. 10 lines. Authors are strongly encouraged to prepare their submission using LaTeX.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="latex-submissions"&gt;
+&lt;h2&gt;LaTeX Submissions&lt;/h2&gt;
+&lt;p&gt;Users of LaTeX should use documentclass &lt;tt class="docutils literal"&gt;article&lt;/tt&gt; with the options &lt;tt class="docutils literal"&gt;a4paper&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;11pt&lt;/tt&gt;, using the packages &lt;tt class="docutils literal"&gt;times&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;geometry&lt;/tt&gt; to set font and margins. For citations please use the &lt;tt class="docutils literal"&gt;natbib&lt;/tt&gt; package with &lt;tt class="docutils literal"&gt;chicago.bst&lt;/tt&gt; as bibliography style. See below for an example LaTeX file:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;\documentclass&lt;/span&gt;&lt;span class="na"&gt;[a4paper,11pt]&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;article&lt;span class="nb"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;\usepackage&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;graphicx&lt;span class="nb"&gt;}&lt;/span&gt;  &lt;span class="c"&gt;%%% for including graphics&lt;/span&gt;
+&lt;span class="k"&gt;\usepackage&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;url&lt;span class="nb"&gt;}&lt;/span&gt;       &lt;span class="c"&gt;%%% for including URLs&lt;/span&gt;
+&lt;span class="k"&gt;\usepackage&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;times&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\usepackage&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;natbib&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\usepackage&lt;/span&gt;&lt;span class="na"&gt;[margin=25mm]&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;geometry&lt;span class="nb"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;\title&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;Example Paper for IWCS&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\date&lt;/span&gt;&lt;span class="nb"&gt;{}&lt;/span&gt;
+
+&lt;span class="k"&gt;\author&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;Example Author&lt;span class="k"&gt;\\&lt;/span&gt;
+       Affiliation&lt;span class="k"&gt;\\&lt;/span&gt;
+       &lt;span class="k"&gt;\texttt&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;example@email.org&lt;span class="nb"&gt;}&lt;/span&gt;
+  &lt;span class="k"&gt;\and&lt;/span&gt; Someone Else&lt;span class="k"&gt;\\&lt;/span&gt;
+       Another Affiliation&lt;span class="k"&gt;\\&lt;/span&gt;
+       &lt;span class="k"&gt;\texttt&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;another@email.org&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="nb"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;\begin&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;document&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\maketitle&lt;/span&gt;
+&lt;span class="k"&gt;\thispagestyle&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;empty&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\pagestyle&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;empty&lt;span class="nb"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;\section&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;Introduction&lt;span class="nb"&gt;}&lt;/span&gt;
+
+....
+
+&lt;span class="k"&gt;\bibliographystyle&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;chicago&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;\bibliography&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;mybib&lt;span class="nb"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;document&lt;span class="nb"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="instructions"></category></entry></feed>
