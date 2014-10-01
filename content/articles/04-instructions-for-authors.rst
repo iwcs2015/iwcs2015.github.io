@@ -16,7 +16,9 @@ Papers should be formatted with a font size of 11pt, with times as font, typeset
 LaTeX Submissions
 =================
 
-Users of LaTeX should use documentclass ``article`` with the options ``a4paper`` and ``11pt``, using the packages ``times`` and ``geometry`` to set font and margins. For citations please use the ``natbib`` package with ``chicago.bst`` as bibliography style. See below for an example LaTeX file::
+Users of LaTeX should use documentclass ``article`` with the options ``a4paper`` and ``11pt``, using the packages ``times`` and ``geometry`` to set font and margins. For citations please use the ``natbib`` package with ``chicago.bst`` as bibliography style. See below for an example LaTeX file:
+
+.. code-block:: latex
 
  \documentclass[a4paper,11pt]{article}
 
@@ -30,11 +32,11 @@ Users of LaTeX should use documentclass ``article`` with the options ``a4paper``
  \date{}
 
  \author{Example Author\\
-        Affiliation\\ 
-        \texttt{example@email.org} 
+        Affiliation\\
+        \texttt{example@email.org}
    \and Someone Else\\
-        Another Affiliation\\ 
-        \texttt{another@email.org} 
+        Another Affiliation\\
+        \texttt{another@email.org}
  }
 
  \begin{document}
