@@ -1,8 +1,34 @@
-.cover {
-    text-align: center;
-    /*text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);*/
-}
-
 a.uk-active {
     font-weight: 700;
+}
+
+div.front-page {
+    position: relative;
+    top: -25px;
+    padding: 5px;
+}
+
+div.front-page h1 {
+    text-align: right;
+}
+
+div.front-page p {
+    text-align: right;
+    float: right;
+    max-width: 70%;
+}
+
+#cover{
+     height: 333px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+
+#cover > div {
+    background: rgba(245, 245, 245, 0.7);
+}
+
+#cover h1, #cover p {
+    text-align: center;
 }
