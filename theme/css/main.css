@@ -19,16 +19,21 @@ div.front-page p {
 }
 
 #cover{
-     height: 333px;
+    height: 190px;
     background-size: cover;
     background-position: center;
     background-repeat: none;
 }
 
-#cover > div {
-    background: rgba(245, 245, 245, 0.7);
+#cover h1{
+    text-align: center;
+    color: #eee;
+    text-shadow: 0px 0px 5px #000;
 }
 
-#cover h1, #cover p {
+
+ #cover a {
     text-align: center;
+    color: #999;
+    text-shadow: 0px 0px 3px #000, 0px 0px 10px transparent
 }
