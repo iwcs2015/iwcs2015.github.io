@@ -45,3 +45,5 @@ srv.pid
 
 src/
 .DS_Store
+
+*~
