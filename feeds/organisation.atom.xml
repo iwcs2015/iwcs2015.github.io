@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/organisation.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-09-01T18:00:00+01:00</updated><entry><title>Organisation</title><link href="http://iwcs2015.github.io/organisation.html" rel="alternate"></link><updated>2014-09-01T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-01:organisation.html</id><summary type="html">&lt;div class="section" id="conference-chairs"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/organisation.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-09-13T11:11:00+01:00</updated><entry><title>Welcome</title><link href="http://iwcs2015.github.io/welcome.html" rel="alternate"></link><updated>2015-09-13T11:11:00+01:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-09-13:welcome.html</id><summary type="html">&lt;p&gt;The 11th International Conference on Computational Semantics
+(IWCS 2015) will be held at &lt;a class="reference external" href="http://www.qmul.ac.uk"&gt;Queen Mary University of London&lt;/a&gt;, UK on
+14-17th April 2015. IWCS is the bi-yearly meeting of &lt;a class="reference external" href="http://sigsem.org"&gt;SIGSEM&lt;/a&gt;, the &lt;a class="reference external" href="http://aclweb.org"&gt;ACL&lt;/a&gt;
+special interest group on semantics.&lt;/p&gt;
+&lt;div class="section" id="news-and-updates"&gt;
+&lt;h2&gt;News and Updates&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;01-Nov-2014: &lt;a class="reference external" href="/workshops-at-iwcs-2015.html"&gt;Accepted Workshops posted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;24-Sep-2014: &lt;a class="reference external" href="/call-for-papers.html"&gt;Call for Papers available&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13-Sep-2014: &lt;a class="reference external" href="/announcement-and-call-for-workshop-proposals.html"&gt;Call for Workshops available&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Organisation</title><link href="http://iwcs2015.github.io/organisation.html" rel="alternate"></link><updated>2014-09-01T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-01:organisation.html</id><summary type="html">&lt;div class="section" id="conference-chairs"&gt;
 &lt;h2&gt;Conference Chairs&lt;/h2&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Matthew Purver&lt;/dt&gt;
