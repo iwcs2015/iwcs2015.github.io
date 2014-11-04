@@ -6,9 +6,13 @@ Welcome
 :category: organisation
 
 The 11th International Conference on Computational Semantics
-(IWCS 2015) will be held at Queen Mary University of London, UK on
-14-17th April 2015. IWCS is the bi-yearly meeting of SIGSEM, the ACL
+(IWCS 2015) will be held at `Queen Mary University of London`_, UK on
+14-17th April 2015. IWCS is the bi-yearly meeting of SIGSEM_, the ACL_
 special interest group on semantics.
+
+.. _`Queen Mary University of London`: http://www.qmul.ac.uk
+.. _ACL: http://aclweb.org
+.. _SIGSEM: http://sigsem.org
 
 News and Updates
 ================
