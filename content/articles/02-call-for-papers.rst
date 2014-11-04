@@ -6,6 +6,7 @@ Call for Papers
 :tags: call
 :category: Call for Papers
 :author: Matthew Purver
+:news_headline: Call for Papers available
 
 11th International Conference on Computational Semantics (IWCS)
 Queen Mary University of London, UK

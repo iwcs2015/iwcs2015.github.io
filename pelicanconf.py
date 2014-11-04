@@ -25,11 +25,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Menu
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    # ('Blog', 'archives.html'),
-    # ('People', 'authors.html'),
+    ('Call for papers', 'call-for-papers.html'),
+    ('Workshops', 'workshops-at-iwcs-2015.html'),
+    ('Submissions', 'pages/instructions-for-authors.html'),
+    ('Organisation', 'pages/organisation.html'),
 )
 
 

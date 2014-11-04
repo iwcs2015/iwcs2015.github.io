@@ -7,6 +7,9 @@ Instructions for Authors
 :category: Submissions
 :author: Matthew Purver
 
+..
+
+.. contents::
 
 Formatting Instructions
 =======================
