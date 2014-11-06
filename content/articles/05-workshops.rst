@@ -13,9 +13,8 @@ IWCS 2015 will include 5 associated workshops, held on 14th April 2015.
 ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation
 ============================================================================
 
-Organisers: Harry Bunt, Nancy Ide, Kiyong Lee, James Pustejovsky, Laurent Romary
-
-Website: http://sigsem.uvt.nl/isa11/
+:Organisers: Harry Bunt, Nancy Ide, Kiyong Lee, James Pustejovsky, Laurent Romary
+:Website: http://sigsem.uvt.nl/isa11/
 
 ISA-11 is the eleventh edition of a series of joint workshops of the
 ACL Special Interest Group in Semantics (SIGSEM) and the International
@@ -33,9 +32,8 @@ resources.
 MOMA: Models for Modality Annotation
 ====================================
 
-Organisers: Malvina Nissim, Paola Pietandrea
-
-Website: http://malvinanissim.github.io/moma2015/
+:Organisers: Malvina Nissim, Paola Pietandrea
+:Website: http://malvinanissim.github.io/moma2015/
 
 The notion of modality involves a spectrum of phenomena that are
 pervasive in language but far from being formalised. For an exhaustive
@@ -55,9 +53,8 @@ in the annotation of modality.
 Language and Ontologies
 =======================
 
-Organisers: Roman Kutlák, Artemis Parvizi, Christina Unger
-
-Website: http://langandonto.github.io/
+:Organisers: Roman Kutlák, Artemis Parvizi, Christina Unger
+:Website: http://langandonto.github.io/
 
 With the growing importance of Semantic Web technologies, formal
 ontologies are increasingly used by people with limited or no
@@ -69,7 +66,7 @@ in these topics is witnessed by recent projects such as NeOn
 Enhancement via the GOLD Ontology), SWAT (Semantic Web Authoring
 Tool), PESCaDO (Personalized Environmental Service Configuration and
 Delivery Orchestration), CO-ODE, and WhatIf (What if... questions for
-Ontology Authoring). 
+Ontology Authoring).
 
 This workshop aims to create a forum for the many ways in which
 research on ontologies and research in computational linguistics
@@ -83,7 +80,7 @@ and share methods, tools and resources.
 IMC: Modelling Interactive Meaning Construction in Dialogue
 ===========================================================
 
-Organisers: Ruth Kempson, Robin Cooper, Matthew Purver
+:Organisers: Ruth Kempson, Robin Cooper, Matthew Purver
 
 Despite being the mainstay of our language experience, the data of
 conversational dialogue pose very considerable challenges for semantic
@@ -105,7 +102,8 @@ for computational modelling.
 ADS: Advances in Distributional Semantics
 =========================================
 
-Organisers: Eva Maria Vecchi, Mehrnoosh Sadrzadeh
+:Organisers: Eva Maria Vecchi, Mehrnoosh Sadrzadeh
+:Website: https://sites.google.com/site/iwcs2015ads/
 
 Distributional semantics is based on the idea that words that often
 occur in the same context have similar meanings; this idea is
