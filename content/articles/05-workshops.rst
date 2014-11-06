@@ -8,10 +8,10 @@ Workshops at IWCS 2015
 
 IWCS 2015 will include 5 associated workshops, held on 14th April 2015.
 
-.. contents::
+`ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation`__
+================================================================================
 
-ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation
-============================================================================
+__ http://sigsem.uvt.nl/isa11/
 
 :Organisers: Harry Bunt, Nancy Ide, Kiyong Lee, James Pustejovsky, Laurent Romary
 :Website: http://sigsem.uvt.nl/isa11/
@@ -29,8 +29,10 @@ standards in order to support the creation of interoperable semantic
 resources.
 
 
-MOMA: Models for Modality Annotation
-====================================
+`MOMA: Models for Modality Annotation`__
+========================================
+
+__ http://malvinanissim.github.io/moma2015/
 
 :Organisers: Malvina Nissim, Paola Pietandrea
 :Website: http://malvinanissim.github.io/moma2015/
@@ -50,8 +52,10 @@ in the annotation of modality.
 
 
 
-Language and Ontologies
-=======================
+`Language and Ontologies`__
+============================
+
+__ http://langandonto.github.io/
 
 :Organisers: Roman Kutlák, Artemis Parvizi, Christina Unger
 :Website: http://langandonto.github.io/
@@ -99,8 +103,10 @@ significance of this ongoing work both for approaches to semantics and
 for computational modelling.
 
 
-ADS: Advances in Distributional Semantics
-=========================================
+`ADS: Advances in Distributional Semantics`__
+=============================================
+
+__ https://sites.google.com/site/iwcs2015ads/
 
 :Organisers: Eva Maria Vecchi, Mehrnoosh Sadrzadeh
 :Website: https://sites.google.com/site/iwcs2015ads/
