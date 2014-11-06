@@ -32,8 +32,16 @@ div.front-page p {
 }
 
 
- #cover a {
+#cover a {
     text-align: center;
     color: #999;
     text-shadow: 0px 0px 3px #000, 0px 0px 10px transparent
+}
+
+table {
+    border: none !important;
+}
+
+table td, table.table th {
+    border: none !important;
 }
