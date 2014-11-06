@@ -42,10 +42,14 @@ pervasive in language but far from being formalised. For an exhaustive
 formalisation, a joint effort by computational, corpus, and formal
 linguists as well as language typologists is required. The main aim of
 this workshop is bringing together researchers from such fields,
-towards the development of shared, stable annotation standards. We
-believe IWCS would be an excellent venue for locating this kind of
-workshop, as it has a strong tradition of bringing together linguistic
-theory and implementation.
+towards the development of shared, stable annotation standards.
+
+Beside the contribution of peer-reviewed research papers, we envisage
+a truly hands-on event as part of this workshop, where we would like
+to encourage participants to possibly try each other's annotation
+tools and schemes, and set up a roadmap for reaching shared standards
+in the annotation of modality.
+
 
 
 Language and Ontologies
@@ -66,6 +70,7 @@ Enhancement via the GOLD Ontology), SWAT (Semantic Web Authoring
 Tool), PESCaDO (Personalized Environmental Service Configuration and
 Delivery Orchestration), CO-ODE, and WhatIf (What if... questions for
 Ontology Authoring). 
+
 This workshop aims to create a forum for the many ways in which
 research on ontologies and research in computational linguistics
 relate to each other. It aims at bringing together researchers from
