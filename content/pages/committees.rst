@@ -11,9 +11,9 @@ Organisation
 Conference Chairs
 =================
 
-* **Matthew Purver**       Queen Mary University of London
-* **Mehrnoosh Sadrzadeh**  Queen Mary University of London
-* **Matthew Stone**        Rutgers University
+* **Matthew Purver**       `Queen Mary University of London`
+* **Mehrnoosh Sadrzadeh**  `Queen Mary University of London`
+* **Matthew Stone**        `Rutgers University`
 
 Local Organisation
 ==================
