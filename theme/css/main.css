@@ -45,3 +45,7 @@ table {
 table td, table.table th {
     border: none !important;
 }
+
+th.field-name {
+    text-align: left;
+}

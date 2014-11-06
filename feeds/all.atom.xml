@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-11-01T11:27:00+00:00</updated><entry><title>Workshops at IWCS 2015</title><link href="http://iwcs2015.github.io/workshops-at-iwcs-2015.html" rel="alternate"></link><updated>2014-11-01T11:27:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2014-11-01:workshops-at-iwcs-2015.html</id><summary type="html">&lt;p&gt;IWCS 2015 will include 5 associated workshops, held on 14th April 2015.&lt;/p&gt;
-
 &lt;div class="section" id="isa-11-the-11th-joint-acl-iso-workshop-on-interoperable-semantic-annotation"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Organisers: Harry Bunt, Nancy Ide, Kiyong Lee, James Pustejovsky, Laurent Romary&lt;/p&gt;
-&lt;p&gt;Website: &lt;a class="reference external" href="http://sigsem.uvt.nl/isa11/"&gt;http://sigsem.uvt.nl/isa11/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://sigsem.uvt.nl/isa11/"&gt;ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation&lt;/a&gt;&lt;/h2&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Organisers:&lt;/th&gt;&lt;td class="field-body"&gt;Harry Bunt, Nancy Ide, Kiyong Lee, James Pustejovsky, Laurent Romary&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Website:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;a class="reference external" href="http://sigsem.uvt.nl/isa11/"&gt;http://sigsem.uvt.nl/isa11/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;ISA-11 is the eleventh edition of a series of joint workshops of the
 ACL Special Interest Group in Semantics (SIGSEM) and the International
 Organization of Standards ISO. ISA-workshops bring together experts in
@@ -18,9 +25,17 @@ standards in order to support the creation of interoperable semantic
 resources.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="moma-models-for-modality-annotation"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;MOMA: Models for Modality Annotation&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Organisers: Malvina Nissim, Paola Pietandrea&lt;/p&gt;
-&lt;p&gt;Website: &lt;a class="reference external" href="http://malvinanissim.github.io/moma2015/"&gt;http://malvinanissim.github.io/moma2015/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://malvinanissim.github.io/moma2015/"&gt;MOMA: Models for Modality Annotation&lt;/a&gt;&lt;/h2&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Organisers:&lt;/th&gt;&lt;td class="field-body"&gt;Malvina Nissim, Paola Pietandrea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Website:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;a class="reference external" href="http://malvinanissim.github.io/moma2015/"&gt;http://malvinanissim.github.io/moma2015/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;The notion of modality involves a spectrum of phenomena that are
 pervasive in language but far from being formalised. For an exhaustive
 formalisation, a joint effort by computational, corpus, and formal
@@ -34,9 +49,17 @@ tools and schemes, and set up a roadmap for reaching shared standards
 in the annotation of modality.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="language-and-ontologies"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Language and Ontologies&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Organisers: Roman Kutlák, Artemis Parvizi, Christina Unger&lt;/p&gt;
-&lt;p&gt;Website: &lt;a class="reference external" href="http://langandonto.github.io/"&gt;http://langandonto.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://langandonto.github.io/"&gt;Language and Ontologies&lt;/a&gt;&lt;/h2&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Organisers:&lt;/th&gt;&lt;td class="field-body"&gt;Roman Kutlák, Artemis Parvizi, Christina Unger&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Website:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;a class="reference external" href="http://langandonto.github.io/"&gt;http://langandonto.github.io/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;With the growing importance of Semantic Web technologies, formal
 ontologies are increasingly used by people with limited or no
 background in formal logic, creating a significant interest in natural
@@ -57,8 +80,15 @@ ontologies, in order to identify common interests, exploit synergies,
 and share methods, tools and resources.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="imc-modelling-interactive-meaning-construction-in-dialogue"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;IMC: Modelling Interactive Meaning Construction in Dialogue&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Organisers: Ruth Kempson, Robin Cooper, Matthew Purver&lt;/p&gt;
+&lt;h2&gt;IMC: Modelling Interactive Meaning Construction in Dialogue&lt;/h2&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Organisers:&lt;/th&gt;&lt;td class="field-body"&gt;Ruth Kempson, Robin Cooper, Matthew Purver&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Despite being the mainstay of our language experience, the data of
 conversational dialogue pose very considerable challenges for semantic
 modelling.  They violate expectations provided by standard frameworks,
@@ -76,8 +106,17 @@ significance of this ongoing work both for approaches to semantics and
 for computational modelling.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="ads-advances-in-distributional-semantics"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;ADS: Advances in Distributional Semantics&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Organisers: Eva Maria Vecchi, Mehrnoosh Sadrzadeh&lt;/p&gt;
+&lt;h2&gt;&lt;a class="reference external" href="https://sites.google.com/site/iwcs2015ads/"&gt;ADS: Advances in Distributional Semantics&lt;/a&gt;&lt;/h2&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Organisers:&lt;/th&gt;&lt;td class="field-body"&gt;Eva Maria Vecchi, Mehrnoosh Sadrzadeh&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Website:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;a class="reference external" href="https://sites.google.com/site/iwcs2015ads/"&gt;https://sites.google.com/site/iwcs2015ads/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Distributional semantics is based on the idea that words that often
 occur in the same context have similar meanings; this idea is
 formalised using vector spaces and reasoned about using linear
