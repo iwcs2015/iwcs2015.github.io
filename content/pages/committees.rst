@@ -43,22 +43,22 @@ Rodolfo Delmonte         Leon Derczynski          David DeVault
 Georgiana Dinu           Dmitriy Dligach          Markus Egg
 Katrin Erk               Arash Eshghi             Raquel Fernandez
 Anette Frank             Claire Gardent           Dan Garrette
-Jonathan Ginzburg        Aurélie Herbelot         Karl Moritz Hermann
-Jerry Hobbs              Dimitri Kartsaklis       Lauri Karttunen
-Ralf Klabunde            Alexander Koller         Emiel Krahmer
-Shalom Lappin            Alex Lascarides          Kiyong Lee
-Diana McCarthy           Louise McNally           Jeff Mitchell
-Alessandro Moschitti     Shashi Narayan           Malvina Nissim
-Diarmuid Ó Séaghdha      Ekaterina Ovchinnikova   Alexis Palmer
-Martha Palmer            Laura Perez-Beltrachini  Manfred Pinkal
-Paul Piwek               Massimo Poesio           Octavian Popescu
-Stephen Pulman           Matthew Purver           James Pustejovsky
-Allan Ramsay             German Rigau             Laura Rimell
-Stephen Roller           Michael Roth             David Schlangen
-Sabine Schulte im Walde  Rolf Schwitter           Joanna Sio
-Caroline Sporleder       Mary Swift               Stefan Thater
-David Traum              Peter Turney             Kees van Deemter
-Benjamin Van Durme       Jan van Eijck            Eva Maria Vecchi
-Yannick Versley          Carl Vogel               Shan Wang
-Roberto Zamparelli       Luke Zettlemoyer
+Jonathan Ginzburg        Edward Grefenstette      Aurélie Herbelot
+Karl Moritz Hermann      Jerry Hobbs              Dimitri Kartsaklis
+Lauri Karttunen          Ralf Klabunde            Alexander Koller
+Emiel Krahmer            Shalom Lappin            Alex Lascarides
+Kiyong Lee               Diana McCarthy           Louise McNally
+Jeff Mitchell            Alessandro Moschitti     Shashi Narayan
+Malvina Nissim           Diarmuid Ó Séaghdha      Ekaterina Ovchinnikova
+Alexis Palmer            Martha Palmer            Laura Perez-Beltrachini
+Manfred Pinkal           Paul Piwek               Massimo Poesio
+Octavian Popescu         Stephen Pulman           Matthew Purver
+James Pustejovsky        Allan Ramsay             German Rigau
+Laura Rimell             Stephen Roller           Michael Roth
+David Schlangen          Sabine Schulte im Walde  Rolf Schwitter
+Joanna Sio               Caroline Sporleder       Mary Swift
+Stefan Thater            David Traum              Peter Turney
+Kees van Deemter         Benjamin Van Durme       Jan van Eijck
+Eva Maria Vecchi         Yannick Versley          Carl Vogel
+Shan Wang                Roberto Zamparelli       Luke Zettlemoyer
 ======================== ======================== ======================
