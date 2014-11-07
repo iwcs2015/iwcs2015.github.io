@@ -8,6 +8,8 @@ Workshops at IWCS 2015
 
 IWCS 2015 will include 5 associated workshops, held on 14th April 2015.
 
+.. contents::
+
 `ISA-11: the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation`__
 ================================================================================
 
