@@ -81,8 +81,8 @@ ontologies, in order to identify common interests, exploit synergies,
 and share methods, tools and resources.
 
 
-IMC: Modelling Interactive Meaning Construction in Dialogue
-===========================================================
+`IMC: Modelling Interactive Meaning Construction in Dialogue`__
+===============================================================
 
 __ http://iwcs2015.github.io/imc2015/
 
