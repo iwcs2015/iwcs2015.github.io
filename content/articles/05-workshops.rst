@@ -84,7 +84,10 @@ and share methods, tools and resources.
 IMC: Modelling Interactive Meaning Construction in Dialogue
 ===========================================================
 
+__ http://iwcs2015.github.io/imc2015/
+
 :Organisers: Ruth Kempson, Robin Cooper, Matthew Purver
+:Website: http://iwcs2015.github.io/imc2015/
 
 Despite being the mainstay of our language experience, the data of
 conversational dialogue pose very considerable challenges for semantic
