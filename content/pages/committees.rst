@@ -52,13 +52,13 @@ Jeff Mitchell            Alessandro Moschitti     Shashi Narayan
 Malvina Nissim           Diarmuid Ó Séaghdha      Ekaterina Ovchinnikova
 Alexis Palmer            Martha Palmer            Laura Perez-Beltrachini
 Manfred Pinkal           Paul Piwek               Massimo Poesio
-Octavian Popescu         Stephen Pulman           Matthew Purver
-James Pustejovsky        Allan Ramsay             German Rigau
-Laura Rimell             Stephen Roller           Michael Roth
-David Schlangen          Sabine Schulte im Walde  Rolf Schwitter
-Joanna Sio               Caroline Sporleder       Mary Swift
-Stefan Thater            David Traum              Peter Turney
-Kees van Deemter         Benjamin Van Durme       Jan van Eijck
-Eva Maria Vecchi         Yannick Versley          Carl Vogel
-Shan Wang                Roberto Zamparelli       Luke Zettlemoyer
+Octavian Popescu         Stephen Pulman           James Pustejovsky        
+Allan Ramsay             German Rigau             Laura Rimell             
+Stephen Roller           Michael Roth		  David Schlangen          
+Sabine Schulte im Walde  Rolf Schwitter		  Joanna Sio               
+Caroline Sporleder       Mary Swift		  Stefan Thater            
+David Traum              Peter Turney		  Kees van Deemter         
+Benjamin Van Durme       Jan van Eijck		  Eva Maria Vecchi         
+Yannick Versley          Carl Vogel		  Shan Wang                
+Roberto Zamparelli       Luke Zettlemoyer
 ======================== ======================== ======================
