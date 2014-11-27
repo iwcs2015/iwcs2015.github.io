@@ -56,7 +56,7 @@ Long papers should describe original research and must not exceed 10 pages. They
 
 Short papers (typically system or project descriptions, or ongoing research) must not exceed 5 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a lightning talk at the conference, followed by a poster/demo session for discussion.
 
-Papers should be electronically submitted in PDF format via the START system at https://www.softconf.com/iwcs2015/. Please contact the organisers if you have problems using START.
+Papers should be electronically submitted in PDF format via the START system at https://www.softconf.com/iwcs2015/main/. Please contact the organisers if you have problems using START.
 
 Please follow the information for authors for instructions on formatting your paper, given on the conference webpage
 http://sigsem.org/iwcs2015/.
