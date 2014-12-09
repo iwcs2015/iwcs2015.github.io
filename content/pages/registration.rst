@@ -11,7 +11,8 @@ Registration
 
 .. contents::
 
-Registration will be available online from this page soon.
+Registration will be available online from this page soon - indicative
+fees are shown here.
 
 Main Conference
 ===============
