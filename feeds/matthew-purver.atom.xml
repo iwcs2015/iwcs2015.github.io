@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/matthew-purver.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-09-24T18:00:00+01:00</updated><entry><title>Call for Papers</title><link href="http://iwcs2015.github.io/call-for-papers.html" rel="alternate"></link><updated>2014-09-24T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-24:call-for-papers.html</id><summary type="html">&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/matthew-purver.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-12-09T10:00:00+00:00</updated><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2014-12-09T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-12-09:registration.html</id><summary type="html">
+&lt;p&gt;Registration will be available online from this page soon - indicative
+fees are shown here.&lt;/p&gt;
+&lt;div class="section" id="main-conference"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Registration fees include attendance to all sessions (and workshops -
+see below), lunches and coffee breaks, as well as participation in the
+welcome reception and the conference dinner and boat trip.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="15%"&gt;&lt;/col&gt;
+&lt;col width="36%"&gt;&lt;/col&gt;
+&lt;col width="32%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;Early&lt;/td&gt;
+&lt;td&gt;Late&lt;/td&gt;
+&lt;td&gt;On-Site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
+&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Standard&lt;/td&gt;
+&lt;td&gt;GBP 190&lt;/td&gt;
+&lt;td&gt;GBP 220&lt;/td&gt;
+&lt;td&gt;GBP 250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Student&lt;/td&gt;
+&lt;td&gt;GBP 115&lt;/td&gt;
+&lt;td&gt;GBP 145&lt;/td&gt;
+&lt;td&gt;GBP 165&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="workshops"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Workshops&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Attendance at all workshops is included in the main conference registration, and we encourage all attendees to come along - see &lt;a class="reference external" href="/workshops-at-iwcs-2015.html"&gt;here&lt;/a&gt; for information on the workshops available.&lt;/p&gt;
+&lt;p&gt;For those who want to attend workshops without attending the main conference, there will be a separate fee:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="15%"&gt;&lt;/col&gt;
+&lt;col width="36%"&gt;&lt;/col&gt;
+&lt;col width="32%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;Early&lt;/td&gt;
+&lt;td&gt;Late&lt;/td&gt;
+&lt;td&gt;On-Site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
+&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Worshop&lt;/td&gt;
+&lt;td&gt;GBP 55&lt;/td&gt;
+&lt;td&gt;GBP 80&lt;/td&gt;
+&lt;td&gt;GBP 100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="registration"></category></entry><entry><title>Call for Papers</title><link href="http://iwcs2015.github.io/call-for-papers.html" rel="alternate"></link><updated>2014-09-24T18:00:00+01:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-09-24:call-for-papers.html</id><summary type="html">&lt;p&gt;11th International Conference on Computational Semantics (IWCS)
 Queen Mary University of London, UK
 14-17th April, 2015&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;&lt;/p&gt;
