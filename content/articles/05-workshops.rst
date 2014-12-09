@@ -6,7 +6,9 @@ Workshops at IWCS 2015
 :category: Workshops
 :news_headline: Accepted Workshops posted
 
-IWCS 2015 will include 5 associated workshops, held on 14th April 2015.
+IWCS 2015 will include 5 associated workshops, held on 14th
+April 2015. Attendance at workshops will be included in the main
+conference registration - see `Registration </pages/registration.html>`_ for details.
 
 .. contents::
 
