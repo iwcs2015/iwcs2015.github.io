@@ -31,7 +31,7 @@ MENUITEMS = (
     ('Call for papers', 'call-for-papers.html'),
     ('Workshops', 'workshops-at-iwcs-2015.html'),
     ('Submissions', 'pages/instructions-for-authors.html'),
-    ('Registration', 'pages/registration.html'),
+    ('Registration', 'registration.html'),
     ('Organisation', 'pages/organisation.html'),
 )
 
