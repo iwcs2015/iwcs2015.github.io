@@ -23,7 +23,7 @@ The aim of the IWCS conference is to bring together researchers interested in th
 Submission Deadline
 ===================
 
-Authors must submit by 16th December; however, we will allow resubmission of updated versions until 19th December. Please submit at least a sufficient abstract to allow sensible reviewer assignment by the 16th. See `Instructions for Authors`_ for full instructions.
+Authors must submit by 16th December; however, we will allow resubmission of updated versions until 19th December. Please submit at least a sufficient abstract to allow sensible reviewer assignment by the 16th. See `Instructions for Authors </pages/instructions-for-authors.html>`_ for full instructions.
 
 Topics of interest
 ==================
