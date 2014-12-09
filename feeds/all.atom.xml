@@ -144,8 +144,12 @@ Queen Mary University of London, UK
 &lt;p&gt;&lt;strong&gt;Paper submission deadline: 16th December, 2014&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The aim of the IWCS conference is to bring together researchers interested in the computation, annotation, extraction, and representation of meaning in natural language, whether from a lexical or structural semantic perspective. IWCS embraces both symbolic and statistical approaches to computational semantics, and everything in between.&lt;/p&gt;
 
+&lt;div class="section" id="submission-deadline"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Submission Deadline&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Authors must submit by 16th December; however, we will allow resubmission of updated versions until 19th December. Please submit at least a sufficient abstract to allow sensible reviewer assignment by the 16th. See &lt;a class="reference external" href="/pages/instructions-for-authors.html"&gt;Instructions for Authors&lt;/a&gt; for full instructions.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class="section" id="topics-of-interest"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Topics of interest&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Topics of interest&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The areas of interest for the conference include all computational aspects of meaning of natural language within written, spoken, or multimodal communication. Papers are invited on topics in these and closely related areas, including the following:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;representation of meaning&lt;/li&gt;
@@ -171,17 +175,17 @@ Queen Mary University of London, UK
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="submission-requirements"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Submission Requirements&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Submission Requirements&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Two types of submission are solicited: long papers and short papers.
 Both types of papers should be submitted not later than 16th December, 2014.&lt;/p&gt;
-&lt;p&gt;Long papers should describe original research and must not exceed 10 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a full oral presentation at the conference.&lt;/p&gt;
-&lt;p&gt;Short papers (typically system or project descriptions, or ongoing research) must not exceed 5 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a lightning talk at the conference, followed by a poster/demo session for discussion.&lt;/p&gt;
+&lt;p&gt;Long papers should describe original research and must not exceed 10 pages plus an additional page for references. They will be published in the conference proceedings and in the ACL Anthology, and will have a full oral presentation at the conference.&lt;/p&gt;
+&lt;p&gt;Short papers (typically system or project descriptions, or ongoing research) must not exceed 5 pages plus an additional page for references. They will be published in the conference proceedings and in the ACL Anthology, and will have a lightning talk at the conference, followed by a poster/demo session for discussion.&lt;/p&gt;
 &lt;p&gt;Papers should be electronically submitted in PDF format via the START system at &lt;a class="reference external" href="https://www.softconf.com/iwcs2015/main/"&gt;https://www.softconf.com/iwcs2015/main/&lt;/a&gt;. Please contact the organisers if you have problems using START.&lt;/p&gt;
 &lt;p&gt;Please follow the information for authors for instructions on formatting your paper, given on the conference webpage
 &lt;a class="reference external" href="http://sigsem.org/iwcs2015/"&gt;http://sigsem.org/iwcs2015/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="program-chairs"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Program Chairs&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Program Chairs&lt;/a&gt;&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Matthew Purver, &lt;cite&gt;Queen Mary University of London&lt;/cite&gt;&lt;/li&gt;
 &lt;li&gt;Mehrnoosh Sadrzadeh, &lt;cite&gt;Queen Mary University of London&lt;/cite&gt;&lt;/li&gt;
@@ -189,7 +193,7 @@ Both types of papers should be submitted not later than 16th December, 2014.&lt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="program-committee"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Program Committee&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Program Committee&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="34%"&gt;&lt;/col&gt;
@@ -321,9 +325,10 @@ Both types of papers should be submitted not later than 16th December, 2014.&lt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;div class="section" id="important-dates"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Important dates&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id6"&gt;Important dates&lt;/a&gt;&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;16 December 2014&lt;/strong&gt;  Paper submissions due (long and short)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;16 December 2014&lt;/strong&gt;  Initial submissions due (long and short)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;19 December 2014&lt;/strong&gt;  Final submissions due (long and short)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;02 February 2015&lt;/strong&gt;  Notification of acceptance&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;25 February 2015&lt;/strong&gt;  Final camera-ready papers due&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;14 April 2015&lt;/strong&gt;     IWCS workshops&lt;/li&gt;
