@@ -20,6 +20,11 @@ The aim of the IWCS conference is to bring together researchers interested in th
 
 .. contents::
 
+Submission Deadline
+===================
+
+Authors must submit by 16th December; however, we will allow resubmission of updated versions until 19th December. Please submit at least a sufficient abstract to allow sensible reviewer assignment by the 16th. See `Instructions for Authors`_ for full instructions.
+
 Topics of interest
 ==================
 
@@ -52,9 +57,9 @@ Submission Requirements
 Two types of submission are solicited: long papers and short papers.
 Both types of papers should be submitted not later than 16th December, 2014.
 
-Long papers should describe original research and must not exceed 10 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a full oral presentation at the conference.
+Long papers should describe original research and must not exceed 10 pages plus an additional page for references. They will be published in the conference proceedings and in the ACL Anthology, and will have a full oral presentation at the conference.
 
-Short papers (typically system or project descriptions, or ongoing research) must not exceed 5 pages. They will be published in the conference proceedings and in the ACL Anthology, and will have a lightning talk at the conference, followed by a poster/demo session for discussion.
+Short papers (typically system or project descriptions, or ongoing research) must not exceed 5 pages plus an additional page for references. They will be published in the conference proceedings and in the ACL Anthology, and will have a lightning talk at the conference, followed by a poster/demo session for discussion.
 
 Papers should be electronically submitted in PDF format via the START system at https://www.softconf.com/iwcs2015/main/. Please contact the organisers if you have problems using START.
 
@@ -109,7 +114,8 @@ Roberto Zamparelli       Luke Zettlemoyer
 Important dates
 ===============
 
-* **16 December 2014**  Paper submissions due (long and short)
+* **16 December 2014**  Initial submissions due (long and short)
+* **19 December 2014**  Final submissions due (long and short)
 * **02 February 2015**  Notification of acceptance
 * **25 February 2015**  Final camera-ready papers due
 * **14 April 2015**     IWCS workshops
