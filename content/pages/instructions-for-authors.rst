@@ -60,3 +60,23 @@ Users of LaTeX should use documentclass ``article`` with the options ``a4paper``
  \bibliography{mybib} 
 
  \end{document}
+
+
+Dual Submission
+===============
+
+Papers that have been or will be submitted to other meetings or
+publications must indicate this at submission time. Authors of papers
+accepted for presentation at IWCS 2015 must notify the program chairs
+by `the camera-ready deadline
+</call-for-papers.html#important-dates>`_ as to whether the paper will
+be presented. All accepted papers must be presented at the conference
+to appear in the proceedings. We will not accept for publication or
+presentation papers that overlap significantly in content or results
+with papers that will be (or have been) published elsewhere.
+
+Preprint servers such as `arXiv.org <http://arXiv.org>`_ and workshops
+without published proceedings are not considered as prior publications
+for this purpose. Authors should state in the online submission form
+the name of the workshop or preprint server and title of any such
+non-archival version, so that reviewers can be informed appropriately.
