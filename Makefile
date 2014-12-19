@@ -39,7 +39,7 @@ help:
 	@echo '                                                                       '
 
 bootstrap:
-	python bootstrap.py
+	python bootstrap-buildout.py
 	bin/buildout
 
 update:

@@ -115,25 +115,13 @@ Create a `pull request <https://help.github.com/articles/creating-a-pull-request
 Generating the site locally
 ---------------------------
 
-We use `buildout <https://pypi.python.org/pypi/zc.buildout/2.2.1>`_ to deploy
+We use `buildout <https://pypi.python.org/pypi/zc.buildout/>`_ to deploy
 needed software. A typical biuldout deployment consists of two steps:
 bootstrapping and building out.
 
 Bootstraping is simple::
 
-    python bootstrap.py
-
-In case you get an error about setuptools, you can install them:
-
-.. code-block:: bash
-
-    # Only if you get an error in the previous step!
-    python ez_setup.py --user
-    python bootstrap.py
-
-Now you are ready to ``buildout``::
-
-    bin/buildout
+    make boostrap
 
 An easy way to see rendered article files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -268,7 +256,7 @@ generated HTML version of the site, however you need to clone
 
 To upload the HTML just run::
 
-    make github
+    make deploy
 
 License
 -------
