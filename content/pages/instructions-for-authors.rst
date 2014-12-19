@@ -14,7 +14,9 @@ Instructions for Authors
 Formatting Instructions
 =======================
 
-Papers should be formatted with a Times font, size 11pt, typeset in one column, and with margins of 25mm all around. Papers should be submitted in PDF A4 paper format using the START electronic submission web page at https://www.softconf.com/iwcs2015/main. **Note that submissions must be anonymous.** Long paper submissions should not exceed 10 pages plus an additional page for references. Short paper submissions should not exceed 5 pages plus an additional page for references. The first page should include an abstract of c. 10 lines. Authors are strongly encouraged to prepare their submission using LaTeX.
+Papers should be formatted with a Times font, size 11pt, typeset in one column, and with margins of 25mm all around. Papers should be submitted in PDF A4 paper format using the START electronic submission web page at https://www.softconf.com/iwcs2015/main. **Note that submissions must be anonymous.** 
+
+Long paper submissions should not exceed 10 pages of content, but can optionally use an additional page for references. *(Just to be clear: this means the total length must be 11 pages or less, and the content must fit into 10 pages or less).* Short paper submissions should not exceed 5 pages of content, with an optional additional page for references. The first page should include an abstract of c. 10 lines. Authors are strongly encouraged to prepare their submission using LaTeX.
 
 Submission Deadline
 ===================
