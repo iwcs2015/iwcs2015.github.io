@@ -116,7 +116,7 @@ Important dates
 
 * **16 December 2014**  Initial submissions due (long and short)
 * **19 December 2014**  Final submissions due (long and short)
-* **02 February 2015**  Notification of acceptance
+* **04 February 2015**  Notification of acceptance
 * **25 February 2015**  Final camera-ready papers due
 * **14 April 2015**     IWCS workshops
 * **15-17 April 2015**  Main IWCS conference
