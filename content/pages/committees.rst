@@ -34,28 +34,28 @@ Programme Committee
 Rodrigo Agerri           Nicholas Asher           Timothy Baldwin
 Marco Baroni             Anja Belz                Emily M. Bender
 Jonathan Berant          Raffaella Bernardi       Patrick Blackburn
-Gemma Boleda             Johan Bos                António Branco
-Chris Brew               Paul Buitelaar           Harry Bunt
-Aljoscha Burchardt       Nicoletta Calzolari      Philipp Cimiano
-Stephen Clark            Daoud Clarke             Paul Cook
-Robin Cooper             Montse Cuadros           Dipanjan Das
-Rodolfo Delmonte         Leon Derczynski          David DeVault
-Georgiana Dinu           Dmitriy Dligach          Markus Egg
-Katrin Erk               Arash Eshghi             Raquel Fernandez
-Anette Frank             Claire Gardent           Dan Garrette
-Jonathan Ginzburg        Edward Grefenstette      Aurélie Herbelot
-Karl Moritz Hermann      Jerry Hobbs              Dimitri Kartsaklis
-Lauri Karttunen          Ralf Klabunde            Alexander Koller
-Emiel Krahmer            Shalom Lappin            Alex Lascarides
-Kiyong Lee               Diana McCarthy           Louise McNally
-Jeff Mitchell            Alessandro Moschitti     Shashi Narayan
-Malvina Nissim           Diarmuid Ó Séaghdha      Ekaterina Ovchinnikova
-Alexis Palmer            Martha Palmer            Laura Perez-Beltrachini
-Manfred Pinkal           Paul Piwek               Massimo Poesio
-Octavian Popescu         Stephen Pulman           James Pustejovsky        
-Allan Ramsay             German Rigau             Laura Rimell             
-Stephen Roller           Michael Roth		  David Schlangen          
-Sabine Schulte im Walde  Rolf Schwitter		  Joanna Sio               
+Gemma Boleda             Johan Bos                Stefan Bott
+António Branco	         Chris Brew               Paul Buitelaar           
+Harry Bunt		 Aljoscha Burchardt       Nicoletta Calzolari      
+Philipp Cimiano		 Stephen Clark            Daoud Clarke             
+Paul Cook		 Robin Cooper             Montse Cuadros           
+Dipanjan Das		 Rodolfo Delmonte         Leon Derczynski          
+David DeVault		 Georgiana Dinu           Dmitriy Dligach          
+Markus Egg		 Katrin Erk               Arash Eshghi             
+Raquel Fernandez	 Anette Frank             Claire Gardent           
+Dan Garrette		 Jonathan Ginzburg        Edward Grefenstette      
+Aurélie Herbelot	 Karl Moritz Hermann      Jerry Hobbs              
+Dimitri Kartsaklis	 Lauri Karttunen          Ralf Klabunde            
+Alexander Koller	 Emiel Krahmer            Shalom Lappin            
+Alex Lascarides	   	 Kiyong Lee               Diana McCarthy           
+Louise McNally	   	 Jeff Mitchell            Alessandro Moschitti     
+Shashi Narayan	   	 Malvina Nissim           Diarmuid Ó Séaghdha      
+Ekaterina Ovchinnikova   Alexis Palmer            Martha Palmer            
+Laura Perez-Beltrachini  Manfred Pinkal           Paul Piwek               
+Massimo Poesio	   	 Octavian Popescu         Stephen Pulman           
+James Pustejovsky        Allan Ramsay             German Rigau             
+Laura Rimell             Stephen Roller           Michael Roth		  
+David Schlangen          Rolf Schwitter		  Joanna Sio               
 Caroline Sporleder       Mary Swift		  Stefan Thater            
 David Traum              Peter Turney		  Kees van Deemter         
 Benjamin Van Durme       Jan van Eijck		  Eva Maria Vecchi         
