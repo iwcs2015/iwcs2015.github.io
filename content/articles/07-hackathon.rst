@@ -95,7 +95,7 @@ UkWaC
 ~~~~~
 
 UkWaC__ is a 2 billion word corpus constructed from the Web limiting the crawl
-to the .uk domain
+to the .uk domain.
 
 __ http://wacky.sslmit.unibo.it/doku.php
 
