@@ -28,7 +28,8 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    ('Call for papers', 'call-for-papers.html'),
+#    ('Call for papers', 'call-for-papers.html'),
+    ('Accepted Papers', 'accepted-papers.html'),
     ('Workshops', 'workshops-at-iwcs-2015.html'),
     ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),
