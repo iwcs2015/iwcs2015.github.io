@@ -16,7 +16,7 @@ that are used in Computational Semantics. Moreover, we also would like to
 attract anyone interested in data processing tools so they could contribute to
 open source projects represented at the event.
 
-Hackathon is organised by the computational linguistic lab at
+Hackathon is organised by the computational linguistics lab at
 QMUL and sponsored by the `EPSRC`__ grant `EP/J002607/1`__.
 
 __ http://www.epsrc.ac.uk/
