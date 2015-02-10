@@ -1,48 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/hackathon.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-03T13:32:00+00:00</updated><entry><title>Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-03T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-03:hackathon.html</id><summary type="html">&lt;!-- :news_headline: Hackathon announcement --&gt;
-&lt;p&gt;Hackathon is a sattelite event to the IWCS conference open to everyone that
-provides place to work on semantics related software.&lt;/p&gt;
+&lt;p&gt;We invite researchers, developers students and users of semantic NLP tools to
+participate at the Hackathon. The event will take place on &lt;strong&gt;April 18th-19th&lt;/strong&gt;
+in London, UK.&lt;/p&gt;
+&lt;p&gt;The goal of the event is to provide an opportunity to discuss and develop tools
+that are used in Computational Semantics. Moreover, we also would like to
+attract anyone interested in data processing tools so they could contribute to
+open source projects represented at the event.&lt;/p&gt;
+&lt;p&gt;Hackathon is organised by the computational linguistic lab at
+QMUL and sponsored by the &lt;a class="reference external" href="http://www.epsrc.ac.uk/"&gt;EPSRC&lt;/a&gt; grant &lt;a class="reference external" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1"&gt;EP/J002607/1&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id6"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-
-yearly meeting of SIGSEM, the ACL special interest group on semantics. The areas
-of interest for the conference include all computational aspects of meaning of
-natural language within written, spoken, or multimodal communication. We are
-organising the 11th IWCS conference; this will be held in Queen Mary University
-of London on April 14-17th 2015. For more info see &lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year we would like to organize a hackathon right after the conference on
-&lt;strong&gt;April 18th-19th&lt;/strong&gt;. The goal of the event is to provide an opportunity to
-discuss and develop tools that are used in Computational Semantics. Moreover, we
-also would like to attract anyone interested in data processing tools so they
-could contribute to open source projects represented at the event. Currently, we
-are looking for sponsors to support the event. We aim to invite core developers
-of relevant open source projects (e.g. &lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; and
-&lt;a class="reference external" href="http://scikit-learn.org/"&gt;scikit- learn&lt;/a&gt;) and provide travel grants to
-everyone interested to attend the event.&lt;/p&gt;
-&lt;p&gt;We are also looking for experienced developers who can mentor participants and
-assist with software engineering tools (version control systems, editor,
-development environment set up and so on).&lt;/p&gt;
-&lt;p&gt;To support the event you could:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Provide funding to cover catering, travelling and organisational costs.&lt;/li&gt;
-&lt;li&gt;Propose project ideas that might be implemented during the hackathon.&lt;/li&gt;
-&lt;li&gt;Invite experienced developers to mentor.&lt;/li&gt;
-&lt;li&gt;Share relevant datasets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In return we can:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Work on your project.&lt;/li&gt;
-&lt;li&gt;Put your logo on the hackathon web page &lt;a class="reference external" href="http://iwcs2015.githib.io/hackathon"&gt;http://iwcs2015.githib.io/hackathon&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Provide a space for a poster, promotional material, an information desk, etc.
-at the venue.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id7"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
-&amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;div class="section" id="project-ideas"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id8"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
 &lt;div class="section" id="tweet-paraphrase-generator"&gt;
@@ -78,6 +45,46 @@ dump has to be cleaned up from the wiki markup.&lt;/p&gt;
 &lt;p&gt;The &lt;a class="reference external" href="http://amr.isi.edu/index.html"&gt;AMR Bank&lt;/a&gt; is a set of English sentences paired with simple, readable semantic
 representations.&lt;/p&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-sponsorship"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id11"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
+meeting of SIGSEM, the ACL special interest group on semantics. The areas
+of interest for the conference include all computational aspects of meaning of
+natural language within written, spoken, or multimodal communication. We are
+organising the 11th IWCS conference; this will be held in Queen Mary University
+of London on April 14-17th 2015. For more info see &lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This year we would like to organize a hackathon right after the conference on
+April 18th-19th. The goal of the event is to provide an opportunity to
+discuss and develop tools that are used in Computational Semantics. Moreover, we
+also would like to attract anyone interested in data processing tools so they
+could contribute to open source projects represented at the event. Currently, we
+are looking for sponsors to support the event. We aim to invite core developers
+of relevant open source projects (e.g. &lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; and
+&lt;a class="reference external" href="http://scikit-learn.org/"&gt;scikit- learn&lt;/a&gt;) and provide travel grants to
+everyone interested to attend the event.&lt;/p&gt;
+&lt;p&gt;We are also looking for experienced developers who can mentor participants and
+assist with software engineering tools (version control systems, editor,
+development environment set up and so on).&lt;/p&gt;
+&lt;p&gt;To support the event you could:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Provide funding to cover catering, traveling and organisational costs.&lt;/li&gt;
+&lt;li&gt;Propose project ideas that might be implemented during the hackathon.&lt;/li&gt;
+&lt;li&gt;Invite experienced developers to mentor.&lt;/li&gt;
+&lt;li&gt;Share relevant datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In return we can:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Work on your project.&lt;/li&gt;
+&lt;li&gt;Put your logo on the hackathon web page &lt;a class="reference external" href="http://iwcs2015.githib.io/hackathon"&gt;http://iwcs2015.githib.io/hackathon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Provide a space for a poster, promotional material, an information desk, etc.
+at the venue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="contact-information"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id12"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
+&amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </summary></entry></feed>
