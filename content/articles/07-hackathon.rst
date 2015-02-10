@@ -7,58 +7,23 @@ Hackathon
 
 .. :news_headline: Hackathon announcement
 
-Hackathon is a sattelite event to the IWCS conference open to everyone that
-provides place to work on semantics related software.
+We invite researchers, developers students and users of semantic NLP tools to
+participate at the Hackathon. The event will take place on **April 18th-19th**
+in London, UK.
 
+The goal of the event is to provide an opportunity to discuss and develop tools
+that are used in Computational Semantics. Moreover, we also would like to
+attract anyone interested in data processing tools so they could contribute to
+open source projects represented at the event.
+
+Hackathon is organised by the computational linguistic lab at
+QMUL and sponsored by the `EPSRC`__ grant `EP/J002607/1`__.
+
+__ http://www.epsrc.ac.uk/
+__ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 
 .. contents::
     :depth: 2
-
-Call for Sponsorship
-====================
-
-IWCS is the International Conference in Computational Semantics series: the bi-
-yearly meeting of SIGSEM, the ACL special interest group on semantics. The areas
-of interest for the conference include all computational aspects of meaning of
-natural language within written, spoken, or multimodal communication. We are
-organising the 11th IWCS conference; this will be held in Queen Mary University
-of London on April 14-17th 2015. For more info see http://sigsem.org/iwcs2015.
-
-This year we would like to organize a hackathon right after the conference on
-**April 18th-19th**. The goal of the event is to provide an opportunity to
-discuss and develop tools that are used in Computational Semantics. Moreover, we
-also would like to attract anyone interested in data processing tools so they
-could contribute to open source projects represented at the event. Currently, we
-are looking for sponsors to support the event. We aim to invite core developers
-of relevant open source projects (e.g. `NLTK <http://www.nltk.org/>`_ and
-`scikit- learn <http://scikit-learn.org/>`_) and provide travel grants to
-everyone interested to attend the event.
-
-
-
-We are also looking for experienced developers who can mentor participants and
-assist with software engineering tools (version control systems, editor,
-development environment set up and so on).
-
-To support the event you could:
-
-* Provide funding to cover catering, travelling and organisational costs.
-* Propose project ideas that might be implemented during the hackathon.
-* Invite experienced developers to mentor.
-* Share relevant datasets.
-
-In return we can:
-
-* Work on your project.
-* Put your logo on the hackathon web page http://iwcs2015.githib.io/hackathon.
-* Provide a space for a poster, promotional material, an information desk, etc.
-  at the venue.
-
-Contact information
--------------------
-
-In case you are interested in supporting the event contact Dmitrijs Milajevs
-<d.milajevs@qmul.ac.uk>.
 
 Project ideas
 =============
@@ -114,3 +79,47 @@ The `AMR Bank`__ is a set of English sentences paired with simple, readable sema
 representations.
 
 __ http://amr.isi.edu/index.html
+
+Call for Sponsorship
+====================
+
+IWCS is the International Conference in Computational Semantics series: the bi-yearly
+meeting of SIGSEM, the ACL special interest group on semantics. The areas
+of interest for the conference include all computational aspects of meaning of
+natural language within written, spoken, or multimodal communication. We are
+organising the 11th IWCS conference; this will be held in Queen Mary University
+of London on April 14-17th 2015. For more info see http://sigsem.org/iwcs2015.
+
+This year we would like to organize a hackathon right after the conference on
+April 18th-19th. The goal of the event is to provide an opportunity to
+discuss and develop tools that are used in Computational Semantics. Moreover, we
+also would like to attract anyone interested in data processing tools so they
+could contribute to open source projects represented at the event. Currently, we
+are looking for sponsors to support the event. We aim to invite core developers
+of relevant open source projects (e.g. `NLTK <http://www.nltk.org/>`_ and
+`scikit- learn <http://scikit-learn.org/>`_) and provide travel grants to
+everyone interested to attend the event.
+
+We are also looking for experienced developers who can mentor participants and
+assist with software engineering tools (version control systems, editor,
+development environment set up and so on).
+
+To support the event you could:
+
+* Provide funding to cover catering, traveling and organisational costs.
+* Propose project ideas that might be implemented during the hackathon.
+* Invite experienced developers to mentor.
+* Share relevant datasets.
+
+In return we can:
+
+* Work on your project.
+* Put your logo on the hackathon web page http://iwcs2015.githib.io/hackathon.
+* Provide a space for a poster, promotional material, an information desk, etc.
+  at the venue.
+
+Contact information
+-------------------
+
+In case you are interested in supporting the event contact Dmitrijs Milajevs
+<d.milajevs@qmul.ac.uk>.
