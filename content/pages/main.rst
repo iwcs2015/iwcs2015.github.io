@@ -22,3 +22,10 @@ any aspects of the computation, annotation, extraction, and representation of
 meaning in natural language, whether this is from a lexical or structural
 semantic perspective. IWCS embraces both symbolic and statistical approaches to
 computational semantics, and everything in between.
+
+Invited speakers
+================
+
+* **Ann Copestake** `University of Cambridge`
+* **Yoshua Bengio** `Université de Montréal`
+* **Regina Barzilay** `Massachusetts Institute of Technology`
