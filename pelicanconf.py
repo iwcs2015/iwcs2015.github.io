@@ -30,7 +30,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
 #    ('Call for papers', 'call-for-papers.html'),
     ('Accepted Papers', 'accepted-papers.html'),
-    ('Workshops', 'workshops-at-iwcs-2015.html'),
+    ('Workshops', 'workshops.html'),
     ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),
     ('Organisation', 'pages/organisation.html'),
