@@ -7,17 +7,18 @@ Hackathon
 
 .. :news_headline: Hackathon announcement
 
-We invite researchers, developers students and users of semantic NLP tools to
-participate at the Hackathon. The event will take place on **April 18th-19th**
-in London, UK.
+This year, IWCS will feature a **Computational Semantics Hackathon**, immediately
+after the main conference on **April 18th-19th**.
 
-The goal of the event is to provide an opportunity to discuss and develop tools
-that are used in Computational Semantics. Moreover, we also would like to
-attract anyone interested in data processing tools so they could contribute to
-open source projects represented at the event.
+We invite researchers, developers, students and users of semantic NLP tools to
+participate. The goal of the event is to provide an opportunity to discuss and
+develop tools that are used in Computational Semantics. Moreover, we also would
+like to attract anyone interested in data processing tools so they could
+contribute to open source projects represented at the event.
 
-Hackathon is organised by the computational linguistics lab at
-QMUL and sponsored by the `EPSRC`__ grant `EP/J002607/1`__.
+The hackathon is organised by the Computational Linguistics lab at QMUL and
+sponsored by the `EPSRC`__ grant `EP/J002607/1 -- Foundational Structures for
+Compositional Meaning`__.
 
 __ http://www.epsrc.ac.uk/
 __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
@@ -27,6 +28,12 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 
 Project ideas
 =============
+
+Participants and sponsors are welcome to propose any and all ideas relating to
+computational semantics - please `get in touch`__! The list below shows some
+possibilities:
+
+__ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
 
 Tweet paraphrase generator
 --------------------------
@@ -48,36 +55,14 @@ textual information. `Corpus readers`__ are interfaces to access textual resourc
 
 __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
 
-Groningen Meaning Bank
-~~~~~~~~~~~~~~~~~~~~~~
-
-`Groningen meaning bank`__ is a free semantically annotated corpus that anyone
-can edit.
+* **Groningen Meaning Bank**: the `Groningen Meaning Bank`__ is a free semantically annotated corpus that anyone can edit.
+* **UkWaC**: UkWaC__ is a 2 billion word corpus constructed from the Web limiting the crawl to the .uk domain.
+* **Wikipedia**: Wikipedia provides dumps__ of all its content. However, to be used as a corpus a dump has to be cleaned up from the wiki markup.
+* **AMR**: the `AMR Bank`__ is a set of English sentences paired with simple, readable semantic representations.
 
 __ http://gmb.let.rug.nl/
-
-UkWaC
-~~~~~
-
-UkWaC__ is a 2 billion word corpus constructed from the Web limiting the crawl
-to the .uk domain.
-
 __ http://wacky.sslmit.unibo.it/doku.php
-
-Wikipedia
-~~~~~~~~~
-
-Wikipedia provides dumps__ of all its content. However, to be used as a corpus a
-dump has to be cleaned up from the wiki markup.
-
 __ https://dumps.wikimedia.org/enwiki/
-
-AMR
-~~~
-
-The `AMR Bank`__ is a set of English sentences paired with simple, readable semantic
-representations.
-
 __ http://amr.isi.edu/index.html
 
 Call for Sponsorship
