@@ -15,14 +15,12 @@ __ http://www.qmul.ac.uk/about/howtofindus/mileend/
 
 .. contents::
 
-Conference Venue & Accommodation
-================================
+Conference Venue
+================
 
 The conference itself will take place on the first floor of the Francis Bancroft
 Building, with plenary sessions in the Mason Lecture Theatre, and registration
-and poster sessions just across the corridor. The college-provided accommodation
-(see `the registration page <{filename}/articles/06-registration.rst>`_) is in the
-next-door building, Feilden House:
+and poster sessions just across the corridor.
 
 .. html::
 
@@ -133,3 +131,9 @@ fastest first:
   mins to Mile End
 
   __ http://www.gatwickairport.com/to-and-from/gatwick-to-london/
+
+
+Accommodation
+=============
+
+A list of suggested hotels will be posted here shortly.

@@ -34,8 +34,8 @@ MENUITEMS = (
     ('Workshops', 'workshops.html'),
     ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),
-    ('Organisation', 'pages/organisation.html'),
     ('Location', 'location.html'),
+    ('Organisation', 'pages/organisation.html'),
 )
 
 
