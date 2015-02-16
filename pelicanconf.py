@@ -17,6 +17,7 @@ THEME = 'src/conferencium/'
 PLUGIN_PATHS = ('src/pelican-plugins', )
 PLUGINS = (
     'extract_toc',
+    'html_rst_directive',
 )
 
 # Feed generation is usually not desired when developing
@@ -34,6 +35,7 @@ MENUITEMS = (
     ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),
     ('Organisation', 'pages/organisation.html'),
+    ('Location', 'location.html'),
 )
 
 
