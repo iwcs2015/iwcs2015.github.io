@@ -24,7 +24,7 @@ and poster sessions just across the corridor.
 
 .. html::
 
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/dimazest.l7ofpke2/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiZGltYXplc3QiLCJhIjoiem5xQ0g0RSJ9.8WDiazmCzQWvjxbd6uSmQA'></iframe>
+    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/dimazest.l7ofpke2/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoiZGltYXplc3QiLCJhIjoiem5xQ0g0RSJ9.8WDiazmCzQWvjxbd6uSmQA'></iframe>
 
 ..  If you have booked accommodation, please go to France House when you arrive, to
     check in at the QMUL Residences office on the ground floor. The office is
