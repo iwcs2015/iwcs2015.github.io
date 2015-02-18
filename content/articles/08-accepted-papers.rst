@@ -77,7 +77,7 @@ Long Papers, with oral presentation
 *On the Proper Treatment of Quantifiers in Probabilistic Logic Semantics*
 |br| **Islam Beltagy and Katrin Erk**
 
-*Uniform Surprisal at the Level of Discourse Relations: Negation Markers and Discourse Connective Omission*
+*Uniform Information Density at the Level of Discourse Relations: Negation Markers and Discourse Connective Omission*
 |br| **Fatemeh Torabi Asr and Vera Demberg**
 
 *Layers of Interpretation: On Grammar and Compositionality*
