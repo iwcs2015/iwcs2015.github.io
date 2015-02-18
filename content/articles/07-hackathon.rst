@@ -1,11 +1,12 @@
-=========
-Hackathon
-=========
+=================================
+Computational Semantics Hackathon
+=================================
 
-:date: 2015-02-03 13:32
+:date: 2015-02-18 13:32
 :category: Hackathon
+:slug: hackathon
 
-.. :news_headline: Hackathon announcement
+:news_headline: Hackathon announced
 
 This year, IWCS will feature a **Computational Semantics Hackathon**, immediately
 after the main conference on **April 18th-19th**.
@@ -17,7 +18,7 @@ like to attract anyone interested in data processing tools so they could
 contribute to open source projects represented at the event.
 
 The hackathon is organised by the Computational Linguistics lab at QMUL and
-sponsored by the `EPSRC`__ grant `EP/J002607/1 -- Foundational Structures for
+sponsored by the `EPSRC`__ grant `EP/J002607/1 — Foundational Structures for
 Compositional Meaning`__.
 
 __ http://www.epsrc.ac.uk/
@@ -99,7 +100,7 @@ To support the event you could:
 In return we can:
 
 * Work on your project.
-* Put your logo on the hackathon web page http://iwcs2015.githib.io/hackathon.
+* Put your logo on the hackathon web page http://iwcs2015.github.io/hackathon.html.
 * Provide a space for a poster, promotional material, an information desk, etc.
   at the venue.
 
