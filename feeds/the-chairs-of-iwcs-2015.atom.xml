@@ -1,5 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/the-chairs-of-iwcs-2015.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-16T11:01:00+00:00</updated><entry><title>Location / Venue</title><link href="http://iwcs2015.github.io/location.html" rel="alternate"></link><updated>2015-02-16T11:01:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-16:location.html</id><summary type="html">&lt;p&gt;IWCS 2015 is being hosted at &lt;a class="reference external" href="http://qmul.ac.uk/"&gt;Queen Mary University of London&lt;/a&gt;, on the &lt;a class="reference external" href="http://www.qmul.ac.uk/about/howtofindus/mileend/"&gt;Mile End
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/the-chairs-of-iwcs-2015.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-18T13:32:00+00:00</updated><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, immediately
+after the main conference on &lt;strong&gt;April 18th-19th&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
+participate. The goal of the event is to provide an opportunity to discuss and
+develop tools that are used in Computational Semantics. Moreover, we also would
+like to attract anyone interested in data processing tools so they could
+contribute to open source projects represented at the event.&lt;/p&gt;
+&lt;p&gt;The hackathon is organised by the Computational Linguistics lab at QMUL and
+sponsored by the &lt;a class="reference external" href="http://www.epsrc.ac.uk/"&gt;EPSRC&lt;/a&gt; grant &lt;a class="reference external" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1"&gt;EP/J002607/1 — Foundational Structures for
+Compositional Meaning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="section" id="project-ideas"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id9"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
+computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt;! The list below shows some
+possibilities:&lt;/p&gt;
+&lt;div class="section" id="tweet-paraphrase-generator"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id10"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
+substituting all the content words (nouns, verbs, adjectives and adverbs) with
+similar words.&lt;/p&gt;
+&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs&lt;/a&gt; and generate a paraphrase tweet. Also,
+tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nltk-corpus-readers"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id11"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
+textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
+(called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Groningen Meaning Bank&lt;/strong&gt;: the &lt;a class="reference external" href="http://gmb.let.rug.nl/"&gt;Groningen Meaning Bank&lt;/a&gt; is a free semantically annotated corpus that anyone can edit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UkWaC&lt;/strong&gt;: &lt;a class="reference external" href="http://wacky.sslmit.unibo.it/doku.php"&gt;UkWaC&lt;/a&gt; is a 2 billion word corpus constructed from the Web limiting the crawl to the .uk domain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wikipedia&lt;/strong&gt;: Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used as a corpus a dump has to be cleaned up from the wiki markup.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AMR&lt;/strong&gt;: the &lt;a class="reference external" href="http://amr.isi.edu/index.html"&gt;AMR Bank&lt;/a&gt; is a set of English sentences paired with simple, readable semantic representations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-sponsorship"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
+meeting of SIGSEM, the ACL special interest group on semantics. The areas
+of interest for the conference include all computational aspects of meaning of
+natural language within written, spoken, or multimodal communication. We are
+organising the 11th IWCS conference; this will be held in Queen Mary University
+of London on April 14-17th 2015. For more info see &lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This year we would like to organize a hackathon right after the conference on
+April 18th-19th. The goal of the event is to provide an opportunity to
+discuss and develop tools that are used in Computational Semantics. Moreover, we
+also would like to attract anyone interested in data processing tools so they
+could contribute to open source projects represented at the event. Currently, we
+are looking for sponsors to support the event. We aim to invite core developers
+of relevant open source projects (e.g. &lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; and
+&lt;a class="reference external" href="http://scikit-learn.org/"&gt;scikit- learn&lt;/a&gt;) and provide travel grants to
+everyone interested to attend the event.&lt;/p&gt;
+&lt;p&gt;We are also looking for experienced developers who can mentor participants and
+assist with software engineering tools (version control systems, editor,
+development environment set up and so on).&lt;/p&gt;
+&lt;p&gt;To support the event you could:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Provide funding to cover catering, traveling and organisational costs.&lt;/li&gt;
+&lt;li&gt;Propose project ideas that might be implemented during the hackathon.&lt;/li&gt;
+&lt;li&gt;Invite experienced developers to mentor.&lt;/li&gt;
+&lt;li&gt;Share relevant datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In return we can:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Work on your project.&lt;/li&gt;
+&lt;li&gt;Put your logo on the hackathon web page &lt;a class="reference external" href="http://iwcs2015.github.io/hackathon.html"&gt;http://iwcs2015.github.io/hackathon.html&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Provide a space for a poster, promotional material, an information desk, etc.
+at the venue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="contact-information"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id13"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
+&amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Location / Venue</title><link href="http://iwcs2015.github.io/location.html" rel="alternate"></link><updated>2015-02-16T11:01:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-16:location.html</id><summary type="html">&lt;p&gt;IWCS 2015 is being hosted at &lt;a class="reference external" href="http://qmul.ac.uk/"&gt;Queen Mary University of London&lt;/a&gt;, on the &lt;a class="reference external" href="http://www.qmul.ac.uk/about/howtofindus/mileend/"&gt;Mile End
 Campus&lt;/a&gt;. The campus is close to Mile End station, just two stops on the
 Underground from Liverpool Street.&lt;/p&gt;
 
@@ -117,84 +194,6 @@ tube station is Holborn on the central line direct to Mile End.&lt;/p&gt;
 &lt;p&gt;If none of these appeal or are full you can choose any hotel close to a
 District/Hammersmith and City/Central line tube station. Journey time approx. 45
 – 50 mins.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-03T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-03:hackathon.html</id><summary type="html">&lt;!-- :news_headline: Hackathon announcement --&gt;
-&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, immediately
-after the main conference on &lt;strong&gt;April 18th-19th&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
-participate. The goal of the event is to provide an opportunity to discuss and
-develop tools that are used in Computational Semantics. Moreover, we also would
-like to attract anyone interested in data processing tools so they could
-contribute to open source projects represented at the event.&lt;/p&gt;
-&lt;p&gt;The hackathon is organised by the Computational Linguistics lab at QMUL and
-sponsored by the &lt;a class="reference external" href="http://www.epsrc.ac.uk/"&gt;EPSRC&lt;/a&gt; grant &lt;a class="reference external" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1"&gt;EP/J002607/1 -- Foundational Structures for
-Compositional Meaning&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class="section" id="project-ideas"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id9"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt;! The list below shows some
-possibilities:&lt;/p&gt;
-&lt;div class="section" id="tweet-paraphrase-generator"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id10"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
-substituting all the content words (nouns, verbs, adjectives and adverbs) with
-similar words.&lt;/p&gt;
-&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs&lt;/a&gt; and generate a paraphrase tweet. Also,
-tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="nltk-corpus-readers"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id11"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
-textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
-(called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Groningen Meaning Bank&lt;/strong&gt;: the &lt;a class="reference external" href="http://gmb.let.rug.nl/"&gt;Groningen Meaning Bank&lt;/a&gt; is a free semantically annotated corpus that anyone can edit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;UkWaC&lt;/strong&gt;: &lt;a class="reference external" href="http://wacky.sslmit.unibo.it/doku.php"&gt;UkWaC&lt;/a&gt; is a 2 billion word corpus constructed from the Web limiting the crawl to the .uk domain.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wikipedia&lt;/strong&gt;: Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used as a corpus a dump has to be cleaned up from the wiki markup.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AMR&lt;/strong&gt;: the &lt;a class="reference external" href="http://amr.isi.edu/index.html"&gt;AMR Bank&lt;/a&gt; is a set of English sentences paired with simple, readable semantic representations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
-meeting of SIGSEM, the ACL special interest group on semantics. The areas
-of interest for the conference include all computational aspects of meaning of
-natural language within written, spoken, or multimodal communication. We are
-organising the 11th IWCS conference; this will be held in Queen Mary University
-of London on April 14-17th 2015. For more info see &lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year we would like to organize a hackathon right after the conference on
-April 18th-19th. The goal of the event is to provide an opportunity to
-discuss and develop tools that are used in Computational Semantics. Moreover, we
-also would like to attract anyone interested in data processing tools so they
-could contribute to open source projects represented at the event. Currently, we
-are looking for sponsors to support the event. We aim to invite core developers
-of relevant open source projects (e.g. &lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; and
-&lt;a class="reference external" href="http://scikit-learn.org/"&gt;scikit- learn&lt;/a&gt;) and provide travel grants to
-everyone interested to attend the event.&lt;/p&gt;
-&lt;p&gt;We are also looking for experienced developers who can mentor participants and
-assist with software engineering tools (version control systems, editor,
-development environment set up and so on).&lt;/p&gt;
-&lt;p&gt;To support the event you could:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Provide funding to cover catering, traveling and organisational costs.&lt;/li&gt;
-&lt;li&gt;Propose project ideas that might be implemented during the hackathon.&lt;/li&gt;
-&lt;li&gt;Invite experienced developers to mentor.&lt;/li&gt;
-&lt;li&gt;Share relevant datasets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In return we can:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Work on your project.&lt;/li&gt;
-&lt;li&gt;Put your logo on the hackathon web page &lt;a class="reference external" href="http://iwcs2015.githib.io/hackathon"&gt;http://iwcs2015.githib.io/hackathon&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Provide a space for a poster, promotional material, an information desk, etc.
-at the venue.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id13"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
-&amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Workshops at IWCS 2015</title><link href="http://iwcs2015.github.io/workshops.html" rel="alternate"></link><updated>2014-11-01T11:27:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2014-11-01:workshops.html</id><summary type="html">&lt;p&gt;IWCS 2015 will include 5 associated workshops, held on 14th
