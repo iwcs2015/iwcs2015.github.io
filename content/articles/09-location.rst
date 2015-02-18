@@ -136,4 +136,34 @@ fastest first:
 Accommodation
 =============
 
-A list of suggested hotels will be posted here shortly.
+Hotels close to QMUL
+--------------------
+
+They are all new or fairly new, all have their own character, some are more
+funky than others, and of course some have more facilities. We suggest you check
+their websites to see which would suit you. Bookable by the usual hotels web
+sites. All hotels are about 30 mins walk, 12-14 mins by bus 25/205 every 3-4
+mins,  15 mins by tube District/Hammersmith and City line.
+
+* `City Hotel <http://www.cityhotellondon.co.uk/>`_ ☆☆☆ 12 Osborn Street, Aldgate East, London, E1 6TE
+* `Ibis City <http://www.ibis.com/gb/hotel-5011-ibis-london-city/index.shtml>`_ ☆☆ 5 Commercial Street, London, E1 6BF
+* `Ibis Budget London Whitechapel <http://www.ibis.com/gb/hotel-8033-ibis-budget-london-whitechapel/index.shtml>`_ ☆☆ 100 Whitechapel Road, LONDON, E1 1JG
+* `Premier Inn London City (Aldgate) <http://www.premierinn.com/en/hotel/LONALD/london-city-aldgate>`_ ☆☆☆ 66 Alie Street, Aldgate, London, E1 8PX
+* `Qbic Hotel London City <https://london.qbichotels.com/>`_ ☆☆☆ 42 Adler Street, London, E1 1EE
+* `The Whitechapel <http://thewhitechapelhotel.com/>`_ ☆☆☆☆ 49-53 New Road, London, E1 1HH
+
+
+Hotels in Bloomsbury
+--------------------
+
+`Imperial Hotels <http://www.imperialhotels.co.uk/>`_ have several hotels in and
+around the Bloomsbury area where there are plentiful restaurants. The nearest
+tube station is Holborn on the central line direct to Mile End.
+
+* `Imperial <http://www.imperialhotels.co.uk/imperial>`_ ☆☆☆☆ Russell Square, London WC1B 5BB
+* `President <http://www.hotel-assist.com/presidenthotellondon.html>`_ ☆☆☆☆ 56-60 Guildford Street, London WC1N 1DB
+* `Bedford <http://www.imperialhotels.co.uk/bedford>`_ ☆☆☆ Southampton Row, London WC1B 4HD
+
+If none of these appeal or are full you can choose any hotel close to a
+District/Hammersmith and City/Central line tube station. Journey time approx. 45
+– 50 mins.
