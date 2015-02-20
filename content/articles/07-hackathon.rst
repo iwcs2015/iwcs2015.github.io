@@ -90,7 +90,7 @@ organising the 11th IWCS conference; this will be held in Queen Mary University
 of London on April 14-17th 2015. For more info see http://sigsem.org/iwcs2015.
 
 This year we would like to organize a hackathon the weekend before the
-conference on April 11th-18th. The goal of the event is to provide an
+conference on April 11th-12th. The goal of the event is to provide an
 opportunity to discuss and develop tools that are used in Computational
 Semantics. Moreover, we also would like to attract anyone interested in data
 processing tools so they could contribute to open source projects represented at
