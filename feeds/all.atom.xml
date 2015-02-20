@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-18T13:32:00+00:00</updated><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, immediately
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-20T12:16:00+00:00</updated><entry><title>Invited Speakers</title><link href="http://iwcs2015.github.io/speakers.html" rel="alternate"></link><updated>2015-02-20T12:16:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-20:speakers.html</id><summary type="html">
+&lt;div class="section" id="regina-barzilay"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Regina Barzilay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Semantics of Language Grounding&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, I will address the problem of natural language grounding. We
+assume access to natural language documents that specify the desired behavior of
+a control application. Our goal is to generate a program that will perform the
+task based on this description. The programs involve everything from changing
+the privacy settings on your browser, playing computer games, performing complex
+text processing tasks, to even solving math problems. Learning to perform tasks
+like these is complicated because the space of possible programs is very large,
+and the connections between the natural language and the resulting programs can
+be complex and ambiguous.  I will present methods that utilize semantics of the
+target domain to reduce natural language ambiguity.  On the most basic level,
+executing the induced programs in the corresponding environment and observing
+their effects can be used to verify the validity of the mapping from language to
+programs.  We leverage this validation process as the main source of supervision
+to guide learning in settings where standard supervised techniques are not
+applicable. Beyond validation feedback, we demonstrate that using semantic
+inference in the target domain (e.g., program equivalence) can further improve
+the accuracy of natural language understanding.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, immediately
 after the main conference on &lt;strong&gt;April 18th-19th&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
