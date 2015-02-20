@@ -9,8 +9,10 @@ Invited Speakers
 .. contents::
     :depth: 1
 
-Regina Barzilay
-===============
+`Regina Barzilay <http://people.csail.mit.edu/regina/>`_
+========================================================
+
+`Massachusetts Institute of Technology`
 
 **Semantics of Language Grounding**
 
@@ -31,3 +33,17 @@ to guide learning in settings where standard supervised techniques are not
 applicable. Beyond validation feedback, we demonstrate that using semantic
 inference in the target domain (e.g., program equivalence) can further improve
 the accuracy of natural language understanding.
+
+`Ann Copestake <http://www.cl.cam.ac.uk/~aac10/>`_
+==================================================
+
+`University of Cambridge`
+
+TBA
+
+`Yoshua Bengio <http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html>`_
+============================================================================
+
+`Université de Montréal`
+
+TBA
