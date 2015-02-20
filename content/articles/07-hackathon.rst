@@ -8,8 +8,21 @@ Computational Semantics Hackathon
 
 :news_headline: Hackathon announced
 
-This year, IWCS will feature a **Computational Semantics Hackathon**, immediately
-after the main conference on **April 18th-19th**.
+.. html::
+
+    <div class="uk-alert uk-alert-large uk-alert-warning" data-uk-alert="">
+        <a href="" class="uk-alert-close uk-close"></a>
+
+        <h3>We are still planning the event and the information on this page might change!</h3>
+
+        <p>
+           Note that the evnet takes place on <b>April 11th-12th</b>.
+        </p>
+
+    </div>
+
+This year, IWCS will feature a **Computational Semantics Hackathon**, before the
+main conference on **April 11th-12th**.
 
 We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
@@ -76,15 +89,15 @@ natural language within written, spoken, or multimodal communication. We are
 organising the 11th IWCS conference; this will be held in Queen Mary University
 of London on April 14-17th 2015. For more info see http://sigsem.org/iwcs2015.
 
-This year we would like to organize a hackathon right after the conference on
-April 18th-19th. The goal of the event is to provide an opportunity to
-discuss and develop tools that are used in Computational Semantics. Moreover, we
-also would like to attract anyone interested in data processing tools so they
-could contribute to open source projects represented at the event. Currently, we
-are looking for sponsors to support the event. We aim to invite core developers
-of relevant open source projects (e.g. `NLTK <http://www.nltk.org/>`_ and
-`scikit- learn <http://scikit-learn.org/>`_) and provide travel grants to
-everyone interested to attend the event.
+This year we would like to organize a hackathon the weekend before the
+conference on April 11th-18th. The goal of the event is to provide an
+opportunity to discuss and develop tools that are used in Computational
+Semantics. Moreover, we also would like to attract anyone interested in data
+processing tools so they could contribute to open source projects represented at
+the event. Currently, we are looking for sponsors to support the event. We aim
+to invite core developers of relevant open source projects (e.g. `NLTK
+<http://www.nltk.org/>`_ and `scikit- learn <http://scikit-learn.org/>`_) and
+provide travel grants to everyone interested to attend the event.
 
 We are also looking for experienced developers who can mentor participants and
 assist with software engineering tools (version control systems, editor,
