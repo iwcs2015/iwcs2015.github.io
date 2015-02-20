@@ -32,6 +32,7 @@ MENUITEMS = (
 #    ('Call for papers', 'call-for-papers.html'),
     ('Accepted Papers', 'accepted-papers.html'),
     ('Workshops', 'workshops.html'),
+    ('Invited Speakers', 'speakers.html'),
     ('Hackathon', 'hackathon.html'),
     ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),

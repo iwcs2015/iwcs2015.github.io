@@ -23,8 +23,8 @@ meaning in natural language, whether this is from a lexical or structural
 semantic perspective. IWCS embraces both symbolic and statistical approaches to
 computational semantics, and everything in between.
 
-Invited speakers
-================
+`Invited speakers <{filename}/articles/10-invited-speakers.rst>`_
+=================================================================
 
 * **Ann Copestake** `University of Cambridge`
 * **Yoshua Bengio** `Université de Montréal`
