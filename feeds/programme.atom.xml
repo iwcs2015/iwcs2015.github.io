@@ -19,8 +19,8 @@
 &lt;br/&gt; &lt;strong&gt;Casey Kennington, Livia Dia and David Schlangen&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Semantic Dependency Graph Parsing Using Tree Approximations&lt;/em&gt;
 &lt;br/&gt; &lt;strong&gt;Željko Agić, Alexander Koller and Stephan Oepen&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Type-Driven Incremental Semantic Parsing with Polymorphism&lt;/em&gt;
-&lt;br/&gt; &lt;strong&gt;Kai Zhao and Liang Huang&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- *Type-Driven Incremental Semantic Parsing with Polymorphism* --&gt;
+&lt;!-- **Kai Zhao and Liang Huang** --&gt;
 &lt;p&gt;&lt;em&gt;Semantic construction with graph grammars&lt;/em&gt;
 &lt;br/&gt; &lt;strong&gt;Alexander Koller&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Incremental Semantics for Dialogue Processing: Requirements, and a Comparison of Two Approaches&lt;/em&gt;
