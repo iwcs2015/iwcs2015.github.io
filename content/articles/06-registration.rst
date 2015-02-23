@@ -11,8 +11,10 @@ Registration
 
 .. contents::
 
-Registration will be available online from this page soon - indicative
-fees are shown here.
+Registration is now open `here.`__
+
+__ http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=34&catid=1&prodid=521
+
 
 Main Conference
 ===============
@@ -26,7 +28,7 @@ welcome reception and the conference dinner and boat trip.
 +----------+------------------------+---------------------+-----------+
 |          |    (until 17/03/2015)  | (until 13/04/2015)  |           |
 +----------+------------------------+---------------------+-----------+
-| Standard |        GBP 190         |      GBP 220        |   GBP 250 |
+| Standard |        GBP 190         |      GBP 225        |   GBP 260 |
 +----------+------------------------+---------------------+-----------+
 |  Student |        GBP 115         |      GBP 145        |   GBP 165 |
 +----------+------------------------+---------------------+-----------+
