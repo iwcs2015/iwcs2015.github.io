@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/registration.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2014-12-09T10:00:00+00:00</updated><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2014-12-09T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-12-09:registration.html</id><summary type="html">
-&lt;p&gt;Registration will be available online from this page soon - indicative
-fees are shown here.&lt;/p&gt;
+&lt;p&gt;Registration is now open &lt;a class="reference external" href="http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&amp;amp;modid=2&amp;amp;deptid=34&amp;amp;catid=1&amp;amp;prodid=521"&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;div class="section" id="main-conference"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Registration fees include attendance to all sessions (and workshops -
 see below), lunches and coffee breaks, as well as participation in the
 welcome reception and the conference dinner and boat trip.&lt;/p&gt;
@@ -27,8 +26,8 @@ welcome reception and the conference dinner and boat trip.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Standard&lt;/td&gt;
 &lt;td&gt;GBP 190&lt;/td&gt;
-&lt;td&gt;GBP 220&lt;/td&gt;
-&lt;td&gt;GBP 250&lt;/td&gt;
+&lt;td&gt;GBP 225&lt;/td&gt;
+&lt;td&gt;GBP 260&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Student&lt;/td&gt;
 &lt;td&gt;GBP 115&lt;/td&gt;
@@ -43,7 +42,7 @@ welcome reception and the conference dinner and boat trip.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="workshops"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Workshops&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Workshops&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Attendance at all workshops is included in the main conference registration, and we encourage all attendees to come along - see &lt;a class="reference external" href="/workshops-at-iwcs-2015.html"&gt;here&lt;/a&gt; for information on the workshops available.&lt;/p&gt;
 &lt;p&gt;For those who want to attend workshops without attending the main conference, there will be a separate fee:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
