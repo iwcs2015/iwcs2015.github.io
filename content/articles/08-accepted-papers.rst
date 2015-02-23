@@ -44,8 +44,8 @@ Long Papers, with oral presentation
 *Semantic Dependency Graph Parsing Using Tree Approximations*
 |br| **Željko Agić, Alexander Koller and Stephan Oepen**
 
-*Type-Driven Incremental Semantic Parsing with Polymorphism*
-|br| **Kai Zhao and Liang Huang**
+.. *Type-Driven Incremental Semantic Parsing with Polymorphism*
+.. **Kai Zhao and Liang Huang**
 
 *Semantic construction with graph grammars*
 |br| **Alexander Koller**
