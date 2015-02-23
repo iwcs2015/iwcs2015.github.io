@@ -98,8 +98,8 @@ Short Papers, with poster and "lightning talk" presentation
 *Multilingual Reliability and “Semantic” Structure of Continuous Word Spaces*
 |br| **Maximilian Köper, Christian Scheible and Sabine Schulte im Walde**
 
-*Random Walks and Neural Network Language Models on Large Knowledge Bases*
-|br| **Josu Goikoetxea, Eneko Agirre and Aitor Soroa**
+.. *Random Walks and Neural Network Language Models on Large Knowledge Bases*
+.. **Josu Goikoetxea, Eneko Agirre and Aitor Soroa**
 
 *Clarifying Intentions in Dialogue: A Corpus Study*
 |br| **Julian J. Schlöder and Raquel Fernandez**
