@@ -2,12 +2,15 @@
 Registration
 ============
 
-:date: 2014-12-09 10:00
 :tags: registration
 :category: Registration
-:news_headline: Registration information added
 :author: Matthew Purver
 
+:date: 2014-12-09 10:00
+:news_headline: Registration information added
+
+:date: 2015-02-23 10:00
+:news_headline: Registration open
 
 .. contents::
 
