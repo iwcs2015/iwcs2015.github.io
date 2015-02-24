@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-20T12:16:00+00:00</updated><entry><title>Invited Speakers</title><link href="http://iwcs2015.github.io/speakers.html" rel="alternate"></link><updated>2015-02-20T12:16:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-20:speakers.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-23T10:00:00+00:00</updated><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2015-02-23T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2015-02-23:registration.html</id><summary type="html">
+&lt;p&gt;Registration is now open &lt;a class="reference external" href="http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&amp;amp;modid=2&amp;amp;deptid=34&amp;amp;catid=1&amp;amp;prodid=521"&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="main-conference"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Registration fees include attendance to all sessions (and workshops -
+see below), lunches and coffee breaks, as well as participation in the
+welcome reception and the conference dinner and boat trip.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="15%"&gt;&lt;/col&gt;
+&lt;col width="36%"&gt;&lt;/col&gt;
+&lt;col width="32%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;Early&lt;/td&gt;
+&lt;td&gt;Late&lt;/td&gt;
+&lt;td&gt;On-Site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
+&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Standard&lt;/td&gt;
+&lt;td&gt;GBP 190&lt;/td&gt;
+&lt;td&gt;GBP 225&lt;/td&gt;
+&lt;td&gt;GBP 260&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Student&lt;/td&gt;
+&lt;td&gt;GBP 115&lt;/td&gt;
+&lt;td&gt;GBP 145&lt;/td&gt;
+&lt;td&gt;GBP 165&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="workshops"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Workshops&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Attendance at all workshops is included in the main conference registration, and we encourage all attendees to come along - see &lt;a class="reference external" href="/workshops-at-iwcs-2015.html"&gt;here&lt;/a&gt; for information on the workshops available.&lt;/p&gt;
+&lt;p&gt;For those who want to attend workshops without attending the main conference, there will be a separate fee:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="15%"&gt;&lt;/col&gt;
+&lt;col width="36%"&gt;&lt;/col&gt;
+&lt;col width="32%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;Early&lt;/td&gt;
+&lt;td&gt;Late&lt;/td&gt;
+&lt;td&gt;On-Site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
+&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Worshop&lt;/td&gt;
+&lt;td&gt;GBP 55&lt;/td&gt;
+&lt;td&gt;GBP 80&lt;/td&gt;
+&lt;td&gt;GBP 100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="registration"></category></entry><entry><title>Invited Speakers</title><link href="http://iwcs2015.github.io/speakers.html" rel="alternate"></link><updated>2015-02-20T12:16:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-20:speakers.html</id><summary type="html">
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://www.cl.cam.ac.uk/~aac10/"&gt;Ann Copestake&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;University of Cambridge&lt;/cite&gt;&lt;/p&gt;
@@ -32,7 +104,7 @@ applicable. Beyond validation feedback, we demonstrate that using semantic
 inference in the target domain (e.g., program equivalence) can further improve
 the accuracy of natural language understanding.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;div class="uk-alert uk-alert-large uk-alert-warning" data-uk-alert=""&gt; &lt;a class="uk-alert-close uk-close" href=""&gt;&lt;/a&gt; &lt;h3&gt;We are still planning the event and the information on this page might change!&lt;/h3&gt; &lt;p&gt;        Note that the evnet takes place on &lt;b&gt;April 11th-12th&lt;/b&gt;.     &lt;/p&gt; &lt;/div&gt;&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
+</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;div class="uk-alert uk-alert-large uk-alert-warning" data-uk-alert=""&gt; &lt;a class="uk-alert-close uk-close" href=""&gt;&lt;/a&gt; &lt;h3&gt;We are still planning the event and the information on this page might change!&lt;/h3&gt; &lt;p&gt;        Note that the event takes place on &lt;b&gt;April 11th-12th&lt;/b&gt;.     &lt;/p&gt; &lt;/div&gt;&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
 main conference on &lt;strong&gt;April 11th-12th&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
@@ -310,79 +382,7 @@ District/Hammersmith and City/Central line tube station. Journey time approx. 45
 &lt;p&gt;&lt;em&gt;Curse or Boon? Presence of Subjunctive Mood in Opinionated Text&lt;/em&gt;
 &lt;br/&gt; &lt;strong&gt;Sapna Negi and Paul Buitelaar&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="programme"></category></entry><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2014-12-09T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2014-12-09:registration.html</id><summary type="html">
-&lt;p&gt;Registration is now open &lt;a class="reference external" href="http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&amp;amp;modid=2&amp;amp;deptid=34&amp;amp;catid=1&amp;amp;prodid=521"&gt;here.&lt;/a&gt;&lt;/p&gt;
-&lt;div class="section" id="main-conference"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Registration fees include attendance to all sessions (and workshops -
-see below), lunches and coffee breaks, as well as participation in the
-welcome reception and the conference dinner and boat trip.&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="15%"&gt;&lt;/col&gt;
-&lt;col width="36%"&gt;&lt;/col&gt;
-&lt;col width="32%"&gt;&lt;/col&gt;
-&lt;col width="17%"&gt;&lt;/col&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
-&lt;td&gt;Early&lt;/td&gt;
-&lt;td&gt;Late&lt;/td&gt;
-&lt;td&gt;On-Site&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
-&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
-&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Standard&lt;/td&gt;
-&lt;td&gt;GBP 190&lt;/td&gt;
-&lt;td&gt;GBP 225&lt;/td&gt;
-&lt;td&gt;GBP 260&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Student&lt;/td&gt;
-&lt;td&gt;GBP 115&lt;/td&gt;
-&lt;td&gt;GBP 145&lt;/td&gt;
-&lt;td&gt;GBP 165&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
-&lt;div class="line"&gt;&lt;br/&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="workshops"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Workshops&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Attendance at all workshops is included in the main conference registration, and we encourage all attendees to come along - see &lt;a class="reference external" href="/workshops-at-iwcs-2015.html"&gt;here&lt;/a&gt; for information on the workshops available.&lt;/p&gt;
-&lt;p&gt;For those who want to attend workshops without attending the main conference, there will be a separate fee:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="15%"&gt;&lt;/col&gt;
-&lt;col width="36%"&gt;&lt;/col&gt;
-&lt;col width="32%"&gt;&lt;/col&gt;
-&lt;col width="17%"&gt;&lt;/col&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
-&lt;td&gt;Early&lt;/td&gt;
-&lt;td&gt;Late&lt;/td&gt;
-&lt;td&gt;On-Site&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
-&lt;td&gt;(until 17/03/2015)&lt;/td&gt;
-&lt;td&gt;(until 13/04/2015)&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Worshop&lt;/td&gt;
-&lt;td&gt;GBP 55&lt;/td&gt;
-&lt;td&gt;GBP 80&lt;/td&gt;
-&lt;td&gt;GBP 100&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</summary><category term="registration"></category></entry><entry><title>Workshops at IWCS 2015</title><link href="http://iwcs2015.github.io/workshops.html" rel="alternate"></link><updated>2014-11-01T11:27:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2014-11-01:workshops.html</id><summary type="html">&lt;p&gt;IWCS 2015 will include 5 associated workshops, held on 14th
+</summary><category term="programme"></category></entry><entry><title>Workshops at IWCS 2015</title><link href="http://iwcs2015.github.io/workshops.html" rel="alternate"></link><updated>2014-11-01T11:27:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2014-11-01:workshops.html</id><summary type="html">&lt;p&gt;IWCS 2015 will include 5 associated workshops, held on 14th
 April 2015. Attendance at workshops will be included in the main
 conference registration - see &lt;a class="reference external" href="/registration.html"&gt;Registration&lt;/a&gt; for details.&lt;/p&gt;
 
