@@ -16,7 +16,7 @@ Computational Semantics Hackathon
         <h3>We are still planning the event and the information on this page might change!</h3>
 
         <p>
-           Note that the evnet takes place on <b>April 11th-12th</b>.
+           Note that the event takes place on <b>April 11th-12th</b>.
         </p>
 
     </div>
