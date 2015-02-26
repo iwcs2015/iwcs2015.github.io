@@ -23,7 +23,7 @@ Long paper submissions should not exceed 10 pages of content, but can optionally
 Submission Deadline
 ===================
 
-Authors must submit final camera-ready versions no later than **25th February 2015**. Final versions should no longer be anonymised!
+Authors must submit final camera-ready versions no later than **27th February 2015**. Final versions should no longer be anonymised!
 
 .. Authors must submit not later than **16th December 2014**; this submission must contain at least an abstract with enough information to allow assignment of suitable reviewers. Once submitted, we will accept revisions, but final versions must be submitted not later than **19th December 2014**.
 
