@@ -10,10 +10,8 @@ Computational Semantics Hackathon
 
 .. html::
 
-    <div class="uk-alert uk-alert-large uk-alert-warning" data-uk-alert="">
+    <div class="uk-alert uk-alert-large uk-alert-info" data-uk-alert="">
         <a href="" class="uk-alert-close uk-close"></a>
-
-        <h3>We are still planning the event and the information on this page might change!</h3>
 
         <p>
            Note that the event takes place on <b>April 11th-12th</b>.
@@ -44,10 +42,11 @@ Project ideas
 =============
 
 Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please `get in touch`__! The list below shows some
-possibilities:
+computational semantics - please `get in touch`__ or submit a pull request with
+your idea added to `this page`__! The list below shows some possibilities:
 
 __ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
+__ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
 
 Tweet paraphrase generator
 --------------------------
