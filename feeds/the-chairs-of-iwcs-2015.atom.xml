@@ -32,7 +32,7 @@ applicable. Beyond validation feedback, we demonstrate that using semantic
 inference in the target domain (e.g., program equivalence) can further improve
 the accuracy of natural language understanding.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;div class="uk-alert uk-alert-large uk-alert-warning" data-uk-alert=""&gt; &lt;a class="uk-alert-close uk-close" href=""&gt;&lt;/a&gt; &lt;h3&gt;We are still planning the event and the information on this page might change!&lt;/h3&gt; &lt;p&gt;        Note that the event takes place on &lt;b&gt;April 11th-12th&lt;/b&gt;.     &lt;/p&gt; &lt;/div&gt;&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
+</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;div class="uk-alert uk-alert-large uk-alert-info" data-uk-alert=""&gt; &lt;a class="uk-alert-close uk-close" href=""&gt;&lt;/a&gt; &lt;p&gt;        Note that the event takes place on &lt;b&gt;April 11th-12th&lt;/b&gt;.     &lt;/p&gt; &lt;/div&gt;&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
 main conference on &lt;strong&gt;April 11th-12th&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
@@ -44,12 +44,12 @@ sponsored by the &lt;a class="reference external" href="http://www.epsrc.ac.uk/"
 Compositional Meaning&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class="section" id="project-ideas"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id9"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id10"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt;! The list below shows some
-possibilities:&lt;/p&gt;
+computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt; or submit a pull request with
+your idea added to &lt;a class="reference external" href="https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst"&gt;this page&lt;/a&gt;! The list below shows some possibilities:&lt;/p&gt;
 &lt;div class="section" id="tweet-paraphrase-generator"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id10"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id11"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
 similar words.&lt;/p&gt;
@@ -57,7 +57,7 @@ similar words.&lt;/p&gt;
 tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="nltk-corpus-readers"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id11"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id12"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
 textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
 (called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
@@ -70,7 +70,7 @@ textual information. &lt;a class="reference external" href="http://www.nltk.org/
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id13"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
 meeting of SIGSEM, the ACL special interest group on semantics. The areas
 of interest for the conference include all computational aspects of meaning of
@@ -103,7 +103,7 @@ development environment set up and so on).&lt;/p&gt;
 at the venue.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id13"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
 &amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
