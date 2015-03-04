@@ -21,8 +21,8 @@ to the hackathon will be opened soon.
 
 The event will take place at `Ground Cafe <http://www.qmsu.org/ground/>`_. It's
 building 33 on the `QMUL campus map <{filename}/static/qm-campus-map.pdf>`_.
-Please refer to the `location page <{filename/articles/09-location.rst}>`_ for
-more information on how to get to QM Mile End campus.
+Please refer to the `location page <{filename}/articles/09-location.rst>`_ for
+more information on how to get to the QMUL Mile End Campus.
 
 The hackathon is organised by the Computational Linguistics lab at QMUL and
 sponsored by the `EPSRC`__ grant `EP/J002607/1 — Foundational Structures for
