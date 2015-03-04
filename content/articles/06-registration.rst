@@ -14,10 +14,10 @@ Registration
 
 .. contents::
 
-Registration is now open `here.`__
-
-__ http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=34&catid=1&prodid=521
-
+.. html::
+    <p>
+      Registration is now open. <a class="uk-button uk-button-primary uk-button-mini" href="http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=34&catid=1&prodid=521">Register</a>
+    </p>
 
 Main Conference
 ===============
