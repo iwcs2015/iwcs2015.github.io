@@ -15,7 +15,9 @@ We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
 develop tools that are used in Computational Semantics. Moreover, we also would
 like to attract anyone interested in data processing tools so they could
-contribute to open source projects represented at the event.
+contribute to open source projects represented at the event. *You don't need to
+attend the conference to be able to participate at the hackathon.* Registration
+to the hackathon will be opened soon.
 
 The event will take place at `Ground Cafe <http://www.qmsu.org/ground/>`_. It's
 building 33 on the `QMUL campus map <{filename}/static/qm-campus-map.pdf>`_.
