@@ -62,6 +62,7 @@ DEFAULT_PAGINATION = False
 
 STATIC_PATHS = (
     'static/images',
+    'static/',
 )
 
 LOGO_PATH = 'images/cover.jpg'

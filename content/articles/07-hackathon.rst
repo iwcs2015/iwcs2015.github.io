@@ -8,25 +8,19 @@ Computational Semantics Hackathon
 
 :news_headline: Hackathon announced
 
-.. html::
-
-    <div class="uk-alert uk-alert-large uk-alert-info" data-uk-alert="">
-        <a href="" class="uk-alert-close uk-close"></a>
-
-        <p>
-           Note that the event takes place on <b>April 11th-12th</b>.
-        </p>
-
-    </div>
-
 This year, IWCS will feature a **Computational Semantics Hackathon**, before the
-main conference on **April 11th-12th**.
+main conference on **April 11th-12th** from 10:00 to 17:00.
 
 We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
 develop tools that are used in Computational Semantics. Moreover, we also would
 like to attract anyone interested in data processing tools so they could
 contribute to open source projects represented at the event.
+
+The event will take place at `Ground Cafe <http://www.qmsu.org/ground/>`_. It's
+building 33 on the `QMUL campus map <{filename}/static/qm-campus-map.pdf>`_.
+Please refer to the `location page <{filename/articles/09-location.rst}>`_ for
+more information on how to get to QM Mile End campus.
 
 The hackathon is organised by the Computational Linguistics lab at QMUL and
 sponsored by the `EPSRC`__ grant `EP/J002607/1 — Foundational Structures for

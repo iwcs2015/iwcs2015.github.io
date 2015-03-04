@@ -24,8 +24,9 @@ semantic perspective. IWCS embraces both symbolic and statistical approaches to
 computational semantics, and everything in between.
 
 The main conference will be held Wednesday 15th to Friday 17th April, with a day
-of `workshops <workshops.html>`_ on Tuesday 14th, and a `hackathon
-<hackathon.html>`_ on the previous weekend 11-12th. 
+of `workshops <{filename}/articles/05-workshops.rst>`_ on Tuesday 14th, and a
+`hackathon <{filename}/articles/07-hackathon.rst>`_ on the previous weekend
+11-12th.
 
 .. _`Computational Linguistics Lab`: http://compling.eecs.qmul.ac.uk
 
