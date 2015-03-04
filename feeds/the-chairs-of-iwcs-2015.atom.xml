@@ -32,13 +32,17 @@ applicable. Beyond validation feedback, we demonstrate that using semantic
 inference in the target domain (e.g., program equivalence) can further improve
 the accuracy of natural language understanding.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;div class="uk-alert uk-alert-large uk-alert-info" data-uk-alert=""&gt; &lt;a class="uk-alert-close uk-close" href=""&gt;&lt;/a&gt; &lt;p&gt;        Note that the event takes place on &lt;b&gt;April 11th-12th&lt;/b&gt;.     &lt;/p&gt; &lt;/div&gt;&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
-main conference on &lt;strong&gt;April 11th-12th&lt;/strong&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Computational Semantics Hackathon</title><link href="http://iwcs2015.github.io/hackathon.html" rel="alternate"></link><updated>2015-02-18T13:32:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-02-18:hackathon.html</id><summary type="html">&lt;p&gt;This year, IWCS will feature a &lt;strong&gt;Computational Semantics Hackathon&lt;/strong&gt;, before the
+main conference on &lt;strong&gt;April 11th-12th&lt;/strong&gt; from 10:00 to 17:00.&lt;/p&gt;
 &lt;p&gt;We invite researchers, developers, students and users of semantic NLP tools to
 participate. The goal of the event is to provide an opportunity to discuss and
 develop tools that are used in Computational Semantics. Moreover, we also would
 like to attract anyone interested in data processing tools so they could
 contribute to open source projects represented at the event.&lt;/p&gt;
+&lt;p&gt;The event will take place at &lt;a class="reference external" href="http://www.qmsu.org/ground/"&gt;Ground Cafe&lt;/a&gt;. It's
+building 33 on the &lt;a class="reference external" href="http://iwcs2015.github.io/static/qm-campus-map.pdf"&gt;QMUL campus map&lt;/a&gt;.
+Please refer to the &lt;a class="reference external" href="{filename/articles/09-location.rst}"&gt;location page&lt;/a&gt; for
+more information on how to get to QM Mile End campus.&lt;/p&gt;
 &lt;p&gt;The hackathon is organised by the Computational Linguistics lab at QMUL and
 sponsored by the &lt;a class="reference external" href="http://www.epsrc.ac.uk/"&gt;EPSRC&lt;/a&gt; grant &lt;a class="reference external" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1"&gt;EP/J002607/1 — Foundational Structures for
 Compositional Meaning&lt;/a&gt;.&lt;/p&gt;
@@ -132,7 +136,7 @@ Underground from Liverpool Street.&lt;/p&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id11"&gt;Conference Venue&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The conference itself will take place on the first floor of the Francis Bancroft
 Building, with plenary sessions in the Mason Lecture Theatre, and registration
-and poster sessions just across the corridor. It's building 31 on the &lt;a class="reference external" href="http://www.qmul.ac.uk/docs/about/26065.pdf"&gt;QMUL
+and poster sessions just across the corridor. It's building 31 on the &lt;a class="reference external" href="http://iwcs2015.github.io/static/qm-campus-map.pdf"&gt;QMUL
 campus map&lt;/a&gt;, but the map below might be more helpful for finding your way
 there:&lt;/p&gt;
 &lt;iframe frameborder="0" height="350px" src="https://a.tiles.mapbox.com/v4/dimazest.l7ofpke2/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoiZGltYXplc3QiLCJhIjoiem5xQ0g0RSJ9.8WDiazmCzQWvjxbd6uSmQA" width="100%"&gt;&lt;/iframe&gt;&lt;!-- If you have booked accommodation, please go to France House when you arrive, to
