@@ -78,6 +78,26 @@ __ http://wacky.sslmit.unibo.it/doku.php
 __ https://dumps.wikimedia.org/enwiki/
 __ http://amr.isi.edu/index.html
 
+A distributional semantic toolkit
+-------------------
+This project aims to provide researchers working in distributional semantics with
+a set of core Python utilities. The following functionality is required:
+
+* A space-efficient datastructure for storing distributed representations of words
+and phrases, e.g. through memory-mapped `numpy` arrays or `bcolz`-backed `pandas` data frames
+* Efficient exact and approximate nearest neighbour search, e.g. through a `scikit-learn`'s
+KD-tree or random projections
+* Efficient dimensionality reduction (SVD, NMF) and feature reweighting (PMI, PPMI)
+* Converters to and from commonly used formats
+* Easy evaluation against a set of word similarity datasets, such as Mitchel and Lapata (2008) or MEN
+
+The project will involve merging and documenting existing pieces of software, such as
+`DISSECT`__, `Foller.corpora`__ and `discoutils`.
+
+__https://github.com/composes-toolkit/dissect
+__https://github.com/dimazest/fowler.corpora
+__https://github.com/MLCL/DiscoUtils
+
 Call for Sponsorship
 ====================
 
