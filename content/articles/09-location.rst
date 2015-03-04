@@ -20,7 +20,11 @@ Conference Venue
 
 The conference itself will take place on the first floor of the Francis Bancroft
 Building, with plenary sessions in the Mason Lecture Theatre, and registration
-and poster sessions just across the corridor.
+and poster sessions just across the corridor. It's building 31 on the `QMUL
+campus map`__, but the map below might be more helpful for finding your way
+there:
+
+__ http://www.qmul.ac.uk/docs/about/26065.pdf
 
 .. html::
 
