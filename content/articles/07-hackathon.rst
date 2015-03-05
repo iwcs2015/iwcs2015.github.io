@@ -64,15 +64,33 @@ textual information. `Corpus readers`__ are interfaces to access textual resourc
 
 __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
 
-* **Groningen Meaning Bank**: the `Groningen Meaning Bank`__ is a free semantically annotated corpus that anyone can edit.
-* **UkWaC**: UkWaC__ is a 2 billion word corpus constructed from the Web limiting the crawl to the .uk domain.
-* **Wikipedia**: Wikipedia provides dumps__ of all its content. However, to be used as a corpus a dump has to be cleaned up from the wiki markup.
-* **AMR**: the `AMR Bank`__ is a set of English sentences paired with simple, readable semantic representations.
+* **Groningen Meaning Bank**: the `Groningen Meaning Bank`__ is a free
+  semantically annotated corpus that anyone can edit.
 
-__ http://gmb.let.rug.nl/
-__ http://wacky.sslmit.unibo.it/doku.php
-__ https://dumps.wikimedia.org/enwiki/
-__ http://amr.isi.edu/index.html
+  __ http://gmb.let.rug.nl/
+
+* **UkWaC**: UkWaC__ is a 2 billion word corpus constructed from the Web
+  limiting the crawl to the .uk domain.
+
+* **Wikipedia**: Wikipedia provides `dumps`__ of all its content. However, to be
+  used as a corpus a dump has to be cleaned up from the wiki markup. There are
+  at least two ways of getting raw text out of a Wikipedia dump. Wiki markup can
+  be filtered out using regular expressions, as `it's done`__ in `gensim`__.
+  Alternatively, text in the wiki markup can be parsed using `Parsoid`__ to
+  obtain (X)HTML, later this HTML is processed, for example tables and images
+  are removed. See `this notebook`__.
+
+  __ http://wacky.sslmit.unibo.it/doku.php
+  __ https://dumps.wikimedia.org/enwiki/
+  __ https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py
+  __ https://radimrehurek.com/gensim/
+  __ https://www.mediawiki.org/wiki/Parsoid
+  __ http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb
+
+* **AMR**: the `AMR Bank`__ is a set of English sentences paired with simple,
+  readable semantic representations.
+
+  __ http://amr.isi.edu/index.html
 
 A distributional semantic toolkit
 ---------------------------------
