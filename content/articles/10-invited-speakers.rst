@@ -9,33 +9,6 @@ Invited Speakers
 .. contents::
     :depth: 1
 
-`Ann Copestake <http://www.cl.cam.ac.uk/~aac10/>`_
-==================================================
-
-`University of Cambridge`
-
-TBA
-
-`Yoshua Bengio <http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html>`_
-============================================================================
-
-`Université de Montréal`
-
-
-**Deep Learning of Semantic Representations**
-
-The core ingredient of deep learning is the notion of distributed
-representation. This talk will start by explaining its theoretical advantages,
-in comparison with non-parametric methods based on counting frequencies of
-occurrence of observed tuples of values (like with n-grams). The talk will then
-explain how having multiple levels of representation, i.e., depth, can in
-principle give another exponential advantage. Neural language models have been
-extremely successful in recent years but extending their reach from language
-modelling to machine translation is very appealing because it forces the learned
-intermediate representations to capture meaning, and we found that the resulting
-word embeddings are qualitatively different. Recently, we introduced the notion
-of attention-based neural machine translation, with impressive results on
-several language pairs, and these results will conclude the talk.
 
 `Regina Barzilay <http://people.csail.mit.edu/regina/>`_
 ========================================================
@@ -61,3 +34,33 @@ to guide learning in settings where standard supervised techniques are not
 applicable. Beyond validation feedback, we demonstrate that using semantic
 inference in the target domain (e.g., program equivalence) can further improve
 the accuracy of natural language understanding.
+
+
+`Yoshua Bengio <http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html>`_
+============================================================================
+
+`Université de Montréal`
+
+
+**Deep Learning of Semantic Representations**
+
+The core ingredient of deep learning is the notion of distributed
+representation. This talk will start by explaining its theoretical advantages,
+in comparison with non-parametric methods based on counting frequencies of
+occurrence of observed tuples of values (like with n-grams). The talk will then
+explain how having multiple levels of representation, i.e., depth, can in
+principle give another exponential advantage. Neural language models have been
+extremely successful in recent years but extending their reach from language
+modelling to machine translation is very appealing because it forces the learned
+intermediate representations to capture meaning, and we found that the resulting
+word embeddings are qualitatively different. Recently, we introduced the notion
+of attention-based neural machine translation, with impressive results on
+several language pairs, and these results will conclude the talk.
+
+
+`Ann Copestake <http://www.cl.cam.ac.uk/~aac10/>`_
+==================================================
+
+`University of Cambridge`
+
+TBA

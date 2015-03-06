@@ -34,6 +34,6 @@ of `workshops <{filename}/articles/05-workshops.rst>`_ on Tuesday 14th, and a
 `Invited speakers <{filename}/articles/10-invited-speakers.rst>`_
 =================================================================
 
-* **Ann Copestake** `University of Cambridge`
-* **Yoshua Bengio** `Université de Montréal`
 * **Regina Barzilay** `Massachusetts Institute of Technology`
+* **Yoshua Bengio** `Université de Montréal`
+* **Ann Copestake** `University of Cambridge`
