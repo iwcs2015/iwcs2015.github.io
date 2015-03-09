@@ -171,3 +171,12 @@ tube station is Holborn on the central line direct to Mile End.
 If none of these appeal or are full you can choose any hotel close to a
 District/Hammersmith and City/Central line tube station. Journey time approx. 45
 – 50 mins.
+
+
+Alternative Options
+-------------------
+
+This list from QMUL Residential Services has some alternatives in the area,
+including some cheaper options:
+
+* `Alternative Acommodation <http://www.residences.qmul.ac.uk/alternative/hotels/>`_
