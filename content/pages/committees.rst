@@ -18,14 +18,10 @@ Conference Chairs
 Local Organisation
 ==================
 
-* Local Chairs
-
-  * Matthew Purver
-  * Mehrnoosh Sadrzadeh
-
-* Website
-
-  * Dmitrijs Milajevs
+* Local Chairs: Matthew Purver, Mehrnoosh Sadrzadeh
+* Website & Hackathon: Dmitrijs Milajevs
+* Facilities: Sascha Griffiths
+* Proceedings: Dimitri Kartsaklis
 
 Programme Committee
 ===================
