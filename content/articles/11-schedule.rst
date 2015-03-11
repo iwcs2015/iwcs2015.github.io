@@ -45,13 +45,10 @@ Preliminary Schedule
    </thead>
    <tbody valign="top">
    <tr><td colspan="2" class="blank">&nbsp;</td>
-   <th>Hackathon</th>
-   <th>Hackathon</th>
+   <th colspan="2">Hackathon</th>
    <th>ISA-11 meetings</th>
    <th>Workshops</th>
-   <th colspan="2">Main Conference</th>
-   <th colspan="2">Main Conference</th>
-   <th colspan="2">Main Conference</th>
+   <th colspan="6">Main Conference</th>
    </tr>
    <tr><td class="blank">&nbsp;</td>
    <td class="blank">&nbsp;</td>
@@ -68,19 +65,19 @@ Preliminary Schedule
    </tr>
    <tr><td>9</td>
    <td>9:30</td>
-   <td class="vertical" rowspan="18">Hackathon</td>
-   <td class="vertical" rowspan="18">Hackathon</td>
-   <td class="vertical" rowspan="18">ISA-11 meetings</td>
-   <td class="vertical" rowspan="8">Workshops</td>
+   <td class="vertical" rowspan="18"><a href="/hackathon.html">Hackathon</a></td>
+   <td class="vertical" rowspan="18"><a href="/hackathon.html">Hackathon</a></td>
+   <td class="vertical" rowspan="18"><a href="/workshops.html#isa-11-the-11th-joint-acl-iso-workshop-on-interoperable-semantic-annotation">ISA-11 meetings</a></td>
+   <td class="vertical" rowspan="8"><a href="/workshops.html">Workshops</a></td>
    <td colspan="2">registration/intro</td>
    <td colspan="2" class="blank">&nbsp;</td>
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
    <tr><td>9:30</td>
    <td>10</td>
-   <td colspan="2" rowspan="2">Keynote: Barzilay</td>
-   <td colspan="2" rowspan="2">Keynote: Bengio</td>
-   <td colspan="2" rowspan="2">Keynote: Copestake</td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id1">Regina Barzilay</a></td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id2">Yoshua Bengio</a></td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id3">Ann Copestake</a></td>
    </tr>
    <tr><td>10</td>
    <td>10:30</td>
@@ -93,11 +90,11 @@ Preliminary Schedule
    </tr>
    <tr><td>11</td>
    <td>11:30</td>
-   <td rowspan="3" colspan="2">Lexical Semantics (papers 22, 26, 27)</td>
+   <td rowspan="3" colspan="2"><a href="#s1">Lexical Semantics</a> (papers 22, 26, 27)</td>
    <!-- <td>27</td> -->
-   <td rowspan="3" colspan="2">Distributional Methods (papers 56, 59, 61)</td>
+   <td rowspan="3" colspan="2"><a href="#s4">Distributional Methods</a> (papers 56, 59, 61)</td>
    <!-- <td>61</td> -->
-   <td rowspan="3" colspan="2">Parsing &amp; Grammars (papers 42, 52, 80)</td>
+   <td rowspan="3" colspan="2"><a href="#s6">Parsing &amp; Grammars</a> (papers 42, 52, 80)</td>
    <!-- <td>42</td> -->
    </tr>
    <tr><td>11:30</td>
@@ -114,7 +111,7 @@ Preliminary Schedule
    </tr>
    <tr><td>12:30</td>
    <td>1</td>
-   <td colspan="2">Lightning Talks</td>
+   <td colspan="2"><a href="#accepted-short-papers">Lightning Talks</a></td>
    <td colspan="2" rowspan="2">lunch</td>
    <td colspan="2" rowspan="2">lunch</td>
    </tr>
@@ -125,15 +122,15 @@ Preliminary Schedule
    </tr>
    <tr><td>1:30</td>
    <td>2</td>
-   <td rowspan="3" colspan="2">Reference &amp; Incrementality (papers 34, 38, 53)</td>
+   <td rowspan="3" colspan="2"><a href="#s5">Reference &amp; Incrementality</a> (papers 34, 38, 53)</td>
    <!-- <td>34</td> -->
-   <td rowspan="3" colspan="2">Dialogue &amp; Pragmatics (papers 17, 62, 65)</td>
+   <td rowspan="3" colspan="2"><a href="#s7">Dialogue &amp; Pragmatics</a> (papers 17, 62, 65)</td>
    <!-- <td>17</td> -->
    </tr>
    <tr><td>2</td>
    <td>2:30</td>
-   <td class="vertical" rowspan="8">Workshops</td>
-   <td colspan="2" rowspan="3">Poster session</td>
+   <td class="vertical" rowspan="8"><a href="/workshops.html">Workshops</a></td>
+   <td colspan="2" rowspan="3"><a href="#accepted-short-papers">Poster session</a></td>
    <!-- <td>38</td> -->
    <!-- <td>62</td> -->
    </tr>
@@ -149,10 +146,10 @@ Preliminary Schedule
    </tr>
    <tr><td>3:30</td>
    <td>4</td>
-   <td rowspan="2" colspan="2">Discourse &amp; Generation (papers 69, 75)</td>
+   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a> (papers 69, 75)</td>
    <!-- <td>69</td> -->
    <td colspan="2" rowspan="5">Open Space Event ("unconference")</td>
-   <td rowspan="2" colspan="2">Logic &amp; Complexity (papers 23, 82)</td>
+   <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a> (papers 23, 82)</td>
    <!-- <td>23</td> -->
    </tr>
    <tr><td>4</td>
@@ -167,7 +164,7 @@ Preliminary Schedule
    </tr>
    <tr><td>5</td>
    <td>5:30</td>
-   <td rowspan="2" colspan="2">Probabilistic Semantics (papers 63, 71)</td>
+   <td rowspan="2" colspan="2"><a href="#s3">Probabilistic Semantics</a> (papers 63, 71)</td>
    <!-- <td>63</td> -->
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
@@ -189,8 +186,7 @@ Preliminary Schedule
    <td class="blank">&nbsp;</td>
    <td class="blank">&nbsp;</td>
    </tr>
-   <tr><td class="blank">&nbsp;</td>
-   <td class="blank">&nbsp;</td>
+   <tr><td colspan="2">Evening</td>
    <td class="blank">&nbsp;</td>
    <td class="blank">&nbsp;</td>
    <td class="blank">&nbsp;</td>
@@ -231,6 +227,8 @@ Preliminary Schedule
       5:30,6,,,,,,71,,,,
       ,,,,,,,,,,,
 
+|
+|
 
 Session & Paper Details
 =======================
@@ -254,7 +252,7 @@ Session & Paper Details
    <tbody valign="top">
    <tr><td rowspan="3">Lexical Semantics</td>
    <td>27</td>
-   <td>Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment</td>
+   <td><a name="s1"/>Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment</td>
    <td>Guy Emerson and Ann Copestake</td>
    </tr>
    <tr>
@@ -269,7 +267,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="2">Discourse &amp; Generation</td>
    <td>69</td>
-   <td>Hierarchical Statistical Semantic Realization for Minimal Recursion Semantics</td>
+   <td><a name="s2"/>Hierarchical Statistical Semantic Realization for Minimal Recursion Semantics</td>
    <td>Matic Horvat, Ann Copestake and Bill Byrne</td>
    </tr>
    <tr>
@@ -279,7 +277,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="2">Probabilistic Semantics</td>
    <td>63</td>
-   <td>Efficiency in Ambiguity: Two Models of Probabilistic Semantics for Natural Language</td>
+   <td><a name="s3"/>Efficiency in Ambiguity: Two Models of Probabilistic Semantics for Natural Language</td>
    <td>Daoud Clarke and Bill Keller</td>
    </tr>
    <tr>
@@ -289,7 +287,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Distributional Methods</td>
    <td>56</td>
-   <td>Mr Darcy and Mr Toad, gentlemen: distributional names and their kinds</td>
+   <td><a name="s4"/>Mr Darcy and Mr Toad, gentlemen: distributional names and their kinds</td>
    <td>Aurélie Herbelot</td>
    </tr>
    <tr>
@@ -304,7 +302,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Reference &amp; Incrementality</td>
    <td>34</td>
-   <td>Situated Communication</td>
+   <td><a name="s5"/>Situated Communication</td>
    <td>Julie Hunter and Nicholas Asher</td>
    </tr>
    <tr>
@@ -319,7 +317,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Parsing &amp; Grammars</td>
    <td>42</td>
-   <td>Semantic Dependency Graph Parsing Using Tree Approximations</td>
+   <td><a name="s6"/>Semantic Dependency Graph Parsing Using Tree Approximations</td>
    <td>Željko Agić, Alexander Koller and Stephan Oepen</td>
    </tr>
    <tr>
@@ -334,7 +332,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Dialogue &amp; Pragmatics</td>
    <td>17</td>
-   <td>Pragmatic Rejection</td>
+   <td><a name="s7"/>Pragmatic Rejection</td>
    <td>Julian J. Schlöder and Raquel Fernandez</td>
    </tr>
    <tr>
@@ -349,7 +347,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="2">Logic &amp; Complexity</td>
    <td>23</td>
-   <td>Simple Interval Temporal Logic for Natural Language Assertion Descriptions</td>
+   <td><a name="s8"/>Simple Interval Temporal Logic for Natural Language Assertion Descriptions</td>
    <td>Reyadh Alluhaibi</td>
    </tr>
    <tr>
@@ -385,3 +383,127 @@ Session & Paper Details
       lexical semantics,27,Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment,Guy Emerson and Ann Copestake
       ,26,Prepositional Phrase Attachment Problem Revisited: how Verbnet can Help,"Daniel Bailey, Yuliya Lierler and Benjamin Susman"
       ,22,From Adjective Glosses to Attribute Concepts: Learning Different Aspects That an Adjective Can Describe,Omid Bakhshandh and James Allen
+
+
+|
+|
+
+.. _long:
+
+Accepted Long Papers
+====================
+
+List of accepted long papers, with oral presentation:
+
+.. |br| raw:: html
+
+   <br />
+
+*Pragmatic Rejection* 
+|br| **Julian J. Schlöder and Raquel Fernandez**
+
+*From Adjective Glosses to Attribute Concepts: Learning Different Aspects That an Adjective Can Describe*
+|br| **Omid Bakhshandh and James Allen**
+
+*Simple Interval Temporal Logic for Natural Language Assertion Descriptions*
+|br| **Reyadh Alluhaibi**
+
+*Prepositional Phrase Attachment Problem Revisited: how Verbnet can Help*
+|br| **Daniel Bailey, Yuliya Lierler and Benjamin Susman**
+
+*Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment*
+|br| **Guy Emerson and Ann Copestake**
+
+*Situated Communication*
+|br| **Julie Hunter and Nicholas Asher**
+
+*A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution*
+|br| **Casey Kennington, Livia Dia and David Schlangen**
+
+*Semantic Dependency Graph Parsing Using Tree Approximations*
+|br| **Željko Agić, Alexander Koller and Stephan Oepen**
+
+*Semantic construction with graph grammars*
+|br| **Alexander Koller**
+
+*Incremental Semantics for Dialogue Processing: Requirements, and a Comparison of Two Approaches*
+|br| **Julian Hough, Casey Kennington, David Schlangen and Jonathan Ginzburg**
+
+*Mr Darcy and Mr Toad, gentlemen: distributional names and their kinds*
+|br| **Aurélie Herbelot**
+
+*Feeling is Understanding: From Affective to Semantic Spaces*
+|br| **Elias Iosif and Alexandros Potamianos**
+
+*Automatic Noun Compound Interpretation using Deep Neural Networks and Word Embeddings*
+|br| **Corina Dima and Erhard Hinrichs**
+
+*Feedback in Conversation as Incremental Semantic Update*
+|br| **Arash Eshghi, Christine Howes, Eleni Gregoromichelaki, Julian Hough and Matthew Purver**
+
+*Efficiency in Ambiguity: Two Models of Probabilistic Semantics for Natural Language*
+|br| **Daoud Clarke and Bill Keller**
+
+*Dynamics of Public Commitments in Dialogue*
+|br| **Antoine Venant and Nicholas Asher**
+
+*Hierarchical Statistical Semantic Realization for Minimal Recursion Semantics*
+|br| **Matic Horvat, Ann Copestake and Bill Byrne**
+
+*On the Proper Treatment of Quantifiers in Probabilistic Logic Semantics*
+|br| **Islam Beltagy and Katrin Erk**
+
+*Uniform Information Density at the Level of Discourse Relations: Negation Markers and Discourse Connective Omission*
+|br| **Fatemeh Torabi Asr and Vera Demberg**
+
+*Layers of Interpretation: On Grammar and Compositionality*
+|br| **Emily M. Bender, Dan Flickinger, Stephan Oepen, Woodley Packard and Ann Copestake**
+
+*How hard is this query? Measuring the Semantic Complexity of Schema-agnostic Queries*
+|br| **Andre Freitas, Juliano Efson Sales, Siegfried Handschuh and Edward Curry**
+
+|
+|
+
+.. _short:
+
+Accepted Short Papers
+=====================
+
+List of accepted short papers, with poster and "lightning talk" presentation:
+
+*Exploiting Fine-grained Syntactic Transfer Features to Predict the Compositionality of German Particle Verbs*
+|br| **Stefan Bott and Sabine Schulte im Walde**
+
+*Multilingual Reliability and “Semantic” Structure of Continuous Word Spaces*
+|br| **Maximilian Köper, Christian Scheible and Sabine Schulte im Walde**
+
+*Clarifying Intentions in Dialogue: A Corpus Study*
+|br| **Julian J. Schlöder and Raquel Fernandez**
+
+*From distributional semantics to feature norms: grounding semantic models in human perceptual data*
+|br| **Luana Fagarasan, Eva Maria Vecchi and Stephen Clark**
+
+*Obtaining a Better Understanding of Distributional Models of German Derivational Morphology*
+|br| **Max Kisselew, Sebastian Padó, Alexis Palmer and Jan Šnajder**
+
+*Semantic Complexity of Quantifiers and Their Distribution in Corpora*
+|br| **Jakub Szymanik and Camilo Thorne**
+
+*Sound-based distributional models*
+|br| **Alessandro Lopopolo and Emiel van Miltenburg**
+
+*Alignment of Eye Movements and Spoken Language for Semantic Image Understanding*
+|br| **Preethi Vaidyanathan, Emily Prud'hommeaux, Cecilia O. Alm, Jeff B. Pelz and Anne R. Haake**
+
+*From a Distance: Using Cross-lingual Word Alignments for Noun Compound Bracketing*
+|br| **Patrick Ziering and Lonneke van der Plas**
+
+*Unsupervised Learning of Coherent and General Semantic Classes for Entity Aggregates*
+|br| **Henry Anaya-Sánchez and Anselmo Peñas**
+
+*Crowdsourced Word Sense Annotations and Difficult Words and Examples*
+|br| **Oier Lopez de Lacalle and Eneko Agirre**
+
+*Curse or Boon? Presence of Subjunctive Mood in Opinionated Text*
+|br| **Sapna Negi and Paul Buitelaar**
