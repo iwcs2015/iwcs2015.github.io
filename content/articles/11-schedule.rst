@@ -5,6 +5,7 @@ Conference Programme
 :date: 2015-03-11 10:16
 :category: Programme
 :slug: programme
+:news_headline: Preliminary programme available
 
 .. contents::
     :depth: 1
