@@ -30,12 +30,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
 #    ('Call for papers', 'call-for-papers.html'),
+    ('Programme', 'programme.html'),
     ('Accepted Papers', 'accepted-papers.html'),
-#    ('Programme', 'programme.html'),
-    ('Workshops', 'workshops.html'),
     ('Invited Speakers', 'speakers.html'),
+    ('Workshops', 'workshops.html'),
     ('Hackathon', 'hackathon.html'),
-    ('Submissions', 'pages/instructions-for-authors.html'),
+#    ('Submissions', 'pages/instructions-for-authors.html'),
     ('Registration', 'registration.html'),
     ('Location', 'location.html'),
     ('Organisation', 'pages/organisation.html'),
