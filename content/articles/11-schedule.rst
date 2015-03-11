@@ -10,8 +10,8 @@ Conference Programme
 .. contents::
     :depth: 1
 
-Prelminary Schedule
-===================
+Preliminary Schedule
+====================
 
 .. raw:: html
 
