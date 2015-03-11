@@ -43,7 +43,22 @@ table {
 }
 
 table td, table.table th {
-    border: none !important;
+    border: none;
+}
+
+table.schedule td {
+    border: 1px solid black;
+    vertical-align: middle;
+    text-align: center;
+}
+
+table.schedule td.blank {
+    border: none;
+}
+
+table.schedule td.vertical {
+    transform: rotate(270deg); 
+    transform-origin: center center 0;
 }
 
 th.field-name {

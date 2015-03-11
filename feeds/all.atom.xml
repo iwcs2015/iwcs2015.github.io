@@ -1,5 +1,369 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-02-23T10:00:00+00:00</updated><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2015-02-23T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2015-02-23:registration.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/all.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-03-11T10:16:00+00:00</updated><entry><title>Conference Programme</title><link href="http://iwcs2015.github.io/programme.html" rel="alternate"></link><updated>2015-03-11T10:16:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-03-11:programme.html</id><summary type="html">
+&lt;div class="section" id="prelminary-schedule"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Prelminary Schedule&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="schedule" width="120%"&gt;
+&lt;!-- &lt;caption&gt;Preliminary Schedule&lt;/caption&gt; --&gt;
+&lt;colgroup&gt;
+&lt;col width="3%"&gt;&lt;/col&gt;
+&lt;col width="3%"&gt;&lt;/col&gt;
+&lt;col width="7%"&gt;&lt;/col&gt;
+&lt;col width="7%"&gt;&lt;/col&gt;
+&lt;col width="10%"&gt;&lt;/col&gt;
+&lt;col width="7%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;col width="3%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;col width="3%"&gt;&lt;/col&gt;
+&lt;col width="17%"&gt;&lt;/col&gt;
+&lt;col width="3%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;td class="blank"&gt;&lt;/td&gt;
+&lt;td class="blank"&gt;&lt;/td&gt;
+&lt;th class="head"&gt;Sat 11th&lt;/th&gt;
+&lt;th class="head"&gt;Sun 12th&lt;/th&gt;
+&lt;th class="head"&gt;Mon 13th&lt;/th&gt;
+&lt;th class="head"&gt;Tue 14th&lt;/th&gt;
+&lt;th class="head" colspan="2"&gt;Wed 15th&lt;/th&gt;
+&lt;th class="head" colspan="2"&gt;Thu 16th&lt;/th&gt;
+&lt;th class="head" colspan="2"&gt;Fri 17th&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;th&gt;Hackathon&lt;/th&gt;
+&lt;th&gt;Hackathon&lt;/th&gt;
+&lt;th&gt;ISA-11 meetings&lt;/th&gt;
+&lt;th&gt;Workshops&lt;/th&gt;
+&lt;th colspan="2"&gt;Main Conference&lt;/th&gt;
+&lt;th colspan="2"&gt;Main Conference&lt;/th&gt;
+&lt;th colspan="2"&gt;Main Conference&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;9:30&lt;/td&gt;
+&lt;td class="vertical" rowspan="18"&gt;Hackathon&lt;/td&gt;
+&lt;td class="vertical" rowspan="18"&gt;Hackathon&lt;/td&gt;
+&lt;td class="vertical" rowspan="18"&gt;ISA-11 meetings&lt;/td&gt;
+&lt;td class="vertical" rowspan="8"&gt;Workshops&lt;/td&gt;
+&lt;td colspan="2"&gt;registration/intro&lt;/td&gt;
+&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9:30&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Keynote: Barzilay&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Keynote: Bengio&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Keynote: Copestake&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;Lexical Semantics (papers 22, 26, 27)&lt;/td&gt;
+&lt;!-- &lt;td&gt;27&lt;/td&gt; --&gt;
+&lt;td colspan="2" rowspan="3"&gt;Distributional Methods (papers 56, 59, 61)&lt;/td&gt;
+&lt;!-- &lt;td&gt;61&lt;/td&gt; --&gt;
+&lt;td colspan="2" rowspan="3"&gt;Parsing &amp;amp; Grammars (papers 42, 52, 80)&lt;/td&gt;
+&lt;!-- &lt;td&gt;42&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;!-- &lt;td&gt;26&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;56&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;52&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;!-- &lt;td&gt;22&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;59&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;80&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td colspan="2"&gt;Lightning Talks&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;lunch&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1:30&lt;/td&gt;
+&lt;td class="schedule" rowspan="2"&gt;lunch&lt;/td&gt;
+&lt;td class="schedule" colspan="2" rowspan="2"&gt;lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;1:30&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;Reference &amp;amp; Incrementality (papers 34, 38, 53)&lt;/td&gt;
+&lt;!-- &lt;td&gt;34&lt;/td&gt; --&gt;
+&lt;td colspan="2" rowspan="3"&gt;Dialogue &amp;amp; Pragmatics (papers 17, 62, 65)&lt;/td&gt;
+&lt;!-- &lt;td&gt;17&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2:30&lt;/td&gt;
+&lt;td class="vertical" rowspan="8"&gt;Workshops&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;Poster session&lt;/td&gt;
+&lt;!-- &lt;td&gt;38&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;62&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2:30&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;!-- &lt;td&gt;53&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;65&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3:30&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3:30&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Discourse &amp;amp; Generation (papers 69, 75)&lt;/td&gt;
+&lt;!-- &lt;td&gt;69&lt;/td&gt; --&gt;
+&lt;td colspan="2" rowspan="5"&gt;Open Space Event ("unconference")&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Logic &amp;amp; Complexity (papers 23, 82)&lt;/td&gt;
+&lt;!-- &lt;td&gt;23&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4:30&lt;/td&gt;
+&lt;!-- &lt;td&gt;75&lt;/td&gt; --&gt;
+&lt;!-- &lt;td&gt;82&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4:30&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td colspan="2"&gt;coffee&lt;/td&gt;
+&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;5:30&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Probabilistic Semantics (papers 63, 71)&lt;/td&gt;
+&lt;!-- &lt;td&gt;63&lt;/td&gt; --&gt;
+&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5:30&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;!-- &lt;td&gt;71&lt;/td&gt; --&gt;
+&lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td colspan="2"&gt;Reception&lt;/td&gt;
+&lt;td colspan="2"&gt;Dinner &amp;amp; Boat Trip&lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;td class="blank"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;!-- .. csv-table:: Preliminary Schedule
+   :header: start,end,Sat 11th,Sun 12th,Mon 13th,Tue 14th,Wed 15th,,Thu 16th,,Fri 17th,
+   :widths: 5,5,10,10,15,10,25,5,25,5,25,5
+
+   ,,,,,,,,,,,
+   ,,Hackathon,Hackathon,ISA-11 meetings,Workshops,Main Conference,,Main Conference,,Main Conference,
+   9,9:30,Hackathon,Hackathon,ISA-11 meetings,registration,registration/intro,,,,,
+   9:30,10,,,,,Barzilay,,Bengio,,Copestake,
+   10,10:30,,,,,,,,,,
+   10:30,11,,,,,coffee,,coffee,,coffee,
+   11,11:30,,,,coffee,lexical,27,distributional,61,parsing / grammars,42
+   11:30,12,,,,,,26,,56,,52
+   12,12:30,,,,,,22,,59,,80
+   12:30,1,,,,,lightning,,lunch,,lunch,
+   1,1:30,,,,lunch,lunch,,,,,
+   1:30,2,,,,,,,reference / incrementality,34,pragmatics,53
+   2,2:30,,,,,posters,,,38,,17
+   2:30,3,,,,,,,,53,,65
+   3,3:30,,,,,,,coffee,,coffee,
+   3:30,4,,,,,generation,69,open space,,logic,23
+   4,4:30,,,,coffee,,75,,,,82
+   4:30,5,,,,,coffee,,,,,
+   5,5:30,,,,,probabilistic,63,,,,
+   5:30,6,,,,,,71,,,,
+   ,,,,,,,,,,, --&gt;
+&lt;/div&gt;
+&lt;div class="section" id="session-paper-details"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Session &amp;amp; Paper Details&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="schedule" width="120%"&gt;
+&lt;colgroup&gt;
+&lt;col width="15%"&gt;&lt;/col&gt;
+&lt;col width="5%"&gt;&lt;/col&gt;
+&lt;col width="40%"&gt;&lt;/col&gt;
+&lt;col width="40%"&gt;&lt;/col&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Session&lt;/th&gt;
+&lt;th class="head"&gt;Paper ID&lt;/th&gt;
+&lt;th class="head"&gt;Title&lt;/th&gt;
+&lt;th class="head"&gt;Authors&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;Lexical Semantics&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment&lt;/td&gt;
+&lt;td&gt;Guy Emerson and Ann Copestake&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;Prepositional Phrase Attachment Problem Revisited: how Verbnet can Help&lt;/td&gt;
+&lt;td&gt;Daniel Bailey, Yuliya Lierler and Benjamin Susman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;From Adjective Glosses to Attribute Concepts: Learning Different Aspects That an Adjective Can Describe&lt;/td&gt;
+&lt;td&gt;Omid Bakhshandh and James Allen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="2"&gt;Discourse &amp;amp; Generation&lt;/td&gt;
+&lt;td&gt;69&lt;/td&gt;
+&lt;td&gt;Hierarchical Statistical Semantic Realization for Minimal Recursion Semantics&lt;/td&gt;
+&lt;td&gt;Matic Horvat, Ann Copestake and Bill Byrne&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;td&gt;Uniform Information Density at the Level of Discourse Relations: Negation Markers and Discourse Connective Omission&lt;/td&gt;
+&lt;td&gt;Fatemeh Torabi Asr and Vera Demberg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="2"&gt;Probabilistic Semantics&lt;/td&gt;
+&lt;td&gt;63&lt;/td&gt;
+&lt;td&gt;Efficiency in Ambiguity: Two Models of Probabilistic Semantics for Natural Language&lt;/td&gt;
+&lt;td&gt;Daoud Clarke and Bill Keller&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;71&lt;/td&gt;
+&lt;td&gt;On the Proper Treatment of Quantifiers in Probabilistic Logic Semantics&lt;/td&gt;
+&lt;td&gt;Islam Beltagy and Katrin Erk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;Distributional Methods&lt;/td&gt;
+&lt;td&gt;56&lt;/td&gt;
+&lt;td&gt;Mr Darcy and Mr Toad, gentlemen: distributional names and their kinds&lt;/td&gt;
+&lt;td&gt;Aurélie Herbelot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;59&lt;/td&gt;
+&lt;td&gt;Feeling is Understanding: From Affective to Semantic Spaces&lt;/td&gt;
+&lt;td&gt;Elias Iosif and Alexandros Potamianos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;61&lt;/td&gt;
+&lt;td&gt;Automatic Noun Compound Interpretation using Deep Neural Networks and Word Embeddings&lt;/td&gt;
+&lt;td&gt;Corina Dima and Erhard Hinrichs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;Reference &amp;amp; Incrementality&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;td&gt;Situated Communication&lt;/td&gt;
+&lt;td&gt;Julie Hunter and Nicholas Asher&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;td&gt;A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution&lt;/td&gt;
+&lt;td&gt;Casey Kennington, Livia Dia and David Schlangen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;53&lt;/td&gt;
+&lt;td&gt;Incremental Semantics for Dialogue Processing: Requirements, and a Comparison of Two Approaches&lt;/td&gt;
+&lt;td&gt;Julian Hough, Casey Kennington, David Schlangen and Jonathan Ginzburg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;Parsing &amp;amp; Grammars&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;Semantic Dependency Graph Parsing Using Tree Approximations&lt;/td&gt;
+&lt;td&gt;Željko Agić, Alexander Koller and Stephan Oepen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;52&lt;/td&gt;
+&lt;td&gt;Semantic construction with graph grammars&lt;/td&gt;
+&lt;td&gt;Alexander Koller&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;td&gt;Layers of Interpretation: On Grammar and Compositionality&lt;/td&gt;
+&lt;td&gt;Emily M. Bender, Dan Flickinger, Stephan Oepen, Woodley Packard and Ann Copestake&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;Dialogue &amp;amp; Pragmatics&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;Pragmatic Rejection&lt;/td&gt;
+&lt;td&gt;Julian J. Schlöder and Raquel Fernandez&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;62&lt;/td&gt;
+&lt;td&gt;Feedback in Conversation as Incremental Semantic Update&lt;/td&gt;
+&lt;td&gt;Arash Eshghi, Christine Howes, Eleni Gregoromichelaki, Julian Hough and Matthew Purver&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt;Dynamics of Public Commitments in Dialogue&lt;/td&gt;
+&lt;td&gt;Antoine Venant and Nicholas Asher&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="2"&gt;Logic &amp;amp; Complexity&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;Simple Interval Temporal Logic for Natural Language Assertion Descriptions&lt;/td&gt;
+&lt;td&gt;Reyadh Alluhaibi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;82&lt;/td&gt;
+&lt;td&gt;How hard is this query? Measuring the Semantic Complexity of Schema-agnostic Queries&lt;/td&gt;
+&lt;td&gt;Andre Freitas, Juliano Efson Sales, Siegfried Handschuh and Edward Curry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;!-- .. csv-table:: Preliminary Schedule
+   :header: session name,paper ID,title,authors
+
+   pragmatics,17,Pragmatic Rejection,Julian J. Schlöder and Raquel Fernandez
+   ,65,Dynamics of Public Commitments in Dialogue,Antoine Venant and Nicholas Asher
+   reference,34,Situated Communication,Julie Hunter and Nicholas Asher
+   ,38,A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution,"Casey Kennington, Livia Dia and David Schlangen"
+   incrementality,53,"Incremental Semantics for Dialogue Processing: Requirements, and a Comparison of Two Approaches","Julian Hough, Casey Kennington, David Schlangen and Jonathan Ginzburg"
+   ,62,Feedback in Conversation as Incremental Semantic Update,"Arash Eshghi, Christine Howes, Eleni Gregoromichelaki, Julian Hough and Matthew Purver"
+   parsing &amp; grammars,42,Semantic Dependency Graph Parsing Using Tree Approximations,"Željko Agić, Alexander Koller and Stephan Oepen"
+   ,52,Semantic construction with graph grammars,Alexander Koller
+   ,80,Layers of Interpretation: On Grammar and Compositionality,"Emily M. Bender, Dan Flickinger, Stephan Oepen, Woodley Packard and Ann Copestake"
+   generation,69,Hierarchical Statistical Semantic Realization for Minimal Recursion Semantics,"Matic Horvat, Ann Copestake and Bill Byrne"
+   ,75,Uniform Information Density at the Level of Discourse Relations: Negation Markers and Discourse Connective Omission,Fatemeh Torabi Asr and Vera Demberg
+   probabilistic semantics,63,Efficiency in Ambiguity: Two Models of Probabilistic Semantics for Natural Language,Daoud Clarke and Bill Keller
+   ,71,On the Proper Treatment of Quantifiers in Probabilistic Logic Semantics,Islam Beltagy and Katrin Erk
+   logic &amp; complexity,23,Simple Interval Temporal Logic for Natural Language Assertion Descriptions,Reyadh Alluhaibi
+   ,82,How hard is this query? Measuring the Semantic Complexity of Schema-agnostic Queries,"Andre Freitas, Juliano Efson Sales, Siegfried Handschuh and Edward Curry"
+   distributional methods,56,"Mr Darcy and Mr Toad, gentlemen: distributional names and their kinds",Aurélie Herbelot
+   ,59,Feeling is Understanding: From Affective to Semantic Spaces,Elias Iosif and Alexandros Potamianos
+   ,61,Automatic Noun Compound Interpretation using Deep Neural Networks and Word Embeddings,Corina Dima and Erhard Hinrichs
+   lexical semantics,27,Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment,Guy Emerson and Ann Copestake
+   ,26,Prepositional Phrase Attachment Problem Revisited: how Verbnet can Help,"Daniel Bailey, Yuliya Lierler and Benjamin Susman"
+   ,22,From Adjective Glosses to Attribute Concepts: Learning Different Aspects That an Adjective Can Describe,Omid Bakhshandh and James Allen --&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Registration</title><link href="http://iwcs2015.github.io/registration.html" rel="alternate"></link><updated>2015-02-23T10:00:00+00:00</updated><author><name>Matthew Purver</name></author><id>tag:iwcs2015.github.io,2015-02-23:registration.html</id><summary type="html">
 &lt;p&gt;   Registration is now open. &lt;a class="uk-button uk-button-primary uk-button-mini" href="http://eshop.qmul.ac.uk/browse/extra_info.asp?compid=1&amp;amp;modid=2&amp;amp;deptid=34&amp;amp;catid=1&amp;amp;prodid=521"&gt;Register&lt;/a&gt; &lt;/p&gt;&lt;div class="section" id="main-conference"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Main Conference&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Registration fees include attendance to all sessions (and workshops -
