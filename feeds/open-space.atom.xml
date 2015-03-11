@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/open-space.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-03-11T22:16:00+00:00</updated><entry><title>Open Space</title><link href="http://iwcs2015.github.io/openspace.html" rel="alternate"></link><updated>2015-03-11T22:16:00+00:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-03-11:openspace.html</id><summary type="html">&lt;!-- .. contents::
+    :depth: 1 --&gt;
+&lt;div class="section" id="open-space-unconference"&gt;
+&lt;h2&gt;Open Space / Unconference&lt;/h2&gt;
+&lt;p&gt;Following a successful session at &lt;a class="reference external" href="http://www.ling.uni-potsdam.de/iwcs2013/"&gt;IWCS 2013&lt;/a&gt;, we plan to set most of Thursday
+afternoon aside for an Open Space workshop (aka &amp;quot;unconference&amp;quot;). The goal of
+this event is to allow participants to discuss any topic in computational
+semantics they are passionate about, in small groups of people who care about
+the same topic. Open Space events are self-organized: topics are proposed by
+participants, sessions are run by participants, and all the conference
+organizers do is facilitate the process.&lt;/p&gt;
+&lt;p&gt;The Open Space event will be structured as follows:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;On Thursday at 15:00, we'll meet in the coffee/poster room. After a brief
+introduction to the Open Space format, anyone can get up and propose a topic
+for a session that they would like to happen that afternoon. This topic can be
+anything you like; it could be as specific as your favorite theory of scope
+ambiguity, as general as how to reconcile logic-based and distributional
+semantics, or even something that usually has no place at conferences
+(computational semantics education? ideas for shared tasks?). The only
+requirement is that you would enjoy talking about this topic.&lt;/li&gt;
+&lt;li&gt;Sessions will be organized into time slots that start at 15:30 and
+16:30. During that time slot, everyone who is interested in a topic is welcome
+to join the session. The crucial rule we will follow is the &amp;quot;Law of Two Feet&amp;quot;:
+If you find that you are not learning anything and not contributing anything,
+you are encouraged to get up and leave the room. In this particular context,
+this is not a sign of impoliteness; it is a way of maximizing the time you're
+spending in a place that you enjoy, and of ensuring that everyone who remains
+in the session can be certain that everyone who is there is having a good
+time.&lt;/li&gt;
+&lt;li&gt;Throughout the afternoon, we will keep a coffee break area open. If there is
+no session going on that you find interesting, you are welcome to hang out in
+the coffee corner. If you left your session, you can go there to refresh
+yourself, and perhaps join some other session. The key goal is that you enjoy
+yourself and feel that you're participating in discussions that you care
+about. Whether these happen in your original session, or some other session
+that you join, or just while you're hanging out having coffee -- that's all
+good.&lt;/li&gt;
+&lt;li&gt;We will rejoin for a final session at 17:30 to give everyone a chance to talk
+about things they learned that day. When we're done with that, we'll need to
+set off for central London to catch the boat for dinner.&lt;/li&gt;
+&lt;li&gt;We will set up a public Wiki for use during the conference. You are welcome
+and encouraged to take a few minutes at the end of your session to summarize
+it in a Wiki article. If you feel uncomfortable sharing your discussion, you
+are of course not required to do this. After the conference, we will take the
+Wiki offline and distribute a reader with all articles to all participants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find more information on Open Space in general in its &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Open_Space_Technology"&gt;Wikipedia page&lt;/a&gt; and in the &lt;a class="reference external" href="http://www.openspaceworld.com/users_guide.htm"&gt;Open Space
+user's guide&lt;/a&gt;. A brief video
+introduction is &lt;a class="reference external" href="https://www.youtube.com/watch?v=aD3S0wlbek0"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
