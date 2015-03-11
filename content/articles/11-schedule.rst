@@ -148,7 +148,7 @@ Preliminary Schedule
    <td>4</td>
    <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a> (papers 69, 75)</td>
    <!-- <td>69</td> -->
-   <td colspan="2" rowspan="5">Open Space Event ("unconference")</td>
+   <td colspan="2" rowspan="5"><a href="/openspace.html">Open Space Event</a> ("unconference")</td>
    <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a> (papers 23, 82)</td>
    <!-- <td>23</td> -->
    </tr>
