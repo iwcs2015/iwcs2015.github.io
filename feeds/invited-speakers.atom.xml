@@ -42,6 +42,35 @@ several language pairs, and these results will conclude the talk.&lt;/p&gt;
 &lt;div class="section" id="id3"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://www.cl.cam.ac.uk/~aac10/"&gt;Ann Copestake&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;University of Cambridge&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is There Any Logic in Logical Forms?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Formalising the notion of compositionality in a way that makes it meaningful is
+notoriously complicated. The usual way of formally describing compositional
+semantics is via a version of Montague Grammar but, in many ways, MG and its
+successors are inconsistent with the way semantics is used in computational
+linguistics.  As computational linguists we are rarely interested in
+model-theory or truth-conditions.  Our assumptions about word meaning, and
+distributional models in particular, are very different from the MG
+idealisation.  However, computational grammars have been constructed which
+produce empirically useful forms of compositional representation and are much
+broader in coverage than any grammar fragments from the linguistics literature.
+The methodology which underlies this work is predominantly syntax-driven (e.g.,
+CCG, LFG and HPSG), but the goal has been to abstract away from the
+language-dependent details of syntax.  The question, then, is whether this is
+'just engineering' or whether there is some theoretical basis which is more
+consistent with CL than the broadly Montogovian approach.&lt;/p&gt;
+&lt;p&gt;In this talk, I will start by outlining some of the work on compositional
+semantics with large-scale computational grammars and in particular work using
+Minimal Recursion Semantics (MRS) in DELPH-IN.  There are grammar fragments for
+which MRS can be converted into a logical form with a model-theoretic
+interpretation but I will argue that attempting to use model theory to justify
+the MRS structures in general is inconsistent with the goals of grammar
+engineering.  I will outline some alternative approaches to integrating
+distributional semantics with this framework and show that this also causes
+theoretical difficulties.  In both cases, we could consider inferentialism as an
+alternative theoretical grounding whereby classical logical properties are
+treated as secondary rather than primary. In this view, it is important that our
+approaches to compositional and lexical semantics are consistent with uses of
+language in logical reasoning, but it is not necessary to try and reduce all
+aspects of semantics to logic.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry></feed>
