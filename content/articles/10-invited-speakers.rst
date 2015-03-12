@@ -78,7 +78,7 @@ broader in coverage than any grammar fragments from the linguistics literature.
 The methodology which underlies this work is predominantly syntax-driven (e.g.,
 CCG, LFG and HPSG), but the goal has been to abstract away from the
 language-dependent details of syntax.  The question, then, is whether this is
-`just engineering' or whether there is some theoretical basis which is more
+'just engineering' or whether there is some theoretical basis which is more
 consistent with CL than the broadly Montogovian approach.
 
 In this talk, I will start by outlining some of the work on compositional
