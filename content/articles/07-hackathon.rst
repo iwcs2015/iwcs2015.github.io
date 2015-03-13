@@ -34,6 +34,14 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 .. contents::
     :depth: 2
 
+Registration
+============
+
+.. html::
+  <div style="width:100%; text-align:left;" >
+    <iframe  src="//eventbrite.co.uk/tickets-external?eid=16162713110&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+  </div>
+
 Project ideas
 =============
 
