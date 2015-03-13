@@ -17,8 +17,7 @@ participate. The goal of the event is to provide an opportunity to discuss and
 develop tools that are used in Computational Semantics. Moreover, we also would
 like to attract anyone interested in data processing tools so they could
 contribute to open source projects represented at the event. *You don't need to
-attend the conference to be able to participate at the hackathon.* Registration
-to the hackathon will be opened soon.
+attend the conference to be able to participate at the hackathon.*
 
 The event will take place at `Ground Cafe <http://www.qmsu.org/ground/>`_. It's
 building 33 on the `QMUL campus map <{filename}/static/qm-campus-map.pdf>`_.
@@ -26,11 +25,15 @@ Please refer to the `location page <{filename}/articles/09-location.rst>`_ for
 more information on how to get to the QMUL Mile End Campus.
 
 The hackathon is organised by the Computational Linguistics lab at QMUL and
-sponsored by the `EPSRC`__ grant `EP/J002607/1 — Foundational Structures for
-Compositional Meaning`__.
+sponsored by the EPSRC_ grant `EP/J002607/1 — Foundational Structures for
+Compositional Meaning`__ and `EECS`_. GitHub_ kindly offers subscription coupons
+for the 3 winning teams.
 
-__ http://www.epsrc.ac.uk/
 __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
+
+.. _EPSRC: http://www.epsrc.ac.uk/
+.. _EECS: http://eecs.qmul.ac.uk/
+.. _GitHub: https://github.com
 
 .. contents::
     :depth: 2
@@ -115,12 +118,15 @@ a set of core Python utilities. The following functionality is required:
 * Converters to and from commonly used formats
 * Easy evaluation against a set of word similarity datasets, such as Mitchel and Lapata (2008) or MEN
 
-The project will involve merging and documenting existing pieces of software, such as
-`DISSECT`__, `foller.corpora`__ and `discoutils`__.
+The project will involve merging and documenting existing pieces of software,
+such as `DISSECT`_, `fowller.corpora`_ and `discoutils`_. Check out `a relevant
+discussion on including word embedding algorithms to NLTK`__.
 
-__ https://github.com/composes-toolkit/dissect
-__ https://github.com/dimazest/fowler.corpora
-__ https://github.com/MLCL/DiscoUtils
+__ https://github.com/nltk/nltk/issues/798
+
+.. _DISSECT: https://github.com/composes-toolkit/dissect
+.. _fowller.corpora:  https://github.com/dimazest/fowler.corpora
+.. _discoutils: https://github.com/MLCL/DiscoUtils
 
 Call for Sponsorship
 ====================
