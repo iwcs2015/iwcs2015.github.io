@@ -7,6 +7,7 @@ Computational Semantics Hackathon
 :slug: hackathon
 :template: hackathon
 :news_headline: Hackathon announced
+:not_sticky_toc: True
 
 This year, IWCS will feature a **Computational Semantics Hackathon**, before the
 main conference on **April 11th-12th** from 10:00 to 17:00.
