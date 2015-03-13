@@ -7,9 +7,6 @@ Conference Programme
 :slug: programme
 :news_headline: Preliminary programme available
 
-.. contents::
-    :depth: 1
-
 Preliminary Schedule
 ====================
 
