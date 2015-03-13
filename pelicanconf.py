@@ -13,6 +13,7 @@ TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
 
 THEME = 'src/conferencium/'
+EXTRA_TEMPLATES_PATHS = 'templates',
 
 PLUGIN_PATHS = ('src/pelican-plugins', )
 PLUGINS = (

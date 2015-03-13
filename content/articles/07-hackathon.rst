@@ -5,7 +5,7 @@ Computational Semantics Hackathon
 :date: 2015-02-18 13:32
 :category: Hackathon
 :slug: hackathon
-
+:template: hackathon
 :news_headline: Hackathon announced
 
 This year, IWCS will feature a **Computational Semantics Hackathon**, before the

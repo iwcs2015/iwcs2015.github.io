@@ -1,0 +1,41 @@
+{% extends "article.html" %}
+
+
+{% block footer %}
+<div class="uk-width-medium-3-4">
+  <h1>Our sponsors</h1>
+
+  <div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">
+      <figure class="uk-overlay uk-overlay-hover">
+        <img src="{{ SITEURL }}/static/images/epsrc.jpg" alt="" height="150" width="350">
+         <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+          <!-- <div>Client Name</div> -->
+        </figcaption>
+        <a class="uk-position-cover" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1"></a>
+      </figure>
+    </div>
+
+    <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">
+      <figure class="uk-overlay uk-overlay-hover">
+        <img src="{{ SITEURL }}/static/images/qm.gif" alt="" height="150" width="350">
+         <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+          <!-- <div>Client Name</div> -->
+        </figcaption>
+        <a class="uk-position-cover" href="http://eecs.qmul.ac.uk/"></a>
+      </figure>
+    </div>
+
+    <div class="uk-width-1-2 uk-width-medium-1-3 uk-width-large-1-6">
+      <figure class="uk-overlay uk-overlay-hover">
+        <img src="{{ SITEURL }}/static/images/github.png" alt="" height="150" width="350">
+         <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+          <!-- <div>Client Name</div> -->
+        </figcaption>
+        <a class="uk-position-cover" href="https://github.com/"></a>
+      </figure>
+    </div>
+  </div>
+
+</div>
+{% endblock footer %}
