@@ -90,7 +90,11 @@ __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
   be filtered out using regular expressions, as `it's done`__ in `gensim`__.
   Alternatively, text in the wiki markup can be parsed using `Parsoid`__ to
   obtain (X)HTML, later this HTML is processed, for example tables and images
-  are removed. See `this notebook`__.
+  are removed. See `this notebook`__. `Pandoc`_ and `Docverter`_ is another
+  powerful document conversion solution.
+
+  .. _Pandoc: http://johnmacfarlane.net/pandoc/
+  .. _Docverter: https://github.com/docverter/docverter#docverter-server
 
   __ http://wacky.sslmit.unibo.it/doku.php
   __ https://dumps.wikimedia.org/enwiki/
