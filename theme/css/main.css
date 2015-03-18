@@ -46,13 +46,12 @@ table td, table.table th {
     border: none;
 }
 
-table.schedule td {
-    border: 1px solid black;
-    vertical-align: middle;
-    text-align: center;
+table.schedule {
+    border-collapse: collapse;
+    border-spacing: 0px;
 }
 
-table.schedule th {
+table.schedule td {
     border: 1px solid black;
     vertical-align: middle;
     text-align: center;
@@ -63,7 +62,7 @@ table.schedule td.blank {
 }
 
 table.schedule td.vertical {
-    transform: rotate(270deg); 
+    transform: rotate(270deg);
     transform-origin: center center 0;
 }
 
