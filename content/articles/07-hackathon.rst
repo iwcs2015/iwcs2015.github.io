@@ -56,58 +56,6 @@ your idea added to `this page`__! The list below shows some possibilities:
 __ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
 __ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
 
-Tweet paraphrase generator
---------------------------
-
-Given a tweet, the system has to come up with a paraphrase. For example, by
-substituting all the content words (nouns, verbs, adjectives and adverbs) with
-similar words.
-
-A twitter bot should monitor Twitter for tweets that contain `#iwcs
-<https://twitter.com/search?q=%23iwcs>`_ and generate a paraphrase tweet. Also,
-tweets directed to the bot should be replied with a paraphrase.
-
-NLTK corpus readers
--------------------
-
-NLTK_ is a natural language toolkit that provides basic tools to deal with
-textual information. `Corpus readers`__ are interfaces to access textual resources
-(called corpora). The task is to provide interfaces to the following resources.
-
-__ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
-
-* **Groningen Meaning Bank**: the `Groningen Meaning Bank`__ is a free
-  semantically annotated corpus that anyone can edit.
-
-  __ http://gmb.let.rug.nl/
-
-* **UkWaC**: UkWaC__ is a 2 billion word corpus constructed from the Web
-  limiting the crawl to the .uk domain.
-
-* **Wikipedia**: Wikipedia provides `dumps`__ of all its content. However, to be
-  used as a corpus a dump has to be cleaned up from the wiki markup. There are
-  at least two ways of getting raw text out of a Wikipedia dump. Wiki markup can
-  be filtered out using regular expressions, as `it's done`__ in `gensim`__.
-  Alternatively, text in the wiki markup can be parsed using `Parsoid`__ to
-  obtain (X)HTML, later this HTML is processed, for example tables and images
-  are removed. See `this notebook`__. `Pandoc`_ and `Docverter`_ is another
-  powerful document conversion solution.
-
-  .. _Pandoc: http://johnmacfarlane.net/pandoc/
-  .. _Docverter: https://github.com/docverter/docverter#docverter-server
-
-  __ http://wacky.sslmit.unibo.it/doku.php
-  __ https://dumps.wikimedia.org/enwiki/
-  __ https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py
-  __ https://radimrehurek.com/gensim/
-  __ https://www.mediawiki.org/wiki/Parsoid
-  __ http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb
-
-* **AMR**: the `AMR Bank`__ is a set of English sentences paired with simple,
-  readable semantic representations.
-
-  __ http://amr.isi.edu/index.html
-
 A distributional semantic toolkit
 ---------------------------------
 
@@ -131,6 +79,85 @@ __ https://github.com/nltk/nltk/issues/798
 .. _DISSECT: https://github.com/composes-toolkit/dissect
 .. _fowller.corpora:  https://github.com/dimazest/fowler.corpora
 .. _discoutils: https://github.com/MLCL/DiscoUtils
+
+Wikidepia dump postprocessing
+-----------------------------
+
+Wikipedia provides `dumps`__ of all its content. However, to be used by NLP
+tools (for example parsers) a dump has to be cleaned up from the wiki markup.
+The postrocessing steps are rarely described in details in scientific
+literature. A postprocessed Wikipedia dump from 2009 is often used in
+current literature.
+
+__ https://dumps.wikimedia.org/enwiki/
+
+The goal of this task is to come up with a easy to deploy and well documented
+pipeline of processing a Wikipdedia dump. There are two steps in the pipeline:
+raw text extraction and parsing.
+
+There are at least two ways of getting raw text out of a Wikipedia dump. Wiki
+markup can be filtered out using regular expressions, as `it's done`__ in
+`gensim`_. Alternatively, text in the wiki markup can be parsed using `Parsoid`_
+to obtain (X)HTML, later this HTML is processed, for example tables and images
+are removed. See `this notebook`__. `Pandoc`_ and `Docverter`_ is another
+powerful document conversion solution.
+
+.. _gensim: https://radimrehurek.com/gensim/
+.. _Parsoid: https://www.mediawiki.org/wiki/Parsoid
+.. _Pandoc: http://johnmacfarlane.net/pandoc/
+.. _Docverter: https://github.com/docverter/docverter#docverter-server
+
+__ https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py
+__ http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb
+
+Later the raw text of a dump can be parsed by some of these parsers:
+
+* `C&C tools <http://svn.ask.it.usyd.edu.au/trac/candc>`_
+* `Illinois tools <http://cogcomp.cs.illinois.edu/page/software>`_
+* `MaltParser <http://www.maltparser.org/>`_
+* `Senna <http://ml.nec-labs.com/senna/>`_
+* `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_
+* `TurboParser <http://www.ark.cs.cmu.edu/TurboParser/>`_
+
+NLTK corpus readers
+-------------------
+
+NLTK_ is a natural language toolkit that provides basic tools to deal with
+textual information. `Corpus readers`__ are interfaces to access textual resources
+(called corpora). The task is to provide interfaces to the following resources.
+
+__ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
+
+* **Groningen Meaning Bank**: the `Groningen Meaning Bank`__ is a free
+  semantically annotated corpus that anyone can edit.
+
+  __ http://gmb.let.rug.nl/
+
+* **UkWaC**: `UkWaC <http://wacky.sslmit.unibo.it/doku.php>`_ is a 2 billion
+  word corpus constructed from the Web   limiting the crawl to the .uk domain.
+
+* **AMR**: the `AMR Bank`__ is a set of English sentences paired with simple,
+  readable semantic representations.
+
+  __ http://amr.isi.edu/index.html
+
+Tweet paraphrase generator
+--------------------------
+
+Given a tweet, the system has to come up with a paraphrase. For example, by
+substituting all the content words (nouns, verbs, adjectives and adverbs) with
+similar words.
+
+A twitter bot should monitor Twitter for tweets that contain `#iwcs
+<https://twitter.com/search?q=%23iwcs>`_ and generate a paraphrase tweet. Also,
+tweets directed to the bot should be replied with a paraphrase.
+
+Twitter stream analysis
+-----------------------
+
+We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
+London, and London Marathon. In addition we are gathering geo located tweets
+from the UK. The task is to give insights of what these streams are about.
 
 Call for Sponsorship
 ====================
