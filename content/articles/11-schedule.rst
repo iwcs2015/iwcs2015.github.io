@@ -143,20 +143,20 @@ Preliminary Schedule
    </tr>
    <tr><td>3:30</td>
    <td>4</td>
-   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a> (papers 69, 75)</td>
-   <!-- <td>69</td> -->
+   <td colspan="2">coffee</td>
    <td colspan="2" rowspan="5"><a href="/openspace.html">Open Space Event</a> ("unconference")</td>
    <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a> (papers 23, 82)</td>
    <!-- <td>23</td> -->
    </tr>
    <tr><td>4</td>
    <td>4:30</td>
-   <!-- <td>75</td> -->
+   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a> (papers 69, 75)</td>
+   <!-- <td>69</td> -->
    <!-- <td>82</td> -->
    </tr>
    <tr><td>4:30</td>
    <td>5</td>
-   <td colspan="2">coffee</td>
+   <!-- <td>75</td> -->
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
    <tr><td>5</td>
