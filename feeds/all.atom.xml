@@ -658,45 +658,15 @@ Compositional Meaning&lt;/a&gt; and &lt;a class="reference external" href="http:
 for the 3 winning teams.&lt;/p&gt;
 
 &lt;div class="section" id="registration"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id14"&gt;Registration&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id11"&gt;Registration&lt;/a&gt;&lt;/h2&gt;
 &lt;div style="width:100%; text-align:left;"&gt; &lt;iframe allowtransparency="true" frameborder="0" height="320" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="//eventbrite.co.uk/tickets-external?eid=16162713110&amp;amp;ref=etckt" vspace="0" width="100%"&gt;&lt;/iframe&gt; &lt;/div&gt;&lt;/div&gt;
 &lt;div class="section" id="project-ideas"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id15"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
 computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt; or submit a pull request with
 your idea added to &lt;a class="reference external" href="https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst"&gt;this page&lt;/a&gt;! The list below shows some possibilities:&lt;/p&gt;
-&lt;div class="section" id="tweet-paraphrase-generator"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
-substituting all the content words (nouns, verbs, adjectives and adverbs) with
-similar words.&lt;/p&gt;
-&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs&lt;/a&gt; and generate a paraphrase tweet. Also,
-tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="nltk-corpus-readers"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
-textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
-(called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;Groningen Meaning Bank&lt;/strong&gt;: the &lt;a class="reference external" href="http://gmb.let.rug.nl/"&gt;Groningen Meaning Bank&lt;/a&gt; is a free
-semantically annotated corpus that anyone can edit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;UkWaC&lt;/strong&gt;: &lt;a class="reference external" href="http://wacky.sslmit.unibo.it/doku.php"&gt;UkWaC&lt;/a&gt; is a 2 billion word corpus constructed from the Web
-limiting the crawl to the .uk domain.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wikipedia&lt;/strong&gt;: Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be
-used as a corpus a dump has to be cleaned up from the wiki markup. There are
-at least two ways of getting raw text out of a Wikipedia dump. Wiki markup can
-be filtered out using regular expressions, as &lt;a class="reference external" href="https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py"&gt;it's done&lt;/a&gt; in &lt;a class="reference external" href="https://radimrehurek.com/gensim/"&gt;gensim&lt;/a&gt;.
-Alternatively, text in the wiki markup can be parsed using &lt;a class="reference external" href="https://www.mediawiki.org/wiki/Parsoid"&gt;Parsoid&lt;/a&gt; to
-obtain (X)HTML, later this HTML is processed, for example tables and images
-are removed. See &lt;a class="reference external" href="http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb"&gt;this notebook&lt;/a&gt;. &lt;a class="reference external" href="http://johnmacfarlane.net/pandoc/"&gt;Pandoc&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/docverter/docverter#docverter-server"&gt;Docverter&lt;/a&gt; is another
-powerful document conversion solution.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AMR&lt;/strong&gt;: the &lt;a class="reference external" href="http://amr.isi.edu/index.html"&gt;AMR Bank&lt;/a&gt; is a set of English sentences paired with simple,
-readable semantic representations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 &lt;div class="section" id="a-distributional-semantic-toolkit"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id18"&gt;A distributional semantic toolkit&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id13"&gt;A distributional semantic toolkit&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;This project aims to provide researchers working in distributional semantics with
 a set of core Python utilities. The following functionality is required:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -712,9 +682,63 @@ KD-tree or random projections&lt;/li&gt;
 such as &lt;a class="reference external" href="https://github.com/composes-toolkit/dissect"&gt;DISSECT&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/dimazest/fowler.corpora"&gt;fowller.corpora&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/MLCL/DiscoUtils"&gt;discoutils&lt;/a&gt;. Check out &lt;a class="reference external" href="https://github.com/nltk/nltk/issues/798"&gt;a relevant
 discussion on including word embedding algorithms to NLTK&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
+&lt;div class="section" id="wikidepia-dump-postprocessing"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;Wikidepia dump postprocessing&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used by NLP
+tools (for example parsers) a dump has to be cleaned up from the wiki markup.
+The postrocessing steps are rarely described in details in scientific
+literature. A postprocessed Wikipedia dump from 2009 is often used in
+current literature.&lt;/p&gt;
+&lt;p&gt;The goal of this task is to come up with a easy to deploy and well documented
+pipeline of processing a Wikipdedia dump. There are two steps in the pipeline:
+raw text extraction and parsing.&lt;/p&gt;
+&lt;p&gt;There are at least two ways of getting raw text out of a Wikipedia dump. Wiki
+markup can be filtered out using regular expressions, as &lt;a class="reference external" href="https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py"&gt;it's done&lt;/a&gt; in
+&lt;a class="reference external" href="https://radimrehurek.com/gensim/"&gt;gensim&lt;/a&gt;. Alternatively, text in the wiki markup can be parsed using &lt;a class="reference external" href="https://www.mediawiki.org/wiki/Parsoid"&gt;Parsoid&lt;/a&gt;
+to obtain (X)HTML, later this HTML is processed, for example tables and images
+are removed. See &lt;a class="reference external" href="http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb"&gt;this notebook&lt;/a&gt;. &lt;a class="reference external" href="http://johnmacfarlane.net/pandoc/"&gt;Pandoc&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/docverter/docverter#docverter-server"&gt;Docverter&lt;/a&gt; is another
+powerful document conversion solution.&lt;/p&gt;
+&lt;p&gt;Later the raw text of a dump can be parsed by some of these parsers:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://svn.ask.it.usyd.edu.au/trac/candc"&gt;C&amp;amp;C tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://cogcomp.cs.illinois.edu/page/software"&gt;Illinois tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.maltparser.org/"&gt;MaltParser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ml.nec-labs.com/senna/"&gt;Senna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://nlp.stanford.edu/software/corenlp.shtml"&gt;Stanford CoreNLP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.ark.cs.cmu.edu/TurboParser/"&gt;TurboParser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nltk-corpus-readers"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
+textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
+(called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Groningen Meaning Bank&lt;/strong&gt;: the &lt;a class="reference external" href="http://gmb.let.rug.nl/"&gt;Groningen Meaning Bank&lt;/a&gt; is a free
+semantically annotated corpus that anyone can edit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UkWaC&lt;/strong&gt;: &lt;a class="reference external" href="http://wacky.sslmit.unibo.it/doku.php"&gt;UkWaC&lt;/a&gt; is a 2 billion
+word corpus constructed from the Web   limiting the crawl to the .uk domain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AMR&lt;/strong&gt;: the &lt;a class="reference external" href="http://amr.isi.edu/index.html"&gt;AMR Bank&lt;/a&gt; is a set of English sentences paired with simple,
+readable semantic representations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tweet-paraphrase-generator"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
+substituting all the content words (nouns, verbs, adjectives and adverbs) with
+similar words.&lt;/p&gt;
+&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs&lt;/a&gt; and generate a paraphrase tweet. Also,
+tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="twitter-stream-analysis"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;Twitter stream analysis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
+London, and London Marathon. In addition we are gathering geo located tweets
+from the UK. The task is to give insights of what these streams are about.&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id19"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id18"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
 meeting of SIGSEM, the ACL special interest group on semantics. The areas
 of interest for the conference include all computational aspects of meaning of
@@ -747,7 +771,7 @@ development environment set up and so on).&lt;/p&gt;
 at the venue.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id20"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id19"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
 &amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
