@@ -119,6 +119,11 @@ Later the raw text of a dump can be parsed by some of these parsers:
 * `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_
 * `TurboParser <http://www.ark.cs.cmu.edu/TurboParser/>`_
 
+It might be worth submitting the results to `10th Web as Corpus Workshop
+(WaC-10)`_.
+
+.. _`10th Web as Corpus Workshop (WaC-10)`: https://www.sigwac.org.uk/wiki/WAC10
+
 NLTK corpus readers
 -------------------
 
