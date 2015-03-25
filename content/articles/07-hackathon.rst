@@ -97,15 +97,18 @@ raw text extraction and parsing.
 
 There are at least two ways of getting raw text out of a Wikipedia dump. Wiki
 markup can be filtered out using regular expressions, as `it's done`__ in
-`gensim`_. Alternatively, text in the wiki markup can be parsed using `Parsoid`_
-to obtain (X)HTML, later this HTML is processed, for example tables and images
-are removed. See `this notebook`__. `Pandoc`_ and `Docverter`_ is another
-powerful document conversion solution.
+`gensim`_ and `Wikipedia Extractor`_. Alternatively, text in the wiki markup can
+be parsed using `Parsoid`_ to obtain (X)HTML, later this HTML is processed, for
+example tables and images are removed (see `this notebook`__). `Pandoc`_ and
+`Docverter`_ is a powerful document conversion solution that can be used to
+convert a wiki dump to plain text.
 
 .. _gensim: https://radimrehurek.com/gensim/
 .. _Parsoid: https://www.mediawiki.org/wiki/Parsoid
 .. _Pandoc: http://johnmacfarlane.net/pandoc/
 .. _Docverter: https://github.com/docverter/docverter#docverter-server
+.. _`Wikipedia Extractor`: http://wiki.apertium.org/wiki/Wikipedia_Extractor
+
 
 __ https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py
 __ http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb
