@@ -7,10 +7,11 @@
     <title>IWCS 2015</title>
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon.png">
-    <link rel="stylesheet" href="/theme/css/uikit.almost-flat.min.css" />
-    <link rel="stylesheet" href="/theme/css/addons/uikit.almost-flat.addons.min.css" />
-    <link rel="stylesheet" href="/theme/css/main.css" />
-    <link rel="stylesheet" href="/theme/css/pygments.css" />
+    <link rel="stylesheet" href="http://iwcs2015.github.io/theme/css/uikit.almost-flat.min.css" />
+    <link rel="stylesheet" href="http://iwcs2015.github.io/theme/css/addons/uikit.almost-flat.addons.min.css" />
+    <link rel="stylesheet" href="http://iwcs2015.github.io/theme/css/main.css" />
+    <link rel="stylesheet" href="http://iwcs2015.github.io/theme/css/pygments.css" />
+      <link href="http://iwcs2015.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="IWCS 2015 Atom Feed" />
   </head>
 
   <body>
@@ -18,17 +19,17 @@
 
       <nav class="uk-navbar uk-margin-large-bottom">
         <header>
-          <a class="uk-navbar-brand uk-hidden-small" href="/">IWCS 2015</a>
+          <a class="uk-navbar-brand uk-hidden-small" href="http://iwcs2015.github.io/">IWCS 2015</a>
         </header>
         <ul class="uk-navbar-nav uk-hidden-small">
-              <li><a href="/programme.html">Programme</a></li>
-              <li><a href="/speakers.html">Invited Speakers</a></li>
-              <li><a href="/workshops.html">Workshops</a></li>
-              <li><a href="/openspace.html">Open Space</a></li>
-              <li><a href="/hackathon.html">Hackathon</a></li>
-              <li><a href="/registration.html">Registration</a></li>
-              <li><a href="/location.html">Location</a></li>
-              <li><a href="/pages/organisation.html">Organisation</a></li>
+              <li><a href="http://iwcs2015.github.io/programme.html">Programme</a></li>
+              <li><a href="http://iwcs2015.github.io/speakers.html">Invited Speakers</a></li>
+              <li><a href="http://iwcs2015.github.io/workshops.html">Workshops</a></li>
+              <li><a href="http://iwcs2015.github.io/openspace.html">Open Space</a></li>
+              <li><a href="http://iwcs2015.github.io/hackathon.html">Hackathon</a></li>
+              <li><a href="http://iwcs2015.github.io/registration.html">Registration</a></li>
+              <li><a href="http://iwcs2015.github.io/location.html">Location</a></li>
+              <li><a href="http://iwcs2015.github.io/pages/organisation.html">Organisation</a></li>
 
 
 
@@ -52,8 +53,8 @@ like to attract anyone interested in data processing tools so they could
 contribute to open source projects represented at the event. <em>You don't need to
 attend the conference to be able to participate at the hackathon.</em></p>
 <p>The event will take place at <a class="reference external" href="http://www.qmsu.org/ground/">Ground Cafe</a>. It's
-building 33 on the <a class="reference external" href="/static/qm-campus-map.pdf">QMUL campus map</a>.
-Please refer to the <a class="reference external" href="/location.html">location page</a> for
+building 33 on the <a class="reference external" href="http://iwcs2015.github.io/static/qm-campus-map.pdf">QMUL campus map</a>.
+Please refer to the <a class="reference external" href="http://iwcs2015.github.io/location.html">location page</a> for
 more information on how to get to the QMUL Mile End Campus.</p>
 <p>The hackathon is organised by the Computational Linguistics lab at QMUL and
 sponsored by the <a class="reference external" href="http://www.epsrc.ac.uk/">EPSRC</a> grant <a class="reference external" href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1">EP/J002607/1 — Foundational Structures for
@@ -97,10 +98,11 @@ pipeline of processing a Wikipdedia dump. There are two steps in the pipeline:
 raw text extraction and parsing.</p>
 <p>There are at least two ways of getting raw text out of a Wikipedia dump. Wiki
 markup can be filtered out using regular expressions, as <a class="reference external" href="https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py">it's done</a> in
-<a class="reference external" href="https://radimrehurek.com/gensim/">gensim</a>. Alternatively, text in the wiki markup can be parsed using <a class="reference external" href="https://www.mediawiki.org/wiki/Parsoid">Parsoid</a>
-to obtain (X)HTML, later this HTML is processed, for example tables and images
-are removed. See <a class="reference external" href="http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb">this notebook</a>. <a class="reference external" href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and <a class="reference external" href="https://github.com/docverter/docverter#docverter-server">Docverter</a> is another
-powerful document conversion solution.</p>
+<a class="reference external" href="https://radimrehurek.com/gensim/">gensim</a> and <a class="reference external" href="http://wiki.apertium.org/wiki/Wikipedia_Extractor">Wikipedia Extractor</a>. Alternatively, text in the wiki markup can
+be parsed using <a class="reference external" href="https://www.mediawiki.org/wiki/Parsoid">Parsoid</a> to obtain (X)HTML, later this HTML is processed, for
+example tables and images are removed (see <a class="reference external" href="http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb">this notebook</a>). <a class="reference external" href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and
+<a class="reference external" href="https://github.com/docverter/docverter#docverter-server">Docverter</a> is a powerful document conversion solution that can be used to
+convert a wiki dump to plain text.</p>
 <p>Later the raw text of a dump can be parsed by some of these parsers:</p>
 <ul class="simple">
 <li><a class="reference external" href="http://svn.ask.it.usyd.edu.au/trac/candc">C&amp;C tools</a></li>
@@ -217,7 +219,7 @@ at the venue.</li>
 
         <div class="uk-width-1-1">
           <figure class="uk-overlay uk-overlay-hover">
-            <img src="/static/images/epsrc.jpg" alt="" height="150" width="350">
+            <img src="http://iwcs2015.github.io/static/images/epsrc.jpg" alt="" height="150" width="350">
              <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
               <div>Foundational Structures for Compositional Meaning</div>
             </figcaption>
@@ -227,7 +229,7 @@ at the venue.</li>
 
         <div class="uk-width-1-1">
           <figure class="uk-overlay uk-overlay-hover">
-            <img src="/static/images/qm.gif" alt="" height="150" width="350">
+            <img src="http://iwcs2015.github.io/static/images/qm.gif" alt="" height="150" width="350">
              <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
               <div>EECS</div>
             </figcaption>
@@ -237,7 +239,7 @@ at the venue.</li>
 
         <div class="uk-width-1-1">
           <figure class="uk-overlay uk-overlay-hover">
-            <img src="/static/images/github.png" alt="" height="150" width="350">
+            <img src="http://iwcs2015.github.io/static/images/github.png" alt="" height="150" width="350">
              <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
               <div>Plan subscriptions for winners</div>
             </figcaption>
@@ -258,26 +260,36 @@ at the venue.</li>
       <div class="uk-offcanvas-bar">
         <ul class="uk-nav uk-nav-offcanvas">
           <li>
-            <a href="/">IWCS 2015</a>
+            <a href="http://iwcs2015.github.io/">IWCS 2015</a>
           </li>
-              <li><a href="/programme.html">Programme</a></li>
-              <li><a href="/speakers.html">Invited Speakers</a></li>
-              <li><a href="/workshops.html">Workshops</a></li>
-              <li><a href="/openspace.html">Open Space</a></li>
-              <li><a href="/hackathon.html">Hackathon</a></li>
-              <li><a href="/registration.html">Registration</a></li>
-              <li><a href="/location.html">Location</a></li>
-              <li><a href="/pages/organisation.html">Organisation</a></li>
+              <li><a href="http://iwcs2015.github.io/programme.html">Programme</a></li>
+              <li><a href="http://iwcs2015.github.io/speakers.html">Invited Speakers</a></li>
+              <li><a href="http://iwcs2015.github.io/workshops.html">Workshops</a></li>
+              <li><a href="http://iwcs2015.github.io/openspace.html">Open Space</a></li>
+              <li><a href="http://iwcs2015.github.io/hackathon.html">Hackathon</a></li>
+              <li><a href="http://iwcs2015.github.io/registration.html">Registration</a></li>
+              <li><a href="http://iwcs2015.github.io/location.html">Location</a></li>
+              <li><a href="http://iwcs2015.github.io/pages/organisation.html">Organisation</a></li>
 
 
         </ul>
       </div>
     </div>
 
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-56482153-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
 
-    <script src="/theme/js/jquery.min.js"></script>
-    <script src="/theme/js/uikit.min.js"></script>
-    <script src="/theme/js/components/sticky.min.js"></script>
+    <script src="http://iwcs2015.github.io/theme/js/jquery.min.js"></script>
+    <script src="http://iwcs2015.github.io/theme/js/uikit.min.js"></script>
+    <script src="http://iwcs2015.github.io/theme/js/components/sticky.min.js"></script>
 
   </body>
 </html>
