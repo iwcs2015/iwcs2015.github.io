@@ -708,7 +708,7 @@ pipeline of processing a Wikipdedia dump. There are two steps in the pipeline:
 raw text extraction and parsing.</p>
 <p>There are at least two ways of getting raw text out of a Wikipedia dump. Wiki
 markup can be filtered out using regular expressions, as <a class="reference external" href="https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py">it's done</a> in
-<a class="reference external" href="https://radimrehurek.com/gensim/">gensim</a> and <a class="reference external" href="http://wiki.apertium.org/wiki/Wikipedia_Extractor">Wikipedia Extractor</a>. Alternatively, text in the wiki markup can
+<a class="reference external" href="https://radimrehurek.com/gensim/">gensim</a> and <a class="reference external" href="https://github.com/bwbaugh/wikipedia-extractor">Wikipedia Extractor</a>. Alternatively, text in the wiki markup can
 be parsed using <a class="reference external" href="https://www.mediawiki.org/wiki/Parsoid">Parsoid</a> to obtain (X)HTML, later this HTML is processed, for
 example tables and images are removed (see <a class="reference external" href="http://nbviewer.ipython.org/urls/bitbucket.org/dimazest/phd-buildout/raw/tip/notebooks/Wikipedia%20dump.ipynb">this notebook</a>). <a class="reference external" href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and
 <a class="reference external" href="https://github.com/docverter/docverter#docverter-server">Docverter</a> is a powerful document conversion solution that can be used to
