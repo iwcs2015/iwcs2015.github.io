@@ -107,7 +107,7 @@ convert a wiki dump to plain text.
 .. _Parsoid: https://www.mediawiki.org/wiki/Parsoid
 .. _Pandoc: http://johnmacfarlane.net/pandoc/
 .. _Docverter: https://github.com/docverter/docverter#docverter-server
-.. _`Wikipedia Extractor`: http://wiki.apertium.org/wiki/Wikipedia_Extractor
+.. _`Wikipedia Extractor`: https://github.com/bwbaugh/wikipedia-extractor
 
 
 __ https://github.com/piskvorky/gensim/blob/develop/gensim/corpora/wikicorpus.py
