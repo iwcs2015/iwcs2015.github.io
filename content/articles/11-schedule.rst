@@ -467,7 +467,9 @@ List of accepted long papers, with oral presentation:
 Accepted Short Papers
 =====================
 
-List of accepted short papers, with poster and "lightning talk" presentation:
+List of accepted short papers, with poster and "lightning talk" presentation. A0
+posters shoule be in the portrait format, A1 and smaller in either portrait or
+landascape.
 
 *Exploiting Fine-grained Syntactic Transfer Features to Predict the Compositionality of German Particle Verbs*
 |br| **Stefan Bott and Sabine Schulte im Walde**
