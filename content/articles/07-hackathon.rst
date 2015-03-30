@@ -138,6 +138,7 @@ Later the raw text of a dump can be parsed by some of these parsers:
 * `Senna <http://ml.nec-labs.com/senna/>`_
 * `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_
 * `TurboParser <http://www.ark.cs.cmu.edu/TurboParser/>`_
+* `YaraParser <https://github.com/yahoo/YaraParser>`_
 
 It might be worth submitting the results to `10th Web as Corpus Workshop
 (WaC-10)`_.
