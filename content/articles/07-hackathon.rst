@@ -80,6 +80,23 @@ __ https://github.com/nltk/nltk/issues/798
 .. _fowller.corpora:  https://github.com/dimazest/fowler.corpora
 .. _discoutils: https://github.com/MLCL/DiscoUtils
 
+Compositionality for distributional semantic toolkits
+-----------------------------------------------------
+
+It has been shown that some type-logical grammars can be interpreted in vector
+space semantics, so the challenge here would be to build a tool that connects
+such a grammar to a distributional setting.
+
+Ingredients are a representation of such grammars in terms of a
+lexicon/derivation rules, a suitable interpretation of types and proofs into
+tensor spaces and maps, and distributional data.
+
+Given a lexicon and derivational rules, a theorem prover such as z3_ provides a
+proof for a given input sentence which is later used to obtain distributional
+representation.
+
+.. _z3: http://rise4fun.com/z3
+
 Wikidepia dump postprocessing
 -----------------------------
 
