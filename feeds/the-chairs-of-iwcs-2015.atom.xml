@@ -613,8 +613,20 @@ KD-tree or random projections&lt;/li&gt;
 such as &lt;a class="reference external" href="https://github.com/composes-toolkit/dissect"&gt;DISSECT&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/dimazest/fowler.corpora"&gt;fowller.corpora&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/MLCL/DiscoUtils"&gt;discoutils&lt;/a&gt;. Check out &lt;a class="reference external" href="https://github.com/nltk/nltk/issues/798"&gt;a relevant
 discussion on including word embedding algorithms to NLTK&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
+&lt;div class="section" id="compositionality-for-distributional-semantic-toolkits"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;Compositionality for distributional semantic toolkits&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;It has been shown that some type-logical grammars can be interpreted in vector
+space semantics, so the challenge here would be to build a tool that connects
+such a grammar to a distributional setting.&lt;/p&gt;
+&lt;p&gt;Ingredients are a representation of such grammars in terms of a
+lexicon/derivation rules, a suitable interpretation of types and proofs into
+tensor spaces and maps, and distributional data.&lt;/p&gt;
+&lt;p&gt;Given a lexicon and derivational rules, a theorem prover such as &lt;a class="reference external" href="http://rise4fun.com/z3"&gt;z3&lt;/a&gt; provides a
+proof for a given input sentence which is later used to obtain distributional
+representation.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class="section" id="wikidepia-dump-postprocessing"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;Wikidepia dump postprocessing&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;Wikidepia dump postprocessing&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used by NLP
 tools (for example parsers) a dump has to be cleaned up from the wiki markup.
 The postrocessing steps are rarely described in details in scientific
@@ -643,7 +655,7 @@ convert a wiki dump to plain text.&lt;/p&gt;
 (WaC-10)&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="nltk-corpus-readers"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
 textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
 (called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
@@ -657,7 +669,7 @@ readable semantic representations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="tweet-paraphrase-generator"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
 similar words.&lt;/p&gt;
@@ -665,14 +677,14 @@ similar words.&lt;/p&gt;
 tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="twitter-stream-analysis"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;Twitter stream analysis&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id18"&gt;Twitter stream analysis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
 London, and London Marathon. In addition we are gathering geo located tweets
 from the UK. The task is to give insights of what these streams are about.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id18"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id19"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
 meeting of SIGSEM, the ACL special interest group on semantics. The areas
 of interest for the conference include all computational aspects of meaning of
@@ -705,7 +717,7 @@ development environment set up and so on).&lt;/p&gt;
 at the venue.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id19"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id20"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
 &amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
