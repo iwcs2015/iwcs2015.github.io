@@ -63,6 +63,23 @@ registration fee.
     Underground: just take the District Line westbound from Stepney Green station to
     Embankment station (9 stops, which should take about 20 minutes).
 
+Walking Tour
+============
+
+Queen Mary is situated in a historic part of London's East End. If you're
+interested in exploring it, we offer a self-guided audio tour together with map
+and expert commentary. It takes about an hour to complete, and you can `download
+it free here`__. Highlights include:
+
+* Whitechapel murder scene of Jack the Ripper
+* East End's Speakers Corner (Mile End Waste)
+* Petticoat Lane Market
+* Christ Church, Spitalfields
+* Brick Lane
+
+__ http://www.qmul.ac.uk/studentlife/social/london/audiotour/
+
+
 Internet Access
 ===============
 
