@@ -43,7 +43,7 @@ Preliminary Schedule
    <tbody valign="top">
    <tr><td colspan="2" class="blank">&nbsp;</td>
    <th colspan="2">Hackathon</th>
-   <th>ISA-11 meetings</th>
+   <th>ISO meetings</th>
    <th>Workshops</th>
    <th colspan="6">Main Conference</th>
    </tr>
