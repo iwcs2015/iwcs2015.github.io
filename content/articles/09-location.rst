@@ -45,6 +45,31 @@ __ {filename}/static/qm-campus-map.pdf
         Mile End Road
         London E1 4NS, UK
 
+Getting around
+==============
+
+There are several options for eating and having a drink near Queen Mary.
+
+On the Mile End Road, towards and close to the Mile End underground station,
+there is a plethora of cafés and fast food places, e.g. Starbucks, Costa and
+Nandos. There is also an Indian buffet and a sit down Chinese restaurant. From
+the places close to the Stepney Green underground station, Pride of Asia stands
+out, which is also an Indian buffet.
+
+The cheapest pub option is the The Half Moon on Mile End Road and close to
+Stepney Green Station. Nearby is the more expensive but good quality Italian
+restaurant `Verdi <http://www.gverdi.uk/>`_ (237 Mile End Road). Orthogonal to
+Mile End Road, just before the underground station, on  Midlothian Road, there
+is the reasonably priced Afghan/Persian restaurant `Ariana <http://www.ariana-
+restaurant.co.uk/index.html>`_ (2 Midlothian Road, London E3 4SE); also
+orthogonal to Mile End Road, on Grove Road, there is `The Greedy Cow
+<http://greedycow.com/>`_ (2 Grove Road, London E3 5AX), with a popular range
+burgers from different sources; down the Grove Road, there is a lovely coffee
+shop `The Coffee room <https://www.facebook.com/thecoffeeroom.london>`_ Close to
+Mile End station there is the gastro-style pub `The Morgan Arms
+<http://www.morganarmsbow.com>`_ (43 Morgan St Bow, London E3 5AA). The Palm
+Tree in the Mile End Park is a cosy pub. Some other places are shown on the map.
+
 Conference Dinner
 =================
 
