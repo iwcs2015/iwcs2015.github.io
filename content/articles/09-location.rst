@@ -61,8 +61,8 @@ out, which is also an Indian buffet.
 The cheapest pub option is the The Half Moon on Mile End Road and close to
 Stepney Green Station. Nearby is the more expensive but good quality Italian
 restaurant `Verdi <http://www.gverdi.uk/>`_ (237 Mile End Road). Orthogonal to
-Mile End Road, just before the underground station, on  Midlothian Road, there
-is the reasonably priced Afghan/Persian restaurant `Ariana <http://www.ariana-
+Mile End Road, just before the underground station, on Midlothian Road, there is
+the reasonably priced Afghan/Persian restaurant `Ariana <http://www.ariana-
 restaurant.co.uk/index.html>`_ (2 Midlothian Road, London E3 4SE); also
 orthogonal to Mile End Road, on Grove Road, there is `The Greedy Cow
 <http://greedycow.com/>`_ (2 Grove Road, London E3 5AX), with a popular range
@@ -70,7 +70,14 @@ burgers from different sources; down the Grove Road, there is a lovely coffee
 shop `The Coffee room <https://www.facebook.com/thecoffeeroom.london>`_. Close
 to Mile End station there is the gastro-style pub `The Morgan Arms
 <http://www.morganarmsbow.com>`_ (43 Morgan St Bow, London E3 5AA). The Palm
-Tree in the Mile End Park is a cosy pub. Some other places are shown on the map.
+Tree in the Mile End Park is a cosy and traditional East End pub (but beware it
+only takes cash). Some other places are shown on the map.
+
+If you're looking for the Indian/Bangladeshi food for which the area is famous,
+there are many options on Brick Lane a little further west (get a bus or tube to
+Aldgate East or Whitechapel station), but they can be hit-and-miss; we recommend
+`Tayyabs <http://www.tayyabs.co.uk/>`_ and the `Lahore Kebab House
+<http://www.lahore-kebabhouse.com/>`_ nearby more highly.
 
 Conference Dinner
 =================
