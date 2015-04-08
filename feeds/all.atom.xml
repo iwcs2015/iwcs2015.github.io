@@ -689,7 +689,7 @@ KD-tree or random projections&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The project will involve merging and documenting existing pieces of software,
 such as &lt;a class="reference external" href="https://github.com/composes-toolkit/dissect"&gt;DISSECT&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/dimazest/fowler.corpora"&gt;fowller.corpora&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/MLCL/DiscoUtils"&gt;discoutils&lt;/a&gt;. Check out &lt;a class="reference external" href="https://github.com/nltk/nltk/issues/798"&gt;a relevant
-discussion on including word embedding algorithms to `NLTK&lt;/a&gt;.&lt;/p&gt;
+discussion on including word embedding algorithms to NLTK&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="compositionality-for-distributional-semantic-toolkits-yellow"&gt;
 &lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;Compositionality for distributional semantic toolkits (Yellow)&lt;/a&gt;&lt;/h3&gt;
