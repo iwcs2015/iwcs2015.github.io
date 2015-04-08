@@ -19,13 +19,20 @@ for the 3 winning teams.&lt;/p&gt;
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id11"&gt;Registration&lt;/a&gt;&lt;/h2&gt;
 &lt;div style="width:100%; text-align:left;"&gt; &lt;iframe allowtransparency="true" frameborder="0" height="320" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="//eventbrite.co.uk/tickets-external?eid=16162713110&amp;amp;ref=etckt" vspace="0" width="100%"&gt;&lt;/iframe&gt; &lt;/div&gt;&lt;/div&gt;
+&lt;div class="section" id="organization"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Organization&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We will use a &lt;a class="reference external" href="https://trello.com/b/AQIKkm6V/iwcs-hackathon-2015"&gt;Trello board&lt;/a&gt; to keep track of the progress. Each project is assigned a
+color, so you can see to which project a card belongs. If you are interested in
+a task, please add yourself to a corresponding card. Feel free to add your own
+projects in the &lt;a class="reference internal" href="#comments"&gt;Comments&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class="section" id="project-ideas"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id12"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id13"&gt;Project ideas&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
 computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt; or submit a pull request with
 your idea added to &lt;a class="reference external" href="https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst"&gt;this page&lt;/a&gt;! The list below shows some possibilities:&lt;/p&gt;
-&lt;div class="section" id="a-distributional-semantic-toolkit"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id13"&gt;A distributional semantic toolkit&lt;/a&gt;&lt;/h3&gt;
+&lt;div class="section" id="a-distributional-semantic-toolkit-green"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;A distributional semantic toolkit (Green)&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;This project aims to provide researchers working in distributional semantics with
 a set of core Python utilities. The following functionality is required:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -39,10 +46,10 @@ KD-tree or random projections&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The project will involve merging and documenting existing pieces of software,
 such as &lt;a class="reference external" href="https://github.com/composes-toolkit/dissect"&gt;DISSECT&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/dimazest/fowler.corpora"&gt;fowller.corpora&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/MLCL/DiscoUtils"&gt;discoutils&lt;/a&gt;. Check out &lt;a class="reference external" href="https://github.com/nltk/nltk/issues/798"&gt;a relevant
-discussion on including word embedding algorithms to NLTK&lt;/a&gt;.&lt;/p&gt;
+discussion on including word embedding algorithms to `NLTK&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="compositionality-for-distributional-semantic-toolkits"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id14"&gt;Compositionality for distributional semantic toolkits&lt;/a&gt;&lt;/h3&gt;
+&lt;div class="section" id="compositionality-for-distributional-semantic-toolkits-yellow"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;Compositionality for distributional semantic toolkits (Yellow)&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;It has been shown that some type-logical grammars can be interpreted in vector
 space semantics, so the challenge here would be to build a tool that connects
 such a grammar to a distributional setting.&lt;/p&gt;
@@ -53,8 +60,8 @@ tensor spaces and maps, and distributional data.&lt;/p&gt;
 proof for a given input sentence which is later used to obtain distributional
 representation.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="wikidepia-dump-postprocessing"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id15"&gt;Wikidepia dump postprocessing&lt;/a&gt;&lt;/h3&gt;
+&lt;div class="section" id="wikidepia-dump-postprocessing-orange"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;Wikidepia dump postprocessing (Orange)&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used by NLP
 tools (for example parsers) a dump has to be cleaned up from the wiki markup.
 The postrocessing steps are rarely described in details in scientific
@@ -83,11 +90,12 @@ convert a wiki dump to plain text.&lt;/p&gt;
 &lt;p&gt;It might be worth submitting the results to &lt;a class="reference external" href="https://www.sigwac.org.uk/wiki/WAC10"&gt;10th Web as Corpus Workshop
 (WaC-10)&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="nltk-corpus-readers"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id16"&gt;NLTK corpus readers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic tools to deal with
-textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to access textual resources
-(called corpora). The task is to provide interfaces to the following resources.&lt;/p&gt;
+&lt;div class="section" id="nltk-corpus-readers-red"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;NLTK corpus readers (Red)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; is a natural language toolkit that provides basic
+tools to deal with textual information. &lt;a class="reference external" href="http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader"&gt;Corpus readers&lt;/a&gt; are interfaces to
+access textual resources (called corpora). The task is to provide interfaces to
+the following resources.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;strong&gt;Groningen Meaning Bank&lt;/strong&gt;: the &lt;a class="reference external" href="http://gmb.let.rug.nl/"&gt;Groningen Meaning Bank&lt;/a&gt; is a free
 semantically annotated corpus that anyone can edit.&lt;/li&gt;
@@ -97,8 +105,8 @@ word corpus constructed from the Web   limiting the crawl to the .uk domain.&lt;
 readable semantic representations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div class="section" id="tweet-paraphrase-generator"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id17"&gt;Tweet paraphrase generator&lt;/a&gt;&lt;/h3&gt;
+&lt;div class="section" id="tweet-paraphrase-generator-violet"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id18"&gt;Tweet paraphrase generator (Violet)&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
 similar words.&lt;/p&gt;
@@ -106,49 +114,31 @@ similar words.&lt;/p&gt;
 tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="twitter-stream-analysis"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id18"&gt;Twitter stream analysis&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id19"&gt;Twitter stream analysis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
 London, and London Marathon. In addition we are gathering geo located tweets
-from the UK. The task is to give insights of what these streams are about.&lt;/p&gt;
+from the UK. The task is to give insights of what these streams are about. Some
+limited statistics about the collected tweets:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+du -hs *
+632M  cricket
+816M  easter
+13M ep14
+199M  heartbleed
+56K iwcs
+8.1G  london
+2.1M  london-marathon
+2.0G  uk
+1.9M  ukg-fest
+&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="section" id="call-for-sponsorship"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id19"&gt;Call for Sponsorship&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;IWCS is the International Conference in Computational Semantics series: the bi-yearly
-meeting of SIGSEM, the ACL special interest group on semantics. The areas
-of interest for the conference include all computational aspects of meaning of
-natural language within written, spoken, or multimodal communication. We are
-organising the 11th IWCS conference; this will be held in Queen Mary University
-of London on April 14-17th 2015. For more info see &lt;a class="reference external" href="http://sigsem.org/iwcs2015"&gt;http://sigsem.org/iwcs2015&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year we would like to organize a hackathon the weekend before the
-conference on April 11th-12th. The goal of the event is to provide an
-opportunity to discuss and develop tools that are used in Computational
-Semantics. Moreover, we also would like to attract anyone interested in data
-processing tools so they could contribute to open source projects represented at
-the event. Currently, we are looking for sponsors to support the event. We aim
-to invite core developers of relevant open source projects (e.g. &lt;a class="reference external" href="http://www.nltk.org/"&gt;NLTK&lt;/a&gt; and &lt;a class="reference external" href="http://scikit-learn.org/"&gt;scikit- learn&lt;/a&gt;) and
-provide travel grants to everyone interested to attend the event.&lt;/p&gt;
-&lt;p&gt;We are also looking for experienced developers who can mentor participants and
-assist with software engineering tools (version control systems, editor,
-development environment set up and so on).&lt;/p&gt;
-&lt;p&gt;To support the event you could:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Provide funding to cover catering, traveling and organisational costs.&lt;/li&gt;
-&lt;li&gt;Propose project ideas that might be implemented during the hackathon.&lt;/li&gt;
-&lt;li&gt;Invite experienced developers to mentor.&lt;/li&gt;
-&lt;li&gt;Share relevant datasets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In return we can:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Work on your project.&lt;/li&gt;
-&lt;li&gt;Put your logo on the hackathon web page &lt;a class="reference external" href="http://iwcs2015.github.io/hackathon.html"&gt;http://iwcs2015.github.io/hackathon.html&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Provide a space for a poster, promotional material, an information desk, etc.
-at the venue.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;div class="section" id="contact-information"&gt;
-&lt;h3&gt;&lt;a class="toc-backref" href="#id20"&gt;Contact information&lt;/a&gt;&lt;/h3&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id20"&gt;Contact information&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;In case you are interested in supporting the event contact Dmitrijs Milajevs
 &amp;lt;&lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk"&gt;d.milajevs@qmul.ac.uk&lt;/a&gt;&amp;gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+&lt;div class="section" id="comments"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id21"&gt;Comments&lt;/a&gt;&lt;/h2&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt; &lt;script type="text/javascript"&gt;     /* * * CONFIGURATION VARIABLES * * */     var disqus_shortname = 'iwcs2015';      /* * * DON'T EDIT BELOW THIS LINE * * */     (function() {         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);     })(); &lt;/script&gt; &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript" rel="nofollow"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/div&gt;
 </summary></entry></feed>
