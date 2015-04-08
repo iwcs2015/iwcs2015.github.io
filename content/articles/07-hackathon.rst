@@ -188,8 +188,8 @@ A twitter bot should monitor Twitter for tweets that contain `#iwcs
 <https://twitter.com/search?q=%23iwcs>`_ and generate a paraphrase tweet. Also,
 tweets directed to the bot should be replied with a paraphrase.
 
-Twitter stream analysis
------------------------
+Twitter stream analysis (Blue)
+------------------------------
 
 We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
 London, and London Marathon. In addition we are gathering geo located tweets
