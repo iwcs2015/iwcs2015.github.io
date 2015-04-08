@@ -46,6 +46,15 @@ Registration
     <iframe  src="//eventbrite.co.uk/tickets-external?eid=16162713110&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
   </div>
 
+Organization
+============
+
+We will use a `Trello board <https://trello.com/b/AQIKkm6V/iwcs-
+hackathon-2015>`_ to keep track of the progress. Each project is assigned a
+color, so you can see to which project a card belongs. If you are interested in
+a task, please add yourself to a corresponding card. Feel free to add your own
+projects in the Comments_.
+
 Project ideas
 =============
 
@@ -56,8 +65,8 @@ your idea added to `this page`__! The list below shows some possibilities:
 __ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
 __ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
 
-A distributional semantic toolkit
----------------------------------
+A distributional semantic toolkit (Green)
+-----------------------------------------
 
 This project aims to provide researchers working in distributional semantics with
 a set of core Python utilities. The following functionality is required:
@@ -72,7 +81,7 @@ a set of core Python utilities. The following functionality is required:
 
 The project will involve merging and documenting existing pieces of software,
 such as `DISSECT`_, `fowller.corpora`_ and `discoutils`_. Check out `a relevant
-discussion on including word embedding algorithms to NLTK`__.
+discussion on including word embedding algorithms to `NLTK`__.
 
 __ https://github.com/nltk/nltk/issues/798
 
@@ -80,8 +89,8 @@ __ https://github.com/nltk/nltk/issues/798
 .. _fowller.corpora:  https://github.com/dimazest/fowler.corpora
 .. _discoutils: https://github.com/MLCL/DiscoUtils
 
-Compositionality for distributional semantic toolkits
------------------------------------------------------
+Compositionality for distributional semantic toolkits (Yellow)
+--------------------------------------------------------------
 
 It has been shown that some type-logical grammars can be interpreted in vector
 space semantics, so the challenge here would be to build a tool that connects
@@ -97,8 +106,8 @@ representation.
 
 .. _z3: http://rise4fun.com/z3
 
-Wikidepia dump postprocessing
------------------------------
+Wikidepia dump postprocessing (Orange)
+--------------------------------------
 
 Wikipedia provides `dumps`__ of all its content. However, to be used by NLP
 tools (for example parsers) a dump has to be cleaned up from the wiki markup.
@@ -145,12 +154,13 @@ It might be worth submitting the results to `10th Web as Corpus Workshop
 
 .. _`10th Web as Corpus Workshop (WaC-10)`: https://www.sigwac.org.uk/wiki/WAC10
 
-NLTK corpus readers
--------------------
+NLTK corpus readers (Red)
+-------------------------
 
-NLTK_ is a natural language toolkit that provides basic tools to deal with
-textual information. `Corpus readers`__ are interfaces to access textual resources
-(called corpora). The task is to provide interfaces to the following resources.
+`NLTK <http://www.nltk.org/>`_ is a natural language toolkit that provides basic
+tools to deal with textual information. `Corpus readers`__ are interfaces to
+access textual resources (called corpora). The task is to provide interfaces to
+the following resources.
 
 __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
 
@@ -167,8 +177,8 @@ __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
 
   __ http://amr.isi.edu/index.html
 
-Tweet paraphrase generator
---------------------------
+Tweet paraphrase generator (Violet)
+-----------------------------------
 
 Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
@@ -183,48 +193,42 @@ Twitter stream analysis
 
 We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
 London, and London Marathon. In addition we are gathering geo located tweets
-from the UK. The task is to give insights of what these streams are about.
+from the UK. The task is to give insights of what these streams are about. Some
+limited statistics about the collected tweets::
 
-Call for Sponsorship
-====================
+  du -hs *
+  632M  cricket
+  816M  easter
+  13M ep14
+  199M  heartbleed
+  56K iwcs
+  8.1G  london
+  2.1M  london-marathon
+  2.0G  uk
+  1.9M  ukg-fest
 
-IWCS is the International Conference in Computational Semantics series: the bi-yearly
-meeting of SIGSEM, the ACL special interest group on semantics. The areas
-of interest for the conference include all computational aspects of meaning of
-natural language within written, spoken, or multimodal communication. We are
-organising the 11th IWCS conference; this will be held in Queen Mary University
-of London on April 14-17th 2015. For more info see http://sigsem.org/iwcs2015.
-
-This year we would like to organize a hackathon the weekend before the
-conference on April 11th-12th. The goal of the event is to provide an
-opportunity to discuss and develop tools that are used in Computational
-Semantics. Moreover, we also would like to attract anyone interested in data
-processing tools so they could contribute to open source projects represented at
-the event. Currently, we are looking for sponsors to support the event. We aim
-to invite core developers of relevant open source projects (e.g. `NLTK
-<http://www.nltk.org/>`_ and `scikit- learn <http://scikit-learn.org/>`_) and
-provide travel grants to everyone interested to attend the event.
-
-We are also looking for experienced developers who can mentor participants and
-assist with software engineering tools (version control systems, editor,
-development environment set up and so on).
-
-To support the event you could:
-
-* Provide funding to cover catering, traveling and organisational costs.
-* Propose project ideas that might be implemented during the hackathon.
-* Invite experienced developers to mentor.
-* Share relevant datasets.
-
-In return we can:
-
-* Work on your project.
-* Put your logo on the hackathon web page http://iwcs2015.github.io/hackathon.html.
-* Provide a space for a poster, promotional material, an information desk, etc.
-  at the venue.
 
 Contact information
--------------------
+===================
 
 In case you are interested in supporting the event contact Dmitrijs Milajevs
 <d.milajevs@qmul.ac.uk>.
+
+Comments
+========
+
+.. html::
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES * * */
+      var disqus_shortname = 'iwcs2015';
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
