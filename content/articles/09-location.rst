@@ -67,8 +67,8 @@ restaurant.co.uk/index.html>`_ (2 Midlothian Road, London E3 4SE); also
 orthogonal to Mile End Road, on Grove Road, there is `The Greedy Cow
 <http://greedycow.com/>`_ (2 Grove Road, London E3 5AX), with a popular range
 burgers from different sources; down the Grove Road, there is a lovely coffee
-shop `The Coffee room <https://www.facebook.com/thecoffeeroom.london>`_ Close to
-Mile End station there is the gastro-style pub `The Morgan Arms
+shop `The Coffee room <https://www.facebook.com/thecoffeeroom.london>`_. Close
+to Mile End station there is the gastro-style pub `The Morgan Arms
 <http://www.morganarmsbow.com>`_ (43 Morgan St Bow, London E3 5AA). The Palm
 Tree in the Mile End Park is a cosy pub. Some other places are shown on the map.
 
