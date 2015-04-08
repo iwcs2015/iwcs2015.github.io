@@ -83,7 +83,7 @@ Conference Dinner
 =================
 
 The conference dinner includes a `Thames boat
-trip<http://www.thamescruises.com>`_ and is included as part of the registration
+trip <http://www.thamescruises.com>`_ and is included as part of the registration
 fee. The boat is called Thames Princess. We embark on Lambeth Pier. To get
 there, take a District line train to Westmister, walk over Westminster Bridge
 and turn right along the river (away from the London Eye). It’s a 5-10 minute
