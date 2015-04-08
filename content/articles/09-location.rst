@@ -18,11 +18,13 @@ __ http://www.qmul.ac.uk/about/howtofindus/mileend/
 Conference Venue
 ================
 
-The conference itself will take place on the first floor of the Francis Bancroft
-Building, with plenary sessions in the Mason Lecture Theatre, and registration
-and poster sessions just across the corridor. It's building 31 on the `QMUL
-campus map`__, but the map below might be more helpful for finding your way
-there:
+The conference and workshops will take place in the **Bancroft
+Building**. Conference plenary sessions will be held in the Mason Lecture
+Theatre on the first floor (in UK terms, i.e. one floor above the ground
+floor). Poster sessions will be just across the corridor, and workshops in rooms
+very close by. The registration desk will be in the foyer on the ground floor as
+you come in. The Bancroft is building 31 on the `QMUL campus map`__, although
+the map below might be more helpful for finding your way there:
 
 __ {filename}/static/qm-campus-map.pdf
 
@@ -87,6 +89,23 @@ registration fee.
 ..    The easiest way to get to Embankment from the conference venue is via
     Underground: just take the District Line westbound from Stepney Green station to
     Embankment station (9 stops, which should take about 20 minutes).
+
+Walking Tour
+============
+
+Queen Mary is situated in a historic part of London's East End. If you're
+interested in exploring it, we offer a self-guided audio tour together with map
+and expert commentary. It takes about an hour to complete, and you can `download
+it free here`__. Highlights include:
+
+* Whitechapel murder scene of Jack the Ripper
+* East End's Speakers Corner (Mile End Waste)
+* Petticoat Lane Market
+* Christ Church, Spitalfields
+* Brick Lane
+
+__ http://www.qmul.ac.uk/studentlife/social/london/audiotour/
+
 
 Internet Access
 ===============

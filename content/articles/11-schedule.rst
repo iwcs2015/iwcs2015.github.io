@@ -43,7 +43,7 @@ Preliminary Schedule
    <tbody valign="top">
    <tr><td colspan="2" class="blank">&nbsp;</td>
    <th colspan="2">Hackathon</th>
-   <th>ISA-11 meetings</th>
+   <th>ISO meetings</th>
    <th>Workshops</th>
    <th colspan="6">Main Conference</th>
    </tr>
@@ -64,7 +64,7 @@ Preliminary Schedule
    <td>9:30</td>
    <td class="vertical" rowspan="18"><a href="/hackathon.html">Hackathon</a></td>
    <td class="vertical" rowspan="18"><a href="/hackathon.html">Hackathon</a></td>
-   <td class="vertical" rowspan="18"><a href="/workshops.html#isa-11-the-11th-joint-acl-iso-workshop-on-interoperable-semantic-annotation">ISA-11 meetings</a></td>
+   <td class="vertical" rowspan="18"><a href="/workshops.html#isa-11-the-11th-joint-acl-iso-workshop-on-interoperable-semantic-annotation">ISO meetings</a></td>
    <td class="vertical" rowspan="8"><a href="/workshops.html">Workshops</a></td>
    <td colspan="2">registration/intro</td>
    <td colspan="2" class="blank">&nbsp;</td>
@@ -300,7 +300,7 @@ Session & Paper Details
    <tr><td rowspan="3">Reference &amp; Incrementality</td>
    <td>34</td>
    <td><a name="s5"/>Situated Communication</td>
-   <td>Julie Hunter and Nicholas Asher</td>
+   <td>Julie Hunter, Nicholas Asher and Alex Lascarides</td>
    </tr>
    <tr>
    <td>38</td>
