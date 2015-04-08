@@ -36,7 +36,7 @@ Long Papers, with oral presentation
 |br| **Guy Emerson and Ann Copestake**
 
 *Situated Communication*
-|br| **Julie Hunter and Nicholas Asher**
+|br| **Julie Hunter, Nicholas Asher and Alex Lascarides**
 
 *A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution*
 |br| **Casey Kennington, Livia Dia and David Schlangen**
