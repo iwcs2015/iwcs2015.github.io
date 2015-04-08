@@ -81,7 +81,7 @@ a set of core Python utilities. The following functionality is required:
 
 The project will involve merging and documenting existing pieces of software,
 such as `DISSECT`_, `fowller.corpora`_ and `discoutils`_. Check out `a relevant
-discussion on including word embedding algorithms to `NLTK`__.
+discussion on including word embedding algorithms to NLTK`__.
 
 __ https://github.com/nltk/nltk/issues/798
 
