@@ -64,8 +64,11 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 STATIC_PATHS = (
-    'static/images',
     'static/',
+    'static/images',
+    'static/proceedings'
 )
+
+READERS = {'html': None}
 
 LOGO_PATH = 'images/cover.jpg'
