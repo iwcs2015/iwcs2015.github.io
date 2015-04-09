@@ -22,6 +22,7 @@ Local Organisation
 * Website & Hackathon: Dmitrijs Milajevs
 * Facilities: Sascha Griffiths
 * Proceedings: Dimitri Kartsaklis
+* Conference Pack and Posters: Esma Balkir
 
 Programme Committee
 ===================
