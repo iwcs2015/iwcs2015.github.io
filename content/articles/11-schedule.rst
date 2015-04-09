@@ -299,7 +299,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Reference &amp; Incrementality</td>
    <td>34</td>
-   <td><a name="s5"/>Situated Communication</td>
+   <td><a name="s5"/>Integrating Non-Linguistic Events into Discourse Structure</td>
    <td>Julie Hunter, Nicholas Asher and Alex Lascarides</td>
    </tr>
    <tr>
@@ -411,7 +411,7 @@ List of accepted long papers, with oral presentation:
 *Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment*
 |br| **Guy Emerson and Ann Copestake**
 
-*Situated Communication*
+*Integrating Non-Linguistic Events into Discourse Structure*
 |br| **Julie Hunter and Nicholas Asher**
 
 *A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution*
