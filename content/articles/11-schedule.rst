@@ -1,14 +1,35 @@
-====================
-Conference Programme
-====================
+=========================
+Programme and Proceedings
+=========================
 
 :date: 2015-03-11 10:16
 :category: Programme
 :slug: programme
 :news_headline: Preliminary programme available
 
-Preliminary Schedule
-====================
+:date: 2015-04-10 10:30
+:news_headline: Proceedings available online
+
+.. contents::
+
+
+Proceedings
+===========
+
+The full proceedings are available here online (and will also be available shortly via the ACL Anthology):
+
+- Main conference: `IWCS 2015 <static/proceedings/main/>`__
+- Workshops:
+
+  - `ISA-11 <http://sigsem.uvt.nl/isa11/proceedings/ISA-11_proceedings.pdf>`__
+  - `MOMA <static/proceedings/moma/>`__
+  - `Language and Ontologies <static/proceedings/langandonto>`__
+  - `IMC <http://iwcs2015.github.io/imc2015/static/proc.pdf>`__
+  - `ADS <https://sites.google.com/site/iwcs2015ads/program/accepted-posters>`__
+
+
+Conference Schedule
+===================
 
 .. raw:: html
 
