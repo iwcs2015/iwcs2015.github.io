@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <volume id="W15-02">
+   <paper id="0200">
+        <title>Proceedings of the 11th Joint ACL-ISO Workshop on Interoperable Semantic Annotation (ISA-11)</title>
+   </paper>
+
+   <paper id="0201">
+        <title>On the Principles of Semantic Annotation</title>
+        <author>Harry Bunt</author>
+   </paper>
+
+   <paper id="0202">
+        <title>Using a unified taxonomy to annotate discourse markers in speech and writing</title>
+        <author>Ludivine Crible</author>
+        <author>Sandrine Zufferey</author>
+   </paper>
+
+   <paper id="0203">
+        <title>Creating and retrieving tense and aspect annotation with GraphAnno, a lightweight tool for multi-level annotation</title>
+        <author>Volker Gast</author>
+        <author>Lennart Bierkandt</author>
+        <author>Christoph Rzymski</author>
+  </paper>
+
+   <paper id="0204">
+        <title>The Semantics of Image Annotation</title>
+        <author>Julia Bosque-Gil</author>
+        <author>James Pustejosvsky</author>
+   </paper>
+
+   <paper id="0205">
+        <title>Factors Influencing the Implicitation of Discourse Relations across Languages</title>
+        <author>Jet Hoek</author>
+        <author>Sandrine Zufferey</author>
+   </paper>
+
+   <paper id="0206">
+        <title>Instrument subjects without Instrument role</title>
+        <author>Elisabetta Jezek</author>
+        <author>Rossella Varvara</author>
+   </paper>
+
+
+   <paper id="0207">
+        <title>The Annotation of Measure Expressions in ISO Standards</title>
+        <author>Kiyong Lee</author>
+   </paper>
+
+   <paper id="0208">
+        <title>A Flexible Tool for Manual Word Sense Annotation</title>
+        <author>Steven Neale</author>
+        <author>Joao Silva</author>
+        <author>Antonio Branco</author>
+   </paper>
+
+
+   <paper id="0209">
+        <title>Annotating Attribution Relations across Languages and Genres</title>
+        <author>Silvia Pareti</author>
+   </paper>
+
+
+   <paper id="0210">
+        <title>Semantic Relations in Discourse: The Current State of ISO 24617-8</title>
+        <author>Rashmi Prasad</author>
+        <author>Harry Bunt</author>
+   </paper>
+
+
+   <paper id="0211">
+        <title>Analysis of Temporal Expressions Annotated in Clinical Notes</title>
+        <author>Hegler Tissot</author>
+        <author>Angus Roberts</author>
+        <author>Leon Derczynski</author>
+        <author>Genevieve Gorrell</author>
+        <author>Marcus Didonet Del Fabro</author>
+   </paper>
+
+
+   <paper id="0212">
+        <title>Rapid FrameNet annotation of spoken conversation transcripts</title>
+        <author>Jeremy Trione</author>
+        <author>Frederic Bechet</author>
+        <author>Benoit Favre</author>
+        <author>Alexis Nasr</author>
+   </paper>
+ </volume>
