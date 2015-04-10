@@ -882,7 +882,7 @@ pip install more_itertools
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Register on &lt;a class="reference external" href="https://github.com"&gt;github&lt;/a&gt; and &lt;a class="reference external" href="https://bitbucket.org"&gt;bitbucket&lt;/a&gt;. &lt;a class="reference external" href="https://help.github.com/articles/generating-ssh-keys/"&gt;Generate SSH keys&lt;/a&gt; and the public key to the
 services. Get a good text editor, for example &lt;a class="reference external" href="https://atom.io/"&gt;Atom&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Help others or ask for help! Network. Have fun.&lt;/p&gt;
+&lt;p&gt;Help others or ask for help! Use &lt;a class="reference internal" href="#comments"&gt;comments&lt;/a&gt;. Network. Have fun.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-distributional-semantic-toolkit-green"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id17"&gt;A distributional semantic toolkit (Green)&lt;/a&gt;&lt;/h2&gt;
@@ -912,8 +912,8 @@ tensor spaces and maps, and distributional data.&lt;/p&gt;
 &lt;p&gt;Given a lexicon and derivational rules, a theorem prover such as &lt;a class="reference external" href="http://rise4fun.com/z3"&gt;z3&lt;/a&gt; provides a
 proof for a given input sentence which is later used to obtain distributional
 representation. &lt;a class="reference external" href="http://iwcs2015.github.io/static/LGprover2.zip"&gt;LG&lt;/a&gt; is a theorem prover by Jeroen Bransen, see &lt;a class="reference external" href="http://dspace.library.uu.nl/handle/1874/179422"&gt;his MSc thesis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It's written in C++, takes a &lt;cite&gt;.txt&lt;/cite&gt; file (lexicon) as input and produces a tex/pdf
-as output.&lt;/p&gt;
+&lt;p&gt;It's written in C++, takes a &lt;tt class="docutils literal"&gt;.txt&lt;/tt&gt; file (lexicon) as input and produces a
+tex/pdf as output.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="wikidepia-dump-postprocessing-orange"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id19"&gt;Wikidepia dump postprocessing (Orange)&lt;/a&gt;&lt;/h2&gt;
@@ -997,8 +997,8 @@ relevant responses.&lt;/p&gt;
 &lt;div class="section" id="more-project-ideas"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id24"&gt;More project ideas&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt; or submit a pull request with
-your idea added to &lt;a class="reference external" href="https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst"&gt;this page&lt;/a&gt;! The list below shows some possibilities:&lt;/p&gt;
+computational semantics - please &lt;a class="reference external" href="mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon"&gt;get in touch&lt;/a&gt;, submit a pull request with
+your idea added to &lt;a class="reference external" href="https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst"&gt;this page&lt;/a&gt;, or just write it down in the &lt;a class="reference internal" href="#comments"&gt;comments&lt;/a&gt; below&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id25"&gt;Registration&lt;/a&gt;&lt;/h2&gt;
