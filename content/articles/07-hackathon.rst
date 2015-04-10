@@ -79,7 +79,7 @@ services. Get a good text editor, for example `Atom <https://atom.io/>`_.
 
 __ https://help.github.com/articles/generating-ssh-keys/
 
-Help others or ask for help! Network. Have fun.
+Help others or ask for help! Use comments_. Network. Have fun.
 
 A distributional semantic toolkit (Green)
 =========================================
@@ -120,8 +120,8 @@ Given a lexicon and derivational rules, a theorem prover such as z3_ provides a
 proof for a given input sentence which is later used to obtain distributional
 representation. LG_ is a theorem prover by Jeroen Bransen, see `his MSc thesis`__.
 
-It's written in C++, takes a `.txt` file (lexicon) as input and produces a tex/pdf
-as output.
+It's written in C++, takes a ``.txt`` file (lexicon) as input and produces a
+tex/pdf as output.
 
 .. _z3: http://rise4fun.com/z3
 .. _LG: {filename}/static/LGprover2.zip
@@ -243,8 +243,8 @@ More project ideas
 ==================
 
 Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please `get in touch`__ or submit a pull request with
-your idea added to `this page`__! The list below shows some possibilities:
+computational semantics - please `get in touch`__, submit a pull request with
+your idea added to `this page`__, or just write it down in the comments_ below
 
 __ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
 __ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
