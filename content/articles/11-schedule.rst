@@ -21,7 +21,7 @@ The full proceedings are available here online (and will also be available short
 - Main conference: `IWCS 2015 <static/proceedings/main/>`__
 - Workshops:
 
-  - `ISA-11 <http://sigsem.uvt.nl/isa11/proceedings/ISA-11_proceedings.pdf>`__
+  - `ISA-11 <static/proceedings/isa11/>`__
   - `MOMA <static/proceedings/moma/>`__
   - `Language and Ontologies <static/proceedings/langandonto>`__
   - `IMC <http://iwcs2015.github.io/imc2015/static/proc.pdf>`__
