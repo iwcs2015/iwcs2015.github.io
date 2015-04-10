@@ -118,9 +118,14 @@ tensor spaces and maps, and distributional data.
 
 Given a lexicon and derivational rules, a theorem prover such as z3_ provides a
 proof for a given input sentence which is later used to obtain distributional
-representation.
+representation. LG_ is a theorem prover by Jeroen Bransen, see `his MSc thesis`__.
+
+It's written in C++, takes a `.txt` file (lexicon) as input and produces a tex/pdf
+as output.
 
 .. _z3: http://rise4fun.com/z3
+.. _LG: {filename}/static/LGprover2.zip
+__ http://dspace.library.uu.nl/handle/1874/179422
 
 Wikidepia dump postprocessing (Orange)
 ======================================
