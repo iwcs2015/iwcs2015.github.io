@@ -35,7 +35,7 @@ Long Papers, with oral presentation
 *Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment*
 |br| **Guy Emerson and Ann Copestake**
 
-*Situated Communication*
+*Integrating Non-Linguistic Events into Discourse Structure*
 |br| **Julie Hunter, Nicholas Asher and Alex Lascarides**
 
 *A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution*

@@ -1,14 +1,39 @@
-====================
-Conference Programme
-====================
+=========================
+Programme and Proceedings
+=========================
 
 :date: 2015-03-11 10:16
 :category: Programme
 :slug: programme
 :news_headline: Preliminary programme available
 
-Preliminary Schedule
-====================
+:date: 2015-04-10 10:30
+:news_headline: Proceedings available online
+
+.. contents::
+
+
+`Proceedings`__
+===============
+
+__ static/proceedings/main/
+
+The full proceedings are available here online (and will also be available shortly via the ACL Anthology):
+
+- Main conference: `IWCS 2015 <static/proceedings/main/>`__
+- Workshops:
+
+  - `ISA-11 <static/proceedings/isa11/>`__
+  - `MOMA <static/proceedings/moma/>`__
+  - `Language and Ontologies <static/proceedings/langandonto>`__
+  - `IMC <http://iwcs2015.github.io/imc2015/static/proc.pdf>`__
+  - `ADS <https://sites.google.com/site/iwcs2015ads/program/accepted-posters>`__
+
+Schedule details are also available in the `conference handbook <static/handbook.pdf>`__.
+
+
+Conference Schedule
+===================
 
 .. raw:: html
 
@@ -299,7 +324,7 @@ Session & Paper Details
    </tr>
    <tr><td rowspan="3">Reference &amp; Incrementality</td>
    <td>34</td>
-   <td><a name="s5"/>Situated Communication</td>
+   <td><a name="s5"/>Integrating Non-Linguistic Events into Discourse Structure</td>
    <td>Julie Hunter, Nicholas Asher and Alex Lascarides</td>
    </tr>
    <tr>
@@ -411,7 +436,7 @@ List of accepted long papers, with oral presentation:
 *Leveraging a Semantically Annotated Corpus to Disambiguate Prepositional Phrase Attachment*
 |br| **Guy Emerson and Ann Copestake**
 
-*Situated Communication*
+*Integrating Non-Linguistic Events into Discourse Structure*
 |br| **Julie Hunter and Nicholas Asher**
 
 *A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution*
