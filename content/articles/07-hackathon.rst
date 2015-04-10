@@ -79,7 +79,10 @@ services. Get a good text editor, for example `Atom <https://atom.io/>`_.
 
 __ https://help.github.com/articles/generating-ssh-keys/
 
-Help others or ask for help! Use comments_. Network. Have fun.
+Help others or ask for help! Use comments_ or a `dedicated channel`__ for
+communication. Network. Have fun.
+
+__ https://tlk.io/iwcs15-hack
 
 A distributional semantic toolkit (Green)
 =========================================
