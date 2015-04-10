@@ -228,6 +228,17 @@ limited statistics about the collected tweets::
   2.0G  uk
   1.9M  ukg-fest
 
+Dialog system (Light Blue)
+==========================
+
+Matthew Stone provided a series of IPython Notebooks (`github repo`__, `rendered
+notebooks`__) that implement and extend the original Eliza program, and build a
+dialog move classifier using NLTK and use information retrieval to put together
+relevant responses.
+
+__ https://github.com/iwcs15-hack/dialog_system
+__ http://nbviewer.ipython.org/github/iwcs15-hack/dialog_system/tree/master/
+
 More project ideas
 ==================
 
