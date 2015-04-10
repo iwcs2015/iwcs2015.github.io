@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/programme.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-04-10T10:30:00+01:00</updated><entry><title>Programme and Proceedings</title><link href="http://iwcs2015.github.io/programme.html" rel="alternate"></link><updated>2015-04-10T10:30:00+01:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-04-10:programme.html</id><summary type="html">
 &lt;div class="section" id="proceedings"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Proceedings&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="reference external" href="static/proceedings/main/"&gt;Proceedings&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The full proceedings are available here online (and will also be available shortly via the ACL Anthology):&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Main conference: &lt;a class="reference external" href="static/proceedings/main/"&gt;IWCS 2015&lt;/a&gt;&lt;/li&gt;
@@ -17,7 +17,7 @@
 &lt;p&gt;Schedule details are also available in the &lt;a class="reference external" href="static/handbook.pdf"&gt;conference handbook&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="conference-schedule"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Conference Schedule&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Conference Schedule&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="schedule" width="120%"&gt;
 &lt;!-- &lt;caption&gt;Preliminary Schedule&lt;/caption&gt; --&gt;
 &lt;colgroup&gt;
@@ -232,7 +232,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="session-paper-details"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Session &amp;amp; Paper Details&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Session &amp;amp; Paper Details&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="schedule" width="120%"&gt;
 &lt;colgroup&gt;
 &lt;col width="15%"&gt;&lt;/col&gt;
@@ -384,7 +384,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="accepted-long-papers"&gt;
-&lt;span id="long"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Accepted Long Papers&lt;/a&gt;&lt;/h2&gt;
+&lt;span id="long"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Accepted Long Papers&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;List of accepted long papers, with oral presentation:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Pragmatic Rejection&lt;/em&gt;
 &lt;br/&gt; &lt;strong&gt;Julian J. Schlöder and Raquel Fernandez&lt;/strong&gt;&lt;/p&gt;
@@ -434,7 +434,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="accepted-short-papers"&gt;
-&lt;span id="short"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Accepted Short Papers&lt;/a&gt;&lt;/h2&gt;
+&lt;span id="short"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id6"&gt;Accepted Short Papers&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;List of accepted short papers, with poster and "lightning talk" presentation. A0
 posters should be in the portrait format, A1 and smaller in either portrait or
 landscape.&lt;/p&gt;
