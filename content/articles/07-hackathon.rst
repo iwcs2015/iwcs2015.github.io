@@ -62,7 +62,7 @@ with common packages:
 .. code-block:: bash
 
   # Create an environment
-  ~/miniconda3/bin/conda create -n iwcs15-hack python=3.4 nltk pandas scikit-learn
+  ~/miniconda3/bin/conda create -n iwcs15-hack python=3.4 nltk pandas scikit-learn ipython-notebook
 
   # Activate it
   source ~/miniconda3/bin/activate iwcs15-hack
