@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <volume id="W15-03">
+   <paper id="W15-03">
+        <title>Proceedings of the Workshop on Models for Modality Annotation</title>
+   </paper>
+
+   <paper id="W15-0301">
+        <title>Towards a Unified Approach to Modality Annotation in
+      Portuguese</title>
+        <author>Luciana Beatrix &Aacute;vila</author>
+        <author>Am&aacute;lia Mendes</author>
+        <author>Iris Hendrickx</author>
+   </paper>
+
+   <paper id="W15-0302">
+        <title> A hedging annotation scheme focused on epistemic phrases
+      for informal language</title>
+        <author>Liliana Mamani Sanchez</author>
+        <author>Carl Vogel</author>
+   </paper>
+
+   <paper id="W15-0303">
+        <title>Annotating modals with GraphAnno, a configurable
+      lightweight tool for multi-level annotation</title>
+        <author>Volker Gast</author>
+        <author>Lennart Bierkandt</author>
+	<author>Christoph Rzymski</author>
+   </paper>
+ </volume>
