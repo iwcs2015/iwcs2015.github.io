@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <volume id="W15">
+   <paper id="0401">
+        <title>Extending OWL Ontologies by Cartesian Types to Represent N-ary Relations in Natural Language</title>
+        <author>Hans-Ulrich Krieger</author>
+        <author>Christian Willms</author>
+   </paper>
+
+   <paper id="0402">
+        <title>Ontology Authoring Inspired By Dialogue</title>
+        <author>Artemis Parvizi</author>
+        <author>Yuan Ren</author>
+        <author>Markel Vigo</author>
+        <author>Kees van Deemter</author>
+        <author>Chris Mellish</author>
+        <author>Jeff Z. Pan</author>
+        <author>Robert Stevens</author>
+        <author>Caroline Jay</author>
+   </paper>
+   
+   <paper id="0403">
+        <title>Parsing Software Requirements with an Ontology-based Semantic Role Labeler</title>
+        <author>Michael Roth</author>
+        <author>Ewan Klein</author>
+   </paper>
+   
+   <paper id="0404">
+        <title>Using Ontologies to Model Polysemy in Lexical Resources</title>
+        <author>Fahad Khan</author>
+        <author>Francesca Frontini</author>
+   </paper>
+   
+   <paper id="0405">
+        <title>Modelling time and space in Brazilian culture</title>
+        <author>Daniel Couto-Vale</author>
+        <author>Rodrigo de Oliveira</author>
+   </paper>
+   
+   <paper id="0406">
+        <title>rimming a consistent OWL knowledge base, relying on linguistic evidence</title>
+        <author>Julien Corman</author>
+        <author>Nathalie Aussenac-Gilles</author>
+        <author>Laure Vieu</author>
+   </paper>
+   
+   <paper id="0407">
+        <title>When is Lying the Right Choice?</title>
+        <author>Federico Cerutti</author>
+        <author>Artemis Parvizi</author>
+        <author>Alice Toniolo</author>
+        <author>Dave Braines</author>
+        <author>Geeth R. de Mel</author>
+        <author>Timothy J. Norman</author>
+        <author>Nir Oren</author>
+        <author>Jeff Z. Pan</author>
+        <author>Gavin Pearson</author>
+        <author>Stephen D. Pipes</author>
+        <author>Paul Sullivan</author>
+   </paper>
+   
+ </volume>
