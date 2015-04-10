@@ -13,8 +13,10 @@ Programme and Proceedings
 .. contents::
 
 
-Proceedings
-===========
+`Proceedings`__
+===============
+
+__ static/proceedings/main/
 
 The full proceedings are available here online (and will also be available shortly via the ACL Anthology):
 
