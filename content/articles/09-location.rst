@@ -6,6 +6,10 @@ Location / Venue
 :category: Location
 :slug: location
 
+:date: 2015-04-10 10:01
+:news_headline: Conference handbook online
+
+
 IWCS 2015 is being hosted at `Queen Mary University of London`__, on the `Mile End
 Campus`__. The campus is close to Mile End station, just two stops on the
 Underground from Liverpool Street.
@@ -14,6 +18,11 @@ __ http://qmul.ac.uk/
 __ http://www.qmul.ac.uk/about/howtofindus/mileend/
 
 .. contents::
+
+Conference Handbook
+===================
+
+Please download the `conference handbook <static/handbook.pdf>`__ containing all the information here, and more.
 
 Conference Venue
 ================

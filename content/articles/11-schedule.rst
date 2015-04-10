@@ -27,6 +27,8 @@ The full proceedings are available here online (and will also be available short
   - `IMC <http://iwcs2015.github.io/imc2015/static/proc.pdf>`__
   - `ADS <https://sites.google.com/site/iwcs2015ads/program/accepted-posters>`__
 
+Schedule details are also available in the `conference handbook <static/handbook.pdf>`.
+
 
 Conference Schedule
 ===================
