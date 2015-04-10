@@ -38,35 +38,51 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 .. contents::
     :depth: 2
 
-Registration
-============
+Saturday morning
+================
 
-.. html::
-  <div style="width:100%; text-align:left;" >
-    <iframe  src="//eventbrite.co.uk/tickets-external?eid=16162713110&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-  </div>
-
-Organization
-============
+We are glad to welcome you to the hackathon! Saturday morning, the time before
+the coffee break, is dedicated to introduction. It's also a great opportunity
+for you to set up wifi, talk to people and decide on a project.
 
 We will use a `Trello board <https://trello.com/b/AQIKkm6V/iwcs-
-hackathon-2015>`_ to keep track of the progress. Each project is assigned a
-color, so you can see to which project a card belongs. If you are interested in
-a task, please add yourself to a corresponding card. Feel free to add your own
-projects in the Comments_.
+hackathon-2015>`_ to keep track of the progress. You should have received an
+invitation email to the board, if not ask someone who is added to it to add you.
+Each project is assigned a color, so you can see to which project a card
+belongs. **If you are interested in a task, please add yourself to a
+corresponding card**. Feel free to add your own projects in the Comments_.
 
-Project ideas
-=============
+From the software point of view, it's nice to have **Python installed** on your
+laptop. We suggest to `install Miniconda`_ (there is a USB drive with the
+installation scripts, just in case) and create a dedicated virtual environment
+with common packages:
 
-Participants and sponsors are welcome to propose any and all ideas relating to
-computational semantics - please `get in touch`__ or submit a pull request with
-your idea added to `this page`__! The list below shows some possibilities:
+.. _`install Miniconda`: http://eecs.io/python-environment-for-scientific-computing.html
 
-__ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
-__ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
+.. code-block:: bash
+
+  # Create an environment
+  ~/miniconda3/bin/conda create -n iwcs15-hack python=3.4 nltk pandas scikit-learn
+
+  # Activate it
+  source ~/miniconda3/bin/activate iwcs15-hack
+
+  # Install a package using conda (preferred)
+  conda install flask
+
+  # Install a package using pip if conda can't find it
+  pip install more_itertools
+
+Register on `github <https://github.com>`_ and `bitbucket
+<https://bitbucket.org>`_. `Generate SSH keys`__ and the public key to the
+services. Get a good text editor, for example `Atom <https://atom.io/>`_.
+
+__ https://help.github.com/articles/generating-ssh-keys/
+
+Help others or ask for help! Network. Have fun.
 
 A distributional semantic toolkit (Green)
------------------------------------------
+=========================================
 
 This project aims to provide researchers working in distributional semantics with
 a set of core Python utilities. The following functionality is required:
@@ -90,7 +106,7 @@ __ https://github.com/nltk/nltk/issues/798
 .. _discoutils: https://github.com/MLCL/DiscoUtils
 
 Compositionality for distributional semantic toolkits (Yellow)
---------------------------------------------------------------
+==============================================================
 
 It has been shown that some type-logical grammars can be interpreted in vector
 space semantics, so the challenge here would be to build a tool that connects
@@ -107,7 +123,7 @@ representation.
 .. _z3: http://rise4fun.com/z3
 
 Wikidepia dump postprocessing (Orange)
---------------------------------------
+======================================
 
 Wikipedia provides `dumps`__ of all its content. However, to be used by NLP
 tools (for example parsers) a dump has to be cleaned up from the wiki markup.
@@ -155,7 +171,7 @@ It might be worth submitting the results to `10th Web as Corpus Workshop
 .. _`10th Web as Corpus Workshop (WaC-10)`: https://www.sigwac.org.uk/wiki/WAC10
 
 NLTK corpus readers (Red)
--------------------------
+=========================
 
 `NLTK <http://www.nltk.org/>`_ is a natural language toolkit that provides basic
 tools to deal with textual information. `Corpus readers`__ are interfaces to
@@ -178,7 +194,7 @@ __ http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader
   __ http://amr.isi.edu/index.html
 
 Tweet paraphrase generator (Violet)
------------------------------------
+===================================
 
 Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
@@ -189,7 +205,7 @@ A twitter bot should monitor Twitter for tweets that contain `#iwcs
 tweets directed to the bot should be replied with a paraphrase.
 
 Twitter stream analysis (Blue)
-------------------------------
+==============================
 
 We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
 London, and London Marathon. In addition we are gathering geo located tweets
@@ -207,6 +223,23 @@ limited statistics about the collected tweets::
   2.0G  uk
   1.9M  ukg-fest
 
+More project ideas
+==================
+
+Participants and sponsors are welcome to propose any and all ideas relating to
+computational semantics - please `get in touch`__ or submit a pull request with
+your idea added to `this page`__! The list below shows some possibilities:
+
+__ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
+__ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
+
+Registration
+============
+
+.. html::
+  <div style="width:100%; text-align:left;" >
+    <iframe  src="//eventbrite.co.uk/tickets-external?eid=16162713110&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+  </div>
 
 Contact information
 ===================
