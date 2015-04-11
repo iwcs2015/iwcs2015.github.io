@@ -81,8 +81,8 @@ representation.&lt;/p&gt;
 in C++, takes a &lt;tt class="docutils literal"&gt;.txt&lt;/tt&gt; file (lexicon) as input and produces a tex/pdf as
 output.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="wikidepia-dump-postprocessing-orange"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id20"&gt;Wikidepia dump postprocessing (Orange)&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="section" id="wikipedia-dump-postprocessing-orange"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id20"&gt;Wikipedia dump postprocessing (Orange)&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Wikipedia provides &lt;a class="reference external" href="https://dumps.wikimedia.org/enwiki/"&gt;dumps&lt;/a&gt; of all its content. However, to be used by NLP
 tools (for example parsers) a dump has to be cleaned up from the wiki markup.
 The postrocessing steps are rarely described in details in scientific
@@ -133,7 +133,7 @@ readable semantic representations.&lt;/li&gt;
 &lt;p&gt;Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
 similar words.&lt;/p&gt;
-&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs&lt;/a&gt; and generate a paraphrase tweet. Also,
+&lt;p&gt;A twitter bot should monitor Twitter for tweets that contain &lt;a class="reference external" href="https://twitter.com/search?q=%23iwcs"&gt;#iwcs or #iwcs2015&lt;/a&gt; and generate a paraphrase tweet. Also,
 tweets directed to the bot should be replied with a paraphrase.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="twitter-stream-analysis-blue"&gt;
