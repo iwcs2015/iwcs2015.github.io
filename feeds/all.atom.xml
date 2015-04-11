@@ -1006,7 +1006,9 @@ relevant responses.&lt;/p&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id27"&gt;Other resources&lt;/a&gt;&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.eecs.qmul.ac.uk/~dm303/cvsc14.html#experiment-data"&gt;Distributional vectors&lt;/a&gt; for 23586 words extracted from Google Books Ngrams.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing"&gt;GoogleNews-vectors-negative300.bin.gz&lt;/a&gt; &lt;tt class="docutils literal"&gt;word2vec&lt;/tt&gt; vectors.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing"&gt;GoogleNews-vectors-negative300.bin.gz&lt;/a&gt; &lt;tt class="docutils literal"&gt;word2vec&lt;/tt&gt; vectors use
+&lt;a class="reference external" href="http://radimrehurek.com/gensim/models/word2vec.html"&gt;gensim.models.word2vec&lt;/a&gt; to access the word vectors and perform similarity
+queries.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.cl.cam.ac.uk/~fh295/simlex.html"&gt;SimLex999&lt;/a&gt; is a gold standard resource for the evaluation of models that learn
 the meaning of words and concepts.&lt;/li&gt;
 &lt;/ul&gt;
