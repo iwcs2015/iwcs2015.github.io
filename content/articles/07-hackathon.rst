@@ -245,9 +245,11 @@ limited statistics about the collected tweets::
   2.0G  uk
   1.9M  ukg-fest
 
-Poultry_ is a tweet collection manager that might be handy.
+Poultry_ is a tweet collection manager that might be handy that provides a
+`simple access to a tweet collection`__.
 
 .. _Poultry: http://poultry.readthedocs.org/en/latest/
+__ http://poultry.readthedocs.org/en/latest/#integration-with-other-tools
 
 Dialog system (Light Blue)
 ==========================
