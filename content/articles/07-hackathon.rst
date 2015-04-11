@@ -262,6 +262,22 @@ relevant responses.
 __ https://github.com/iwcs15-hack/dialog_system
 __ http://nbviewer.ipython.org/github/iwcs15-hack/dialog_system/tree/master/
 
+Other resources
+===============
+
+* `Distributional vectors`__ for 23586 words extracted from Google Books Ngrams.
+
+  __ http://www.eecs.qmul.ac.uk/~dm303/cvsc14.html#experiment-data
+
+* `GoogleNews-vectors-negative300.bin.gz`_ ``word2vec`` vectors.
+
+* SimLex999_ is a gold standard resource for the evaluation of models that learn
+  the meaning of words and concepts.
+
+.. _SimLex999: http://www.cl.cam.ac.uk/~fh295/simlex.html
+
+.. _`GoogleNews-vectors-negative300.bin.gz`: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
 More project ideas
 ==================
 
