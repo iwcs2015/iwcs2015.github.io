@@ -138,7 +138,7 @@ output.
 .. _LG: {filename}/static/LGprover2.zip
 __ http://dspace.library.uu.nl/handle/1874/179422
 
-Wikidepia dump postprocessing (Orange)
+Wikipedia dump postprocessing (Orange)
 ======================================
 
 Wikipedia provides `dumps`__ of all its content. However, to be used by NLP
@@ -222,15 +222,15 @@ Given a tweet, the system has to come up with a paraphrase. For example, by
 substituting all the content words (nouns, verbs, adjectives and adverbs) with
 similar words.
 
-A twitter bot should monitor Twitter for tweets that contain `#iwcs
-<https://twitter.com/search?q=%23iwcs>`_ and generate a paraphrase tweet. Also,
+A twitter bot should monitor Twitter for tweets that contain `#iwcs or #iwcs2015
+<https://twitter.com/search?q=%23iwcs%20OR%20%23iwcs2015>`_ and generate a paraphrase tweet. Also,
 tweets directed to the bot should be replied with a paraphrase.
 
 Twitter stream analysis (Blue)
 ==============================
 
-We are collection tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
-London, and London Marathon. In addition we are gathering geo located tweets
+We are collecting tweets about Easter, Cricket World Cup, IWCS, UKG Fest,
+London, and the London Marathon. In addition we are gathering geo located tweets
 from the UK. The task is to give insights of what these streams are about. Some
 limited statistics about the collected tweets::
 
