@@ -75,7 +75,14 @@ with common packages:
 
 Register on `github <https://github.com>`_ and `bitbucket
 <https://bitbucket.org>`_. `Generate SSH keys`__ and the public key to the
-services. Get a good text editor, for example `Atom <https://atom.io/>`_.
+services. Use the `iwcs15-hack organization`_ to store and share code. Share you
+github account name in the comments_, so we could add you to the organization.
+
+.. _`iwcs15-hack organization`: https://github.com/iwcs15-hack
+
+
+Get a good text editor, for example `Atom <https://atom.io/>`_ or `SublimeText
+<http://www.sublimetext.com/>`_.
 
 __ https://help.github.com/articles/generating-ssh-keys/
 
@@ -121,10 +128,11 @@ tensor spaces and maps, and distributional data.
 
 Given a lexicon and derivational rules, a theorem prover such as z3_ provides a
 proof for a given input sentence which is later used to obtain distributional
-representation. LG_ is a theorem prover by Jeroen Bransen, see `his MSc thesis`__.
+representation.
 
-It's written in C++, takes a ``.txt`` file (lexicon) as input and produces a
-tex/pdf as output.
+LG_ is a theorem prover by Jeroen Bransen, see `his MSc thesis`__. It's written
+in C++, takes a ``.txt`` file (lexicon) as input and produces a tex/pdf as
+output.
 
 .. _z3: http://rise4fun.com/z3
 .. _LG: {filename}/static/LGprover2.zip
