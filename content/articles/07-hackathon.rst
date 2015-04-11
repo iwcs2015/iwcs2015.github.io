@@ -258,14 +258,6 @@ your idea added to `this page`__, or just write it down in the comments_ below
 __ mailto:d.milajevs@qmul.ac.uk?subject=IWCS-Hackathon
 __ https://github.com/iwcs2015/iwcs2015.github.io/blob/pelican/content/articles/07-hackathon.rst
 
-Registration
-============
-
-.. html::
-  <div style="width:100%; text-align:left;" >
-    <iframe  src="//eventbrite.co.uk/tickets-external?eid=16162713110&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-  </div>
-
 Contact information
 ===================
 
