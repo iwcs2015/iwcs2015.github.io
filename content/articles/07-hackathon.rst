@@ -178,6 +178,12 @@ It might be worth submitting the results to `10th Web as Corpus Workshop
 
 .. _`10th Web as Corpus Workshop (WaC-10)`: https://www.sigwac.org.uk/wiki/WAC10
 
+There is work in progress on making HTML dumps available, see T93396_ and
+T17017_.
+
+.. _T93396: https://phabricator.wikimedia.org/T93396
+.. _T17017: https://phabricator.wikimedia.org/T17017
+
 NLTK corpus readers (Red)
 =========================
 
