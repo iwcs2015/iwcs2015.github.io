@@ -38,8 +38,16 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 .. contents::
     :depth: 2
 
-Saturday morning
-================
+Sunday
+======
+
+It's the final day of the hackathon. Coding should stop at about 15:30. Then the
+teams will present their projects and we vote to for the best
+project/team/presentation.
+
+
+Saturday
+========
 
 We are glad to welcome you to the hackathon! Saturday morning, the time before
 the coffee break, is dedicated to introduction. It's also a great opportunity
