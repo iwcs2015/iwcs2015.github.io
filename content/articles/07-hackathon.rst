@@ -41,7 +41,7 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 Sunday
 ======
 
-It's the final day of the hackathon. Coding should stop at about 15:30. Then the
+It's the final day of the hackathon. Coding should stop at about 16:00. Then the
 teams will present their projects and we vote to for the best
 project/team/presentation.
 
