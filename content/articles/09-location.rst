@@ -91,12 +91,13 @@ Aldgate East or Whitechapel station), but they can be hit-and-miss; we recommend
 Conference Dinner
 =================
 
-The conference dinner includes a `Thames boat
-trip <http://www.thamescruises.com>`_ and is included as part of the registration
-fee. The boat is called Thames Princess. We embark on Lambeth Pier. To get
-there, take a District line train to Westmister, walk over Westminster Bridge
-and turn right along the river (away from the London Eye). It’s a 5-10 minute
-walk before you reach Lambeth Pier, which is just by Lambeth Bridge.
+The conference dinner includes a `Thames boat trip
+<http://www.thamescruises.com>`_ and is included as part of the registration
+fee. The boat is called Thames Princess. We embark at Lambeth Pier at **7pm
+sharp**, returning at 11pm. To get there, take a District line train to
+Westmister, walk over Westminster Bridge and turn right along the river (away
+from the London Eye). It’s a 5-10 minute walk before you reach Lambeth Pier,
+which is just by Lambeth Bridge.
 
 .. The trip lasts 4 hours: we leave from Embankment Pier in
     central London at 19:00 on Friday evening, and will go east to Greenwich and the
