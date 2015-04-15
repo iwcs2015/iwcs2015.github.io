@@ -24,17 +24,18 @@ organizers do is facilitate the process.
 
 The Open Space event will be structured as follows:
 
-* On Thursday at 15:00, we'll meet in the coffee/poster room. After a brief
-  introduction to the Open Space format, anyone can get up and propose a topic
-  for a session that they would like to happen that afternoon. This topic can be
-  anything you like; it could be as specific as your favorite theory of scope
-  ambiguity, as general as how to reconcile logic-based and distributional
-  semantics, or even something that usually has no place at conferences
-  (computational semantics education? ideas for shared tasks?). The only
-  requirement is that you would enjoy talking about this topic.
+* On Thursday at 15:00, we'll meet in the David Sizer Lecture Theatre (ground
+  floor, behind the registration desk). After a brief introduction to the Open
+  Space format, anyone can get up and propose a topic for a session that they
+  would like to happen that afternoon. This topic can be anything you like; it
+  could be as specific as your favorite theory of scope ambiguity, as general as
+  how to reconcile logic-based and distributional semantics, or even something
+  that usually has no place at conferences (computational semantics education?
+  ideas for shared tasks?). The only requirement is that you would enjoy talking
+  about this topic.
 
-* Sessions will be organized into time slots that start at 15:30 and
-  16:30. During that time slot, everyone who is interested in a topic is welcome
+* Sessions will be organized into time slots that start at 15:45, 16:30 and
+  17:15. During each time slot, everyone who is interested in a topic is welcome
   to join the session. The crucial rule we will follow is the "Law of Two Feet":
   If you find that you are not learning anything and not contributing anything,
   you are encouraged to get up and leave the room. In this particular context,
@@ -52,8 +53,7 @@ The Open Space event will be structured as follows:
   that you join, or just while you're hanging out having coffee -- that's all
   good.
 
-* We will rejoin for a final session at 17:30 to give everyone a chance to talk
-  about things they learned that day. When we're done with that, we'll need to
+* The final sessions will need to finish promptly at 18:00 -- we'll need to
   set off for central London to catch the boat for dinner.
 
 * We will set up a public Wiki for use during the conference. You are welcome
