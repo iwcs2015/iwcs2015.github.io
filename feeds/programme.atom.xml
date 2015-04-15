@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>IWCS 2015</title><link href="http://iwcs2015.github.io/" rel="alternate"></link><link href="http://iwcs2015.github.io/feeds/programme.atom.xml" rel="self"></link><id>http://iwcs2015.github.io/</id><updated>2015-04-10T10:30:00+01:00</updated><entry><title>Programme and Proceedings</title><link href="http://iwcs2015.github.io/programme.html" rel="alternate"></link><updated>2015-04-10T10:30:00+01:00</updated><author><name>The chairs of IWCS 2015</name></author><id>tag:iwcs2015.github.io,2015-04-10:programme.html</id><summary type="html">
 &lt;div class="section" id="proceedings"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="static/proceedings/main/"&gt;Proceedings&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The full proceedings are available here online (and also via the &lt;a class="reference external" href="http://anthology.aclweb.org/sigsem.html"&gt;ACL Anthology&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;The full proceedings are available here online (and will also be available shortly via the ACL Anthology):&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Main conference: &lt;a class="reference external" href="static/proceedings/main/"&gt;IWCS 2015&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Workshops:&lt;ul&gt;
