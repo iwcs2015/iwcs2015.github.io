@@ -18,7 +18,7 @@ Programme and Proceedings
 
 __ static/proceedings/main/
 
-The full proceedings are available here online (and also via the ``ACL Anthology <http://anthology.aclweb.org/sigsem.html>`__):
+The full proceedings are available here online (and also via the `ACL Anthology <http://anthology.aclweb.org/sigsem.html>`__):
 
 - Main conference: `IWCS 2015 <static/proceedings/main/>`__
 - Workshops:
