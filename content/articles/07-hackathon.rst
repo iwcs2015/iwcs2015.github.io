@@ -38,16 +38,64 @@ __ http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J002607/1
 .. contents::
     :depth: 2
 
+Presented projects
+==================
+
+`Semantic-sounds`_
+------------------
+
+.. _Semantic-sounds: http://iwcs15-hack.github.io/semantic-sounds/
+
+`Investigated`__ the extent to which semantically similar words sound similar.
+
+__ http://iwcs15-hack.github.io/semantic-sounds/
+
+.. image:: https://raw.githubusercontent.com/iwcs15-hack/semantic-sounds/master/data/word-sem-smooth-gnews.png
+
+`Poett`_
+--------
+
+.. _Poet: https://github.com/iwcs15-hack/poett
+
+`Generated`__ poems and haikus from tweets.
+
+__ http://iwcs15-hack.github.io/semantic-sounds/
+
+.. code-block:: python
+
+  >>> print(analogyFromTweet('what is the meaning of a good life?'))
+  The life numbers like a percipient
+  The recipients presss like a recipient
+
+  >>> print(analogyFromTweet('what is the meaning of a good life?'))
+  The life numbers like a percipient
+  The recipients presss like a recipient
+
+  >>> print(analogyFromTweet('the sparrow is chirping on the tall wall'))
+  The wall gapes like a relic
+  The walls depends like a angelic
+
+Compositionality
+----------------
+
+`Added "compact closed" theory`__ to Quantomatic_.
+
+.. _Quantomatic: https://github.com/iwcs15-hack/quantomatic/commit/ec408cda207e37b4dd128d3a3e3bbf7f339b7f51
+
+__ https://github.com/iwcs15-hack/quantomatic/commit/ec408cda207e37b4dd128d3a3e3bbf7f339b7f51
+
+Announcements
+=============
+
 Sunday
-======
+------
 
 It's the final day of the hackathon. Coding should stop at about 16:00. Then the
 teams will present their projects and we vote to for the best
 project/team/presentation.
 
-
 Saturday
-========
+--------
 
 We are glad to welcome you to the hackathon! Saturday morning, the time before
 the coffee break, is dedicated to introduction. It's also a great opportunity
