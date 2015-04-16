@@ -93,11 +93,11 @@ Conference Dinner
 
 The conference dinner includes a `Thames boat trip
 <http://www.thamescruises.com>`_ and is included as part of the registration
-fee. The boat is called Thames Princess. We embark at Lambeth Pier at **7pm
-sharp**, returning at 11pm. To get there, take a District line train to
-Westmister, walk over Westminster Bridge and turn right along the river (away
-from the London Eye). It’s a 5-10 minute walk before you reach Lambeth Pier,
-which is just by Lambeth Bridge.
+fee. The boat is called *Thames Princess*. We embark at Lambeth Pier at **7pm
+sharp**, returning at 11pm. To get there, take a District line train from Mile
+End to Westminster station, walk over Westminster Bridge and turn right along
+the river (away from the London Eye). It’s a 5-10 minute walk before you reach
+Lambeth Pier, which is just by Lambeth Bridge.
 
 .. The trip lasts 4 hours: we leave from Embankment Pier in
     central London at 19:00 on Friday evening, and will go east to Greenwich and the
@@ -110,6 +110,10 @@ which is just by Lambeth Bridge.
 ..    The easiest way to get to Embankment from the conference venue is via
     Underground: just take the District Line westbound from Stepney Green station to
     Embankment station (9 stops, which should take about 20 minutes).
+
+.. html::
+
+    <iframe width='100%' height='300px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mpurver.lo5hhba9/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoibXB1cnZlciIsImEiOiIxeUJyWWhZIn0.PucmF3cyiZ-Wsu7InQpcGQ'></iframe>
 
 Walking Tour
 ============
