@@ -24,7 +24,7 @@ organizers do is facilitate the process.
 
 The Open Space event will be structured as follows:
 
-* On Thursday at 15:00, we'll meet in the David Sizer Lecture Theatre (ground
+* On Thursday at 15:30, we'll meet in the David Sizer Lecture Theatre (ground
   floor, behind the registration desk). After a brief introduction to the Open
   Space format, anyone can get up and propose a topic for a session that they
   would like to happen that afternoon. This topic can be anything you like; it
@@ -34,8 +34,11 @@ The Open Space event will be structured as follows:
   ideas for shared tasks?). The only requirement is that you would enjoy talking
   about this topic.
 
-* Sessions will be organized into time slots that start at 15:45, 16:30 and
-  17:15. During each time slot, everyone who is interested in a topic is welcome
+* People will then show their preference for particular topics by 
+
+* Sessions will be organized into time slots; depending on the number and
+  interdependency of topics, probably 3 slots starting at 16:00, 16:40 and
+  17:20. During each time slot, everyone who is interested in a topic is welcome
   to join the session. The crucial rule we will follow is the "Law of Two Feet":
   If you find that you are not learning anything and not contributing anything,
   you are encouraged to get up and leave the room. In this particular context,
@@ -56,11 +59,14 @@ The Open Space event will be structured as follows:
 * The final sessions will need to finish promptly at 18:00 -- we'll need to
   set off for central London to catch the boat for dinner.
 
-* We will set up a public Wiki for use during the conference. You are welcome
-  and encouraged to take a few minutes at the end of your session to summarize
-  it in a Wiki article. If you feel uncomfortable sharing your discussion, you
-  are of course not required to do this. After the conference, we will take the
-  Wiki offline and distribute a reader with all articles to all participants.
+* We have set up `a Wiki for use during the conference
+  <https://github.com/iwcs2015/iwcs2015.github.io/wiki>`__ - you need a Github
+  account to edit it, so just sign up for one if you don't already have one. You
+  are welcome and encouraged to take a few minutes at the end of your session to
+  summarize it in a Wiki article. If you feel uncomfortable sharing your
+  discussion, you are of course not required to do this. After the conference,
+  we will take the Wiki offline and distribute a reader with all articles to all
+  participants.
 
 You can find more information on Open Space in general in its `Wikipedia page
 <http://en.wikipedia.org/wiki/Open_Space_Technology>`_ and in the `Open Space
