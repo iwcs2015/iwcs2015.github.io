@@ -47,8 +47,10 @@ Presented projects
 .. _Semantic-sounds: http://iwcs15-hack.github.io/semantic-sounds/
 
 `Investigated`__ the extent to which semantically similar words sound similar.
+Check their `article`__ for more details.
 
 __ http://iwcs15-hack.github.io/semantic-sounds/
+__ http://shape-of-code.coding-guidelines.com/2015/04/17/semantic-vs-phonetic-similarity-for-word-pairs-a-weekend-investigation/
 
 .. image:: https://raw.githubusercontent.com/iwcs15-hack/semantic-sounds/master/data/word-sem-smooth-gnews.png
 
