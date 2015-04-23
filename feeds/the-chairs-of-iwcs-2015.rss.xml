@@ -722,7 +722,7 @@ the accuracy of natural language understanding.&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html"&gt;Yoshua Bengio&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;Université de Montréal&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deep Learning of Semantic Representations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Learning of Semantic Representations&lt;/strong&gt; [&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;The core ingredient of deep learning is the notion of distributed
 representation. This talk will start by explaining its theoretical advantages,
 in comparison with non-parametric methods based on counting frequencies of
