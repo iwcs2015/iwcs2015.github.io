@@ -42,7 +42,7 @@ the accuracy of natural language understanding.
 `Université de Montréal`
 
 
-**Deep Learning of Semantic Representations**
+**Deep Learning of Semantic Representations** [`Recording online here <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408>`__]
 
 The core ingredient of deep learning is the notion of distributed
 representation. This talk will start by explaining its theoretical advantages,
