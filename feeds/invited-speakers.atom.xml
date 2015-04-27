@@ -3,7 +3,7 @@
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://people.csail.mit.edu/regina/"&gt;Regina Barzilay&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;Massachusetts Institute of Technology&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Semantics of Language Grounding&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Semantics of Language Grounding&lt;/strong&gt; [&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;In this talk, I will address the problem of natural language grounding. We
 assume access to natural language documents that specify the desired behavior of
 a control application. Our goal is to generate a program that will perform the
