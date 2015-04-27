@@ -15,7 +15,7 @@ Invited Speakers
 
 `Massachusetts Institute of Technology`
 
-**Semantics of Language Grounding**
+**Semantics of Language Grounding** [`Recording online here <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa>`__]
 
 In this talk, I will address the problem of natural language grounding. We
 assume access to natural language documents that specify the desired behavior of
