@@ -112,7 +112,7 @@ Conference Schedule
    </tr>
    <tr><td>11</td>
    <td>11:30</td>
-   <td rowspan="3" colspan="2"><a href="#s1">Lexical Semantics</a><br/>(papers 22, 26, 27)</td>
+   <td rowspan="3" colspan="2"><a href="#s1">Lexical Semantics</a><br/>(papers 22, 26, 27)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/0f607ef9-19d6-4536-8e41-1cae7c7d3619">(video)</a></td>
    <!-- <td>27</td> -->
    <td rowspan="3" colspan="2"><a href="#s4">Distributional Methods</a><br/>(papers 56, 59, 61)</td>
    <!-- <td>61</td> -->
