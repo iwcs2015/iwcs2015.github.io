@@ -97,8 +97,8 @@ Conference Schedule
    </tr>
    <tr><td>9:30</td>
    <td>10</td>
-   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id1">Regina Barzilay</a></td>
-   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id2">Yoshua Bengio</a></td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id1">Regina Barzilay</a><br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa">(video)</a></td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id2">Yoshua Bengio</a><br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408">(video)</a></td>
    <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id3">Ann Copestake</a></td>
    </tr>
    <tr><td>10</td>
@@ -112,11 +112,11 @@ Conference Schedule
    </tr>
    <tr><td>11</td>
    <td>11:30</td>
-   <td rowspan="3" colspan="2"><a href="#s1">Lexical Semantics</a> (papers 22, 26, 27)</td>
+   <td rowspan="3" colspan="2"><a href="#s1">Lexical Semantics</a><br/>(papers 22, 26, 27)</td>
    <!-- <td>27</td> -->
-   <td rowspan="3" colspan="2"><a href="#s4">Distributional Methods</a> (papers 56, 59, 61)</td>
+   <td rowspan="3" colspan="2"><a href="#s4">Distributional Methods</a><br/>(papers 56, 59, 61)</td>
    <!-- <td>61</td> -->
-   <td rowspan="3" colspan="2"><a href="#s6">Parsing &amp; Grammars</a> (papers 42, 52, 80)</td>
+   <td rowspan="3" colspan="2"><a href="#s6">Parsing &amp; Grammars</a><br/>(papers 42, 52, 80)</td>
    <!-- <td>42</td> -->
    </tr>
    <tr><td>11:30</td>
@@ -144,9 +144,9 @@ Conference Schedule
    </tr>
    <tr><td>1:30</td>
    <td>2</td>
-   <td rowspan="3" colspan="2"><a href="#s5">Reference &amp; Incrementality</a> (papers 34, 38, 53)</td>
+   <td rowspan="3" colspan="2"><a href="#s5">Reference &amp; Incrementality</a><br/>(papers 34, 38, 53)</td>
    <!-- <td>34</td> -->
-   <td rowspan="3" colspan="2"><a href="#s7">Dialogue &amp; Pragmatics</a> (papers 17, 62, 65)</td>
+   <td rowspan="3" colspan="2"><a href="#s7">Dialogue &amp; Pragmatics</a><br/>(papers 17, 62, 65)</td>
    <!-- <td>17</td> -->
    </tr>
    <tr><td>2</td>
@@ -169,13 +169,13 @@ Conference Schedule
    <tr><td>3:30</td>
    <td>4</td>
    <td colspan="2">coffee</td>
-   <td colspan="2" rowspan="5"><a href="/openspace.html">Open Space Event</a> ("unconference")</td>
-   <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a> (papers 23, 82)</td>
+   <td colspan="2" rowspan="5"><a href="/openspace.html">Open Space Event</a><br/>("unconference")</td>
+   <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a><br/>(papers 23, 82)</td>
    <!-- <td>23</td> -->
    </tr>
    <tr><td>4</td>
    <td>4:30</td>
-   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a> (papers 69, 75)</td>
+   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a><br/>(papers 69, 75)</td>
    <!-- <td>69</td> -->
    <!-- <td>82</td> -->
    </tr>
@@ -186,7 +186,7 @@ Conference Schedule
    </tr>
    <tr><td>5</td>
    <td>5:30</td>
-   <td rowspan="2" colspan="2"><a href="#s3">Probabilistic Semantics</a> (papers 63, 71)</td>
+   <td rowspan="2" colspan="2"><a href="#s3">Probabilistic Semantics</a><br/>(papers 63, 71)</td>
    <!-- <td>63</td> -->
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
