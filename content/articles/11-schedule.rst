@@ -91,7 +91,7 @@ Conference Schedule
    <td class="vertical" rowspan="18"><a href="/hackathon.html">Hackathon</a></td>
    <td class="vertical" rowspan="18"><a href="/workshops.html#isa-11-the-11th-joint-acl-iso-workshop-on-interoperable-semantic-annotation">ISO meetings</a></td>
    <td class="vertical" rowspan="8"><a href="/workshops.html">Workshops</a></td>
-   <td colspan="2">registration/intro</td>
+   <td colspan="2">Introduction <a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8e8ff3c2-326b-4931-b38d-1e1e68335577">(video)</a></td>
    <td colspan="2" class="blank">&nbsp;</td>
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
