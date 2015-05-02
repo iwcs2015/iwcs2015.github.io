@@ -31,6 +31,33 @@ The full proceedings are available here online (and also via the `ACL Anthology 
 
 Schedule details are also available in the `conference handbook <static/handbook.pdf>`__.
 
+Recordings
+==========
+
+You can view recordings of the talks, with slides, here via QMUL's Q-Review
+system. Unfortunately a fault meant that Friday's talks have no audio (sorry!
+guess you can still watch the slides ...) but the rest should be OK.
+
+- Wednesday:
+
+  - Keynote: `Regina Barzilay <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa>`__
+  - `Lexical Semantics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/0f607ef9-19d6-4536-8e41-1cae7c7d3619>`__ session
+  - `Discourse & Generation <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/d4683793-e8ae-4811-ac3a-bd2b47ecc32d>`__ session
+  - `Probabilistic Semantics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/df279605-09e0-4650-ae4c-e3f6a90aee58>`__ session
+
+- Thursday:
+
+  - Keynote: `Yoshua Bengio <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408>`__
+  - `Distributional Methods <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/5d8e3134-2556-478e-8346-b8ded868adac>`__ session
+  - `Reference & Incrementality <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/c5b1d6e4-ec75-442d-9147-59f317956f8d>`__ session
+
+- Friday (audio problem, sorry):
+
+  - Keynote: `Ann Copestake <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/bb1bb5e0-d23b-4064-8afe-57ce445ac676>`__
+  - `Parsing & Grammars <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/dfeb3214-aac5-49df-b6ea-c4acfad7722a>`__ session
+  - `Dialogue & Pragmatics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8cbadc72-a839-4d50-bdad-50ce749f9477>`__ session
+  - `Logic & Complexity <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/62a345cf-3da5-4b2e-9a8a-6a93ba93a93e>`__ session
+
 
 Conference Schedule
 ===================
@@ -99,7 +126,7 @@ Conference Schedule
    <td>10</td>
    <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id1">Regina Barzilay</a><br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa">(video)</a></td>
    <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id2">Yoshua Bengio</a><br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408">(video)</a></td>
-   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id3">Ann Copestake</a></td>
+   <td colspan="2" rowspan="2">Keynote: <a href="/speakers.html#id3">Ann Copestake</a><br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/bb1bb5e0-d23b-4064-8afe-57ce445ac676">(video)</a></td>
    </tr>
    <tr><td>10</td>
    <td>10:30</td>
@@ -116,7 +143,7 @@ Conference Schedule
    <!-- <td>27</td> -->
    <td rowspan="3" colspan="2"><a href="#s4">Distributional Methods</a><br/>(papers 56, 59, 61)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/5d8e3134-2556-478e-8346-b8ded868adac">(video)</a></td>
    <!-- <td>61</td> -->
-   <td rowspan="3" colspan="2"><a href="#s6">Parsing &amp; Grammars</a><br/>(papers 42, 52, 80)</td>
+   <td rowspan="3" colspan="2"><a href="#s6">Parsing &amp; Grammars</a><br/>(papers 42, 52, 80)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/dfeb3214-aac5-49df-b6ea-c4acfad7722a">(video)</a></td>
    <!-- <td>42</td> -->
    </tr>
    <tr><td>11:30</td>
@@ -144,9 +171,9 @@ Conference Schedule
    </tr>
    <tr><td>1:30</td>
    <td>2</td>
-   <td rowspan="3" colspan="2"><a href="#s5">Reference &amp; Incrementality</a><br/>(papers 34, 38, 53)</td>
+   <td rowspan="3" colspan="2"><a href="#s5">Reference &amp; Incrementality</a><br/>(papers 34, 38, 53)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/c5b1d6e4-ec75-442d-9147-59f317956f8d">(video)</a></td>
    <!-- <td>34</td> -->
-   <td rowspan="3" colspan="2"><a href="#s7">Dialogue &amp; Pragmatics</a><br/>(papers 17, 62, 65)</td>
+   <td rowspan="3" colspan="2"><a href="#s7">Dialogue &amp; Pragmatics</a><br/>(papers 17, 62, 65)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8cbadc72-a839-4d50-bdad-50ce749f9477">(video)</a></td>
    <!-- <td>17</td> -->
    </tr>
    <tr><td>2</td>
@@ -170,12 +197,12 @@ Conference Schedule
    <td>4</td>
    <td colspan="2">coffee</td>
    <td colspan="2" rowspan="5"><a href="/openspace.html">Open Space Event</a><br/>("unconference")</td>
-   <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a><br/>(papers 23, 82)</td>
+   <td rowspan="2" colspan="2"><a href="#s8">Logic &amp; Complexity</a><br/>(papers 23, 82)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/62a345cf-3da5-4b2e-9a8a-6a93ba93a93e">(video)</a></td>
    <!-- <td>23</td> -->
    </tr>
    <tr><td>4</td>
    <td>4:30</td>
-   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a><br/>(papers 69, 75)</td>
+   <td rowspan="2" colspan="2"><a href="#s2">Discourse &amp; Generation</a><br/>(papers 69, 75)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/d4683793-e8ae-4811-ac3a-bd2b47ecc32d">(video)</a></td>
    <!-- <td>69</td> -->
    <!-- <td>82</td> -->
    </tr>
@@ -186,7 +213,7 @@ Conference Schedule
    </tr>
    <tr><td>5</td>
    <td>5:30</td>
-   <td rowspan="2" colspan="2"><a href="#s3">Probabilistic Semantics</a><br/>(papers 63, 71)</td>
+   <td rowspan="2" colspan="2"><a href="#s3">Probabilistic Semantics</a><br/>(papers 63, 71)<br/><a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/df279605-09e0-4650-ae4c-e3f6a90aee58">(video)</a></td>
    <!-- <td>63</td> -->
    <td colspan="2" class="blank">&nbsp;</td>
    </tr>
