@@ -16,8 +16,36 @@
 &lt;/ul&gt;
 &lt;p&gt;Schedule details are also available in the &lt;a class="reference external" href="static/handbook.pdf"&gt;conference handbook&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
+&lt;div class="section" id="recordings"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Recordings&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;You can view recordings of the talks, with slides, here via QMUL's Q-Review
+system. Unfortunately a fault meant that Friday's talks have no audio (sorry!
+guess you can still watch the slides ...) but the rest should be OK.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Wednesday:&lt;ul&gt;
+&lt;li&gt;Keynote: &lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa"&gt;Regina Barzilay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/0f607ef9-19d6-4536-8e41-1cae7c7d3619"&gt;Lexical Semantics&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/d4683793-e8ae-4811-ac3a-bd2b47ecc32d"&gt;Discourse &amp;amp; Generation&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/df279605-09e0-4650-ae4c-e3f6a90aee58"&gt;Probabilistic Semantics&lt;/a&gt; session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thursday:&lt;ul&gt;
+&lt;li&gt;Keynote: &lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408"&gt;Yoshua Bengio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/5d8e3134-2556-478e-8346-b8ded868adac"&gt;Distributional Methods&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/c5b1d6e4-ec75-442d-9147-59f317956f8d"&gt;Reference &amp;amp; Incrementality&lt;/a&gt; session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Friday (audio problem, sorry):&lt;ul&gt;
+&lt;li&gt;Keynote: &lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/bb1bb5e0-d23b-4064-8afe-57ce445ac676"&gt;Ann Copestake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/dfeb3214-aac5-49df-b6ea-c4acfad7722a"&gt;Parsing &amp;amp; Grammars&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8cbadc72-a839-4d50-bdad-50ce749f9477"&gt;Dialogue &amp;amp; Pragmatics&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/62a345cf-3da5-4b2e-9a8a-6a93ba93a93e"&gt;Logic &amp;amp; Complexity&lt;/a&gt; session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="conference-schedule"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Conference Schedule&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Conference Schedule&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="schedule" width="120%"&gt;
 &lt;!-- &lt;caption&gt;Preliminary Schedule&lt;/caption&gt; --&gt;
 &lt;colgroup&gt;
@@ -80,7 +108,7 @@
 &lt;td&gt;10&lt;/td&gt;
 &lt;td colspan="2" rowspan="2"&gt;Keynote: &lt;a href="/speakers.html#id1"&gt;Regina Barzilay&lt;/a&gt;&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;td colspan="2" rowspan="2"&gt;Keynote: &lt;a href="/speakers.html#id2"&gt;Yoshua Bengio&lt;/a&gt;&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408"&gt;(video)&lt;/a&gt;&lt;/td&gt;
-&lt;td colspan="2" rowspan="2"&gt;Keynote: &lt;a href="/speakers.html#id3"&gt;Ann Copestake&lt;/a&gt;&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;Keynote: &lt;a href="/speakers.html#id3"&gt;Ann Copestake&lt;/a&gt;&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/bb1bb5e0-d23b-4064-8afe-57ce445ac676"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;10:30&lt;/td&gt;
@@ -97,7 +125,7 @@
 &lt;!-- &lt;td&gt;27&lt;/td&gt; --&gt;
 &lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s4"&gt;Distributional Methods&lt;/a&gt;&lt;br/&gt;(papers 56, 59, 61)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/5d8e3134-2556-478e-8346-b8ded868adac"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;61&lt;/td&gt; --&gt;
-&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s6"&gt;Parsing &amp;amp; Grammars&lt;/a&gt;&lt;br/&gt;(papers 42, 52, 80)&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s6"&gt;Parsing &amp;amp; Grammars&lt;/a&gt;&lt;br/&gt;(papers 42, 52, 80)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/dfeb3214-aac5-49df-b6ea-c4acfad7722a"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;42&lt;/td&gt; --&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;11:30&lt;/td&gt;
@@ -125,9 +153,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;1:30&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s5"&gt;Reference &amp;amp; Incrementality&lt;/a&gt;&lt;br/&gt;(papers 34, 38, 53)&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s5"&gt;Reference &amp;amp; Incrementality&lt;/a&gt;&lt;br/&gt;(papers 34, 38, 53)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/c5b1d6e4-ec75-442d-9147-59f317956f8d"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;34&lt;/td&gt; --&gt;
-&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s7"&gt;Dialogue &amp;amp; Pragmatics&lt;/a&gt;&lt;br/&gt;(papers 17, 62, 65)&lt;/td&gt;
+&lt;td colspan="2" rowspan="3"&gt;&lt;a href="#s7"&gt;Dialogue &amp;amp; Pragmatics&lt;/a&gt;&lt;br/&gt;(papers 17, 62, 65)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8cbadc72-a839-4d50-bdad-50ce749f9477"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;17&lt;/td&gt; --&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;2&lt;/td&gt;
@@ -151,12 +179,12 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td colspan="2"&gt;coffee&lt;/td&gt;
 &lt;td colspan="2" rowspan="5"&gt;&lt;a href="/openspace.html"&gt;Open Space Event&lt;/a&gt;&lt;br/&gt;("unconference")&lt;/td&gt;
-&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s8"&gt;Logic &amp;amp; Complexity&lt;/a&gt;&lt;br/&gt;(papers 23, 82)&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s8"&gt;Logic &amp;amp; Complexity&lt;/a&gt;&lt;br/&gt;(papers 23, 82)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/62a345cf-3da5-4b2e-9a8a-6a93ba93a93e"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;23&lt;/td&gt; --&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;4:30&lt;/td&gt;
-&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s2"&gt;Discourse &amp;amp; Generation&lt;/a&gt;&lt;br/&gt;(papers 69, 75)&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s2"&gt;Discourse &amp;amp; Generation&lt;/a&gt;&lt;br/&gt;(papers 69, 75)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/d4683793-e8ae-4811-ac3a-bd2b47ecc32d"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;69&lt;/td&gt; --&gt;
 &lt;!-- &lt;td&gt;82&lt;/td&gt; --&gt;
 &lt;/tr&gt;
@@ -167,7 +195,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;5:30&lt;/td&gt;
-&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s3"&gt;Probabilistic Semantics&lt;/a&gt;&lt;br/&gt;(papers 63, 71)&lt;/td&gt;
+&lt;td colspan="2" rowspan="2"&gt;&lt;a href="#s3"&gt;Probabilistic Semantics&lt;/a&gt;&lt;br/&gt;(papers 63, 71)&lt;br/&gt;&lt;a href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/df279605-09e0-4650-ae4c-e3f6a90aee58"&gt;(video)&lt;/a&gt;&lt;/td&gt;
 &lt;!-- &lt;td&gt;63&lt;/td&gt; --&gt;
 &lt;td class="blank" colspan="2"&gt; &lt;/td&gt;
 &lt;/tr&gt;
@@ -232,7 +260,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="session-paper-details"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Session &amp;amp; Paper Details&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Session &amp;amp; Paper Details&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="schedule" width="120%"&gt;
 &lt;colgroup&gt;
 &lt;col width="15%"&gt;&lt;/col&gt;
@@ -384,7 +412,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="accepted-long-papers"&gt;
-&lt;span id="long"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Accepted Long Papers&lt;/a&gt;&lt;/h2&gt;
+&lt;span id="long"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id6"&gt;Accepted Long Papers&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;List of accepted long papers, with oral presentation:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Pragmatic Rejection&lt;/em&gt;
 &lt;br/&gt; &lt;strong&gt;Julian J. Schlöder and Raquel Fernandez&lt;/strong&gt;&lt;/p&gt;
@@ -434,7 +462,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="accepted-short-papers"&gt;
-&lt;span id="short"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id6"&gt;Accepted Short Papers&lt;/a&gt;&lt;/h2&gt;
+&lt;span id="short"&gt;&lt;/span&gt;&lt;h2&gt;&lt;a class="toc-backref" href="#id7"&gt;Accepted Short Papers&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;List of accepted short papers, with poster and "lightning talk" presentation. A0
 posters should be in the portrait format, A1 and smaller in either portrait or
 landscape.&lt;/p&gt;
