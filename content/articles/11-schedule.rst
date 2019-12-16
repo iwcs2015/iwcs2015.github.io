@@ -40,23 +40,23 @@ guess you can still watch the slides ...) but the rest should be OK.
 
 - Wednesday:
 
-  - Keynote: `Regina Barzilay <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa>`__
-  - `Lexical Semantics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/0f607ef9-19d6-4536-8e41-1cae7c7d3619>`__ session
-  - `Discourse & Generation <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/d4683793-e8ae-4811-ac3a-bd2b47ecc32d>`__ session
-  - `Probabilistic Semantics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/df279605-09e0-4650-ae4c-e3f6a90aee58>`__ session
+  - Keynote: `Regina Barzilay <https://echo360.org.uk/media/72c70c6e-ab87-4bb7-a99d-d6d6a6768105/public>`__
+  - `Lexical Semantics <https://echo360.org.uk/media/afd4c46e-6b7f-44b7-a73c-0b27e25202c5/public>`__ session
+  - `Discourse & Generation <https://echo360.org.uk/media/e62f3e57-977a-46c0-a278-7270c940b48c/public>`__ session
+  - `Probabilistic Semantics <https://echo360.org.uk/media/8a0d5f4e-334e-4bf2-aa8b-af943fedd476/public>`__ session
 
 - Thursday:
 
-  - Keynote: `Yoshua Bengio <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408>`__
-  - `Distributional Methods <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/5d8e3134-2556-478e-8346-b8ded868adac>`__ session
-  - `Reference & Incrementality <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/c5b1d6e4-ec75-442d-9147-59f317956f8d>`__ session
+  - Keynote: `Yoshua Bengio <https://echo360.org.uk/media/7395760b-cb89-4799-b56c-29a52b7f816b/public>`__
+  - `Distributional Methods <https://echo360.org.uk/media/c87db9f8-1783-4c9c-91e2-d49e7c410bc0/public>`__ session
+  - `Reference & Incrementality <https://echo360.org.uk/media/a29458ea-b847-4b42-948d-84a13afcca66/public>`__ session
 
 - Friday (audio problem, sorry):
 
-  - Keynote: `Ann Copestake <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/bb1bb5e0-d23b-4064-8afe-57ce445ac676>`__
-  - `Parsing & Grammars <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/dfeb3214-aac5-49df-b6ea-c4acfad7722a>`__ session
-  - `Dialogue & Pragmatics <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/8cbadc72-a839-4d50-bdad-50ce749f9477>`__ session
-  - `Logic & Complexity <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/62a345cf-3da5-4b2e-9a8a-6a93ba93a93e>`__ session
+  - Keynote: `Ann Copestake <https://echo360.org.uk/media/e2131533-cd09-448c-a751-597fc5c4e9ad/public>`__
+  - `Parsing & Grammars <https://echo360.org.uk/media/fee995ae-6d5c-4905-92ca-ce0019211043/public>`__ session
+  - `Dialogue & Pragmatics <https://echo360.org.uk/media/e109ec6b-1fe0-41a4-9651-eebbb5ce7f31/public>`__ session
+  - `Logic & Complexity <https://echo360.org.uk/media/54ca0eec-5b7a-486f-b02e-94f04f959f61/public>`__ session
 
 
 Conference Schedule
