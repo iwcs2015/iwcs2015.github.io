@@ -15,7 +15,7 @@ Invited Speakers
 
 `Massachusetts Institute of Technology`
 
-**Semantics of Language Grounding** [`Recording online here <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa>`__]
+**Semantics of Language Grounding** [`Recording online here <https://echo360.org.uk/media/72c70c6e-ab87-4bb7-a99d-d6d6a6768105/public>`__]
 
 In this talk, I will address the problem of natural language grounding. We
 assume access to natural language documents that specify the desired behavior of
@@ -42,7 +42,7 @@ the accuracy of natural language understanding.
 `Université de Montréal`
 
 
-**Deep Learning of Semantic Representations** [`Recording online here <https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408>`__]
+**Deep Learning of Semantic Representations** [`Recording online here <https://echo360.org.uk/media/7395760b-cb89-4799-b56c-29a52b7f816b/public>`__]
 
 The core ingredient of deep learning is the notion of distributed
 representation. This talk will start by explaining its theoretical advantages,
@@ -63,7 +63,7 @@ several language pairs, and these results will conclude the talk.
 
 `University of Cambridge`
 
-**Is There Any Logic in Logical Forms?**
+**Is There Any Logic in Logical Forms?** [`Recording online here <https://echo360.org.uk/media/e2131533-cd09-448c-a751-597fc5c4e9ad/public>`__]
 
 Formalising the notion of compositionality in a way that makes it meaningful is
 notoriously complicated. The usual way of formally describing compositional
