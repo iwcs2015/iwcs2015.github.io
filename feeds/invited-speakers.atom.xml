@@ -3,7 +3,7 @@
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://people.csail.mit.edu/regina/"&gt;Regina Barzilay&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;Massachusetts Institute of Technology&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Semantics of Language Grounding&lt;/strong&gt; [&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/37e0ac04-d606-45ee-90ab-00e4825608fa"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Semantics of Language Grounding&lt;/strong&gt; [&lt;a class="reference external" href="https://echo360.org.uk/media/72c70c6e-ab87-4bb7-a99d-d6d6a6768105/public"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;In this talk, I will address the problem of natural language grounding. We
 assume access to natural language documents that specify the desired behavior of
 a control application. Our goal is to generate a program that will perform the
@@ -25,7 +25,7 @@ the accuracy of natural language understanding.&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html"&gt;Yoshua Bengio&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;Université de Montréal&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deep Learning of Semantic Representations&lt;/strong&gt; [&lt;a class="reference external" href="https://ess.q-review.qmul.ac.uk/ess/echo/presentation/f00b0dc1-6c79-4cee-8c1c-98087bfef408"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Learning of Semantic Representations&lt;/strong&gt; [&lt;a class="reference external" href="https://echo360.org.uk/media/7395760b-cb89-4799-b56c-29a52b7f816b/public"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;The core ingredient of deep learning is the notion of distributed
 representation. This talk will start by explaining its theoretical advantages,
 in comparison with non-parametric methods based on counting frequencies of
@@ -42,7 +42,7 @@ several language pairs, and these results will conclude the talk.&lt;/p&gt;
 &lt;div class="section" id="id3"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://www.cl.cam.ac.uk/~aac10/"&gt;Ann Copestake&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;cite&gt;University of Cambridge&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Is There Any Logic in Logical Forms?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is There Any Logic in Logical Forms?&lt;/strong&gt; [&lt;a class="reference external" href="https://echo360.org.uk/media/e2131533-cd09-448c-a751-597fc5c4e9ad/public"&gt;Recording online here&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Formalising the notion of compositionality in a way that makes it meaningful is
 notoriously complicated. The usual way of formally describing compositional
 semantics is via a version of Montague Grammar but, in many ways, MG and its
